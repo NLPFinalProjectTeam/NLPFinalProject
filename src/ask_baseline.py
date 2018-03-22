@@ -8,6 +8,7 @@ import random
 import os.path
 import nltk
 import nltk.data
+from nltk.stem.wordnet import WordNetLemmatizer
 
 ########################### General Info ############################
 
@@ -58,6 +59,112 @@ def split_paragraphs_to_sentences(paragraphs):
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
     return [tokenizer.tokenize(paragraph) for paragraph in paragraphs]
 
+def sentences_to_yesnoquestions_baseline2(sentences):
+    non_target_verb_list = ["am", "is", "are", "was", "were", "can", \
+                        "cannot", "can't", "could", "couldn't", \
+                        "dare", "may", "might", "must", "mustn't", \
+                        "need", "needn't", "ought", "shall", \
+                        "should", "shouldn't", "will", \
+                        "would", "won't"]
+    forward_stop_tag_list = [",", ":", ".", "WRB"]
+    backward_stop_tag_list = [",", ":", "CC", "IN"]
+    title = sentences[0][0].strip("\r\n").lower()
+    keywords = title.split(' ')
+
+    sentences = reduce(lambda x, y: x + y, sentences)
+    questions = []
+    for sentence in sentences:
+        pos_tags = nltk.pos_tag(nltk.word_tokenize(sentence))
+        if pos_tags[-1][0] != '.':
+            if pos_tags[-1][0] == '?':
+                questions.append(sentence)
+            continue
+
+        noun_encountered = False
+        verb_encountered = False
+        have_encountered = False
+        be_encountered = False
+        keyword_encountered = False
+
+        verb_index = -1
+        have_index = -1
+        for i in range(len(pos_tags)):
+            if not verb_encountered and pos_tags[i][0].lower() in keywords:
+                keyword_encountered = True
+                noun_encountered = True
+
+            if pos_tags[i][0].lower() in ["have", "has", "had"]:
+                have_encountered = True
+                have_index = i
+                verb_index = i
+
+            if not verb_encountered and pos_tags[i][0].lower() in ["am", "is", "are", "was", "were"]:
+                be_encountered = True
+
+            if not be_encountered and pos_tags[i][1] == "VBG":
+                continue
+
+            if not verb_encountered \
+            and not have_encountered \
+            and not be_encountered \
+            and pos_tags[i][1].startswith("N"):
+                noun_encountered = True
+
+            if noun_encountered and pos_tags[i][1].startswith('V') and pos_tags[i][0].lower() not in non_target_verb_list:
+                verb_encountered = True
+                verb_index = i
+                break
+
+
+        if verb_index <= 0 or be_encountered or not keyword_encountered:
+            continue
+        
+
+        # TODO: identify important sub-sentence
+        # TODO: captial letter of first word
+        if have_encountered and verb_encountered:
+            begin = have_index - 1
+            while begin >= 0 and pos_tags[begin][1] not in backward_stop_tag_list:
+                begin -= 1
+                
+            end = have_index + 1
+            while end < len(pos_tags) and pos_tags[end][1] not in forward_stop_tag_list:
+                end += 1
+
+            subj = pos_tags[(begin + 1) : have_index]
+            subj = [tag[0] for tag in subj]
+            obj = pos_tags[(have_index + 1) : end]
+            obj = [tag[0] for tag in obj]
+            if subj:
+                subj[0] = subj[0][0].lower() + subj[0][1:] if not pos_tags[begin + 1][1].startswith('N') else subj[0]
+            question = reduce(lambda x, y: x + ' ' + y if y not in ["'s", "'", ")", "%"] and x[-1] not in ["("] else x + y, [pos_tags[have_index][0]] + subj + obj)
+        else:
+            begin = verb_index - 1
+            while begin >= 0 and pos_tags[begin][1] not in backward_stop_tag_list:
+                begin -= 1
+                
+            end = verb_index + 1
+            while end < len(pos_tags) and pos_tags[end][1] not in forward_stop_tag_list:
+                end += 1
+
+            pos_tags[verb_index] = (WordNetLemmatizer().lemmatize(pos_tags[verb_index][0], 'v'), pos_tags[verb_index][1])
+            subsentence = pos_tags[(begin + 1) : end]
+            rest_of_sentence = [tag[0] for tag in subsentence]
+            if rest_of_sentence:
+                rest_of_sentence[0] = rest_of_sentence[0][0].lower() + rest_of_sentence[0][1:] if not pos_tags[begin + 1][1].startswith('N') else rest_of_sentence[0]
+            firstword = ""
+            if pos_tags[verb_index][1] == "VBD" or pos_tags[verb_index][1] == "VBN":
+                firstword = "Did"
+            elif pos_tags[verb_index][1] == "VB" or pos_tags[verb_index][1] == "VBP":
+                firstword = "Do"
+            else:
+                firstword = "Does"
+            question = reduce(lambda x, y: x + ' ' + y if y not in ["'s", "'", ")", "%"] and x[-1] not in ["("] else x + y, [firstword] + rest_of_sentence)
+
+        questions.append(question[0].upper() + question[1:] + "?")
+
+    return questions
+
 
 # A hard-coded rule that generate yes-no questions 
 def sentences_to_yesnoquestions_baseline(sentences):
@@ -101,8 +208,10 @@ def sentences_to_yesnoquestions_baseline(sentences):
         subj = [tag[0] for tag in subj]
         obj = pos_tags[(verb_index + 1) : end]
         obj = [tag[0] for tag in obj]
+        if subj:
+            subj[0] = subj[0][0].lower() + subj[0][1:] if not pos_tags[begin + 1][1].startswith('N') else subj[0]
         if filter(lambda noun: noun.lower() in keywords, subj):
-            question = reduce(lambda x, y: x + ' ' + y if y not in ["'s", "'", ")", "%"] and x[-1] not in ["("] else x + y, [pos_tags[i][0]] + subj + obj)
+            question = reduce(lambda x, y: x + ' ' + y if y not in ["'s", "'", ")", "%"] and x[-1] not in ["("] else x + y, [pos_tags[verb_index][0]] + subj + obj)
             questions.append(question[0].upper() + question[1:] + "?")
 
     return questions
@@ -145,8 +254,9 @@ def main():
     nltk.download('averaged_perceptron_tagger')
     nltk.download('maxent_ne_chunker')
     nltk.download('words')
+    nltk.download('wordnet')
     sentences_in_paragraphs = split_paragraphs_to_sentences(get_paragraphs(article_file_name))
-    questions = get_questions_from_sentences(sentences_in_paragraphs, [sentences_to_yesnoquestions_baseline])
+    questions = get_questions_from_sentences(sentences_in_paragraphs, [sentences_to_yesnoquestions_baseline, sentences_to_yesnoquestions_baseline2])
     if verbose:
         print(questions)
 
