@@ -352,7 +352,7 @@ def main():
     nltk.download('words')
     nltk.download('wordnet')
     sentences_in_paragraphs = split_paragraphs_to_sentences(get_paragraphs(article_file_name))
-    questions = get_questions_from_sentences(sentences_in_paragraphs, [generate_wh_questions])
+    questions = get_questions_from_sentences(sentences_in_paragraphs, [sentences_to_yesnoquestions_baseline, sentences_to_yesnoquestions_baseline2, generate_wh_questions])
     if verbose:
         print(questions)
 
