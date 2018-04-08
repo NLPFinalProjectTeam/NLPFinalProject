@@ -27,6 +27,13 @@ def get_type(q):
 	pass
 
 
+def get_sim(q1, q2):
+	"""
+
+		TODO: similarity matching, use word2vec perhaps.
+	"""
+	return 0
+
 def main(argv):
 
 	psg = argv[1]
@@ -37,16 +44,29 @@ def main(argv):
 	qf = open(question_file, "r")
 	questions = qf.readlines()
 
-	for q in questions:
-		q = q.strip().lower()
+	for question in questions:
+		question = question.strip().lower()
 		qtype = get_type(q)
-		if (q, qtype) in knowledge:
+		if (question, qtype) in knowledge:
 			# Temporarily just print the answer
-			print (knowledge(q, qtype) + "\n")
+			print (knowledge(question, qtype) + "\n")
 			continue
 
-		# similarity matching, use word2vec TODO
-		for tup, ans in 
+		max_sim = -float("inf")
+		for tup, ans in knowledge:
+			q, t = tup[0], tup[1]
+			if qtype != t:
+				continue
+
+			similarity = get_sim(q, question)
+			if similarity > max_sim:
+				max_sim = similarity
+				argmax_ans = ans
+
+		# end for
+		# Temporarily just print the answer
+		print (ans + "\n")
+	# end for
 
 
 
