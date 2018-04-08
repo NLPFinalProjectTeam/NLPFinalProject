@@ -68,6 +68,8 @@ def main(argv):
 		print (ans + "\n")
 	# end for
 
+	qf.close()
+
 
 
 
