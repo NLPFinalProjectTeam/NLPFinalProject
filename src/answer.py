@@ -1,5 +1,6 @@
 
 import os, sys
+import numpy as np
 
 KNOWLEDGE_BASE_PATH = "../knowledge_base/"
 
@@ -44,6 +45,9 @@ def get_sim(q1, q2):
 
 		TODO: similarity matching, use word2vec/sentence2vec perhaps.
 	"""
+
+
+
 	return 0
 
 
@@ -67,12 +71,18 @@ def main(argv):
 	for question in questions:
 		question = question.strip().lower()
 		qtype = get_type(q)
+
+		if qtype == "exception":
+			print (exception_answer(psg) + "\n")
+			continue
+
 		if (question, qtype) in knowledge:
 			# Temporarily just print the answer
 			print (knowledge(question, qtype) + "\n")
 			continue
 
 		max_sim = -float("inf")
+		argmax_ans = None
 		for tup, ans in knowledge:
 			q, t = tup[0], tup[1]
 			if qtype != t:
@@ -85,7 +95,10 @@ def main(argv):
 
 		# end for
 		# Temporarily just print the answer
-		print (ans + "\n")
+		if argmax_ans == None:
+			argmax_ans = exception_answer(psg)
+
+		print (argmax_ans + "\n")
 	# end for
 
 	qf.close()
