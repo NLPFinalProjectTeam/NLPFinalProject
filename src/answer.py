@@ -24,15 +24,35 @@ def get_type(q):
 		TODO: use heuristics to get question type.
 
 	"""
-	pass
+	q = q.strip().lower()
+	if q[0] == "what":
+		return "what"
+	elif q[0] == "how":
+		return "how"
+	elif q[0] == "who":
+		return "who"
+	elif q[0] in ["is", "was", "are", "were", "am", "does", "do", "did"]:
+		return "yes_no"
+	
+
+
+	return "exception"
 
 
 def get_sim(q1, q2):
 	"""
 
-		TODO: similarity matching, use word2vec perhaps.
+		TODO: similarity matching, use word2vec/sentence2vec perhaps.
 	"""
 	return 0
+
+
+
+def exception_answer(psg):
+	"""
+		TODO: when exception occurs, call this function.
+	"""
+	return # The title of the passage
 
 def main(argv):
 
