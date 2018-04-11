@@ -34,6 +34,8 @@ def get_type(q):
 		return "who"
 	elif q[0] in ["is", "was", "are", "were", "am", "does", "do", "did"]:
 		return "yes_no"
+	elif q[0] == "why":
+		return "why"
 	
 
 
