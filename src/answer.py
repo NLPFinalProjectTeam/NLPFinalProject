@@ -46,11 +46,18 @@ def get_sim(q1, q2):
 	"""
 
 		TODO: similarity matching, use word2vec/sentence2vec perhaps.
+
+		For now, a simple jaccard is used.
+
+
+		In final version, will use more advanced methods
 	"""
+	q1 = set(q1.strip().lower().split())
+	q2 = set(q2.strip().lower().split())
+	intersect = q1.intersection(b)
 
 
-
-	return 0
+	return float(len(intersect)) / (len(q1) + len(q2) - len(intersect))
 
 
 
