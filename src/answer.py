@@ -66,6 +66,8 @@ def exception_answer(psg):
 		TODO: when exception occurs, call this function.
 
 		Now, temporary return the title of the passage.
+
+		Maybe should add an attribute of question type.
 	"""
 	f = open("/data/psg", "r")
 	title = f.readlines[0].strip()
