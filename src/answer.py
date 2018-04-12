@@ -11,7 +11,7 @@ def load_knowledge(psg):
 		f = open(os.path.join(KNOWLEDGE_BASE_PATH, psg), "r")
 	except FileNotFoundError:
 		return knowledge
-		
+
 	lines = f.readlines()
 
 	for line in lines:
@@ -36,7 +36,9 @@ def get_type(q):
 		return "how"
 	elif q[0] == "who":
 		return "who"
-	elif q[0] in ["is", "was", "are", "were", "am", "does", "do", "did"]:
+	elif q[0] in ["is", "was", "are", "were", "am", "does", 
+				"do", "did", "didn't", "isn't", "aren't",
+				"weren't", "don't", "wasn't"]:
 		return "yes_no"
 	elif q[0] == "why":
 		return "why"
@@ -92,12 +94,12 @@ def main(argv):
 		qtype = get_type(q)
 
 		if qtype == "exception":
-			print (exception_answer(psg) + "\n")
+			print exception_answer(psg)
 			continue
 
 		if (question, qtype) in knowledge:
 			# Temporarily just print the answer
-			print (knowledge(question, qtype) + "\n")
+			print knowledge(question, qtype)
 			continue
 
 		max_sim = -float("inf")
@@ -117,7 +119,7 @@ def main(argv):
 		if argmax_ans == None:
 			argmax_ans = exception_answer(psg)
 
-		print (argmax_ans + "\n")
+		print argmax_ans
 	# end for
 
 	qf.close()
