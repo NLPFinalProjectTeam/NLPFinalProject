@@ -7,7 +7,7 @@ KNOWLEDGE_BASE_PATH = "../knowledge_base/"
 
 def load_knowledge(psg):
 	knowledge = {}
-	f = open(KNOWLEDGE_BASE_PATH + psg, "r")
+	f = open(os.path.join(KNOWLEDGE_BASE_PATH, psg), "r")
 	lines = f.readlines()
 
 	for line in lines:
