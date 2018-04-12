@@ -7,7 +7,11 @@ KNOWLEDGE_BASE_PATH = "../knowledge_base/"
 
 def load_knowledge(psg):
 	knowledge = {}
-	f = open(os.path.join(KNOWLEDGE_BASE_PATH, psg), "r")
+	try:
+		f = open(os.path.join(KNOWLEDGE_BASE_PATH, psg), "r")
+	except FileNotFoundError:
+		return knowledge
+		
 	lines = f.readlines()
 
 	for line in lines:
