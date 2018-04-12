@@ -69,7 +69,7 @@ def exception_answer(psg):
 
 		Maybe should add an attribute of question type.
 	"""
-	f = open("/data/"+psg, "r")
+	f = open(os.path.join("../data", psg), "r")
 	title = f.readlines[0].strip()
 	return title
 
