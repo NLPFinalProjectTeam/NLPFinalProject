@@ -6,6 +6,6 @@ This project is based on Python3, implemented basic question generation and ques
 1. Usage:    
 ./ask article.txt num_questions   
 ./answer article.txt questions.txt  
-You must run ask first then run answer in case of possible errors.
+You must run ask first then run answer in case of possible errors. The valid files are ask.py and answer.py.
 2. Path and directory:
 questions.txt and article.txt must be put in the same directory as the ask and answer file.
