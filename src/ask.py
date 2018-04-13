@@ -475,4 +475,6 @@ def main():
 
 
 if __name__ == "__main__":
+    if not os.path.exists('../knowledge_base'):
+        os.mkdir('../knowledge_base')
     main()
