@@ -4,7 +4,6 @@ This project is based on Python3, implemented basic question generation and ques
 
 # Instructions
 1. Usage:    
-
 ./ask article.txt num_questions   
 ./answer article.txt questions.txt  
 You must run ask first then run answer in case of possible errors.
