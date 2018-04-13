@@ -14,9 +14,9 @@ from functools import *
 from nltk.parse.stanford import StanfordDependencyParser
 
 word_lem = WordNetLemmatizer()
-path_to_jar = '../lib/parser/stanford-parser.jar'
-path_to_models = '../lib/parser/stanford-parser-3.9.1-models.jar'
-depend = StanfordDependencyParser(path_to_jar=path_to_jar, path_to_models_jar=path_to_models)
+# path_to_jar = '../lib/parser/stanford-parser.jar'
+# path_to_models = '../lib/parser/stanford-parser-3.9.1-models.jar'
+# depend = StanfordDependencyParser(path_to_jar=path_to_jar, path_to_models_jar=path_to_models)
 
 
 ########################### General Info ############################
@@ -69,7 +69,7 @@ def split_paragraphs_to_sentences(paragraphs):
     return [tokenizer.tokenize(paragraph) for paragraph in paragraphs]
 
 
-def generate_wh_questionByStandfordNLP(sentences, depend=depend):
+def generate_wh_questionByStandfordNLP(sentences, depend):
     title = sentences[0][0].strip("\r\n").lower()
     # print('title:',title)
     keywords = title.split(' ')
