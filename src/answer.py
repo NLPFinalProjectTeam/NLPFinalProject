@@ -74,7 +74,7 @@ def exception_answer(psg):
 
         Maybe should add an attribute of question type.
     """
-    f = codecs.open(os.path.join("../data", psg), encoding="utf-8")
+    f = codecs.open(psg, encoding="utf-8")
     title = f.readlines()[0].strip()
     return title
 

@@ -11,6 +11,7 @@ import nltk.data
 from nltk import ne_chunk, tree2conlltags
 from nltk.stem.wordnet import WordNetLemmatizer
 from functools import *
+import codecs
 from nltk.parse.stanford import StanfordDependencyParser
 
 word_lem = WordNetLemmatizer()
@@ -55,7 +56,7 @@ word_lem = WordNetLemmatizer()
 # sentences of one paragraph
 def get_paragraphs(article_file_name):
     paragraphs = []
-    with io.open(article_file_name, 'r', encoding='utf-8') \
+    with codecs.open(article_file_name, 'r', encoding='utf-8') \
             as article:
         for line in article:
             paragraph = line.strip("\r\n")
@@ -266,7 +267,7 @@ def sentences_to_yesnoquestions_baseline2(sentences):
         pos_tags = nltk.pos_tag(nltk.word_tokenize(sentence))
         if pos_tags[-1][0] != '.':
             if pos_tags[-1][0] == '?':
-                questions.append(sentence)
+                questions.append('YN\t' + sentence+ '\t' + 'Yes')
             continue
 
         noun_encountered = False
@@ -354,9 +355,7 @@ def sentences_to_yesnoquestions_baseline2(sentences):
             question = reduce(
                 lambda x, y: x + ' ' + y if y not in ["'s", "'", ")", "%"] and x[-1] not in ["("] else x + y,
                 [firstword] + rest_of_sentence)
-
         questions.append('YN\t' + question[0].upper() + question[1:] + "?" + '\t' + 'Yes')
-
     return questions
 
 
@@ -409,7 +408,6 @@ def sentences_to_yesnoquestions_baseline(sentences):
                 lambda x, y: x + ' ' + y if y not in ["'s", "'", ")", "%"] and x[-1] not in ["("] else x + y,
                 [pos_tags[verb_index][0]] + subj + obj)
             questions.append('YN\t' + question[0].upper() + question[1:] + "?" + '\t' + 'Yes')
-
     return questions
 
 
@@ -454,7 +452,7 @@ def main():
     questions = get_questions_from_sentences(sentences_in_paragraphs, [sentences_to_yesnoquestions_baseline,
                                                                        sentences_to_yesnoquestions_baseline2,
                                                                        generate_wh_questions])
-    # questions = get_questions_from_sentences(sentences_in_paragraphs,[generate_wh_question2])
+    #questions = get_questions_from_sentences(sentences_in_paragraphs,[generate_wh_questionByStandfordNLP])
     if verbose:
         print(questions)
 
@@ -465,9 +463,13 @@ def main():
     allq = '\n'.join(questions)
     output_question = []
     for question_pair in questions:
-        q = question_pair.strip().split('\t')[1]
+        q = question_pair.strip().split('\t')
+        if len(q)>1:
+            q=q[1]
+        else:
+            continue
         output_question.append(q)
-    with open(newpath, 'w') as f:
+    with codecs.open(newpath, 'w','utf-8') as f:
         f.write(allq)
     print("\n".join(output_question[0:num_questions]))
 
