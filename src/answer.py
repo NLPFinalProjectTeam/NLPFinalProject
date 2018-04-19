@@ -2,6 +2,7 @@
 import os, sys
 import numpy as np
 import codecs
+import string
 
 KNOWLEDGE_BASE_PATH = "../knowledge_base/"
 
@@ -92,12 +93,12 @@ def main(argv):
 	knowledge = load_knowledge(psg)
 
 	#print knowledge
-
+	translator = str.maketrans('', '', string.punctuation)
 	qf = codecs.open(question_file, encoding="utf-8")
 	#questions = qf.readlines()
 
 	for question in qf:
-		question = question.strip().lower().rstrip('?:!.,;')
+		question = question.strip().lower().translate(translator)
 		qtype = get_type(question)
 
 		#print qtype
