@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function
@@ -11,6 +11,13 @@ import nltk.data
 from nltk import ne_chunk, tree2conlltags
 from nltk.stem.wordnet import WordNetLemmatizer
 from functools import *
+import codecs
+from nltk.parse.stanford import StanfordDependencyParser
+
+word_lem = WordNetLemmatizer()
+# path_to_jar = '../lib/parser/stanford-parser.jar'
+# path_to_models = '../lib/parser/stanford-parser-3.9.1-models.jar'
+# depend = StanfordDependencyParser(path_to_jar=path_to_jar, path_to_models_jar=path_to_models)
 
 
 ########################### General Info ############################
@@ -49,7 +56,7 @@ from functools import *
 # sentences of one paragraph
 def get_paragraphs(article_file_name):
     paragraphs = []
-    with io.open(article_file_name, 'r', encoding='utf-8') \
+    with codecs.open(article_file_name, 'r', encoding='utf-8') \
             as article:
         for line in article:
             paragraph = line.strip("\r\n")
@@ -63,6 +70,86 @@ def split_paragraphs_to_sentences(paragraphs):
     return [tokenizer.tokenize(paragraph) for paragraph in paragraphs]
 
 
+def generate_wh_questionByStandfordNLP(sentences, depend):
+    title = sentences[0][0].strip("\r\n").lower()
+    # print('title:',title)
+    keywords = title.split(' ')
+    sentences = reduce(lambda x, y: x + y, sentences)
+    questions = []
+    for s in sentences[1:]:
+        pos_tags = nltk.pos_tag(nltk.word_tokenize(s))
+        try:
+            ners = tree2conlltags(ne_chunk(pos_tags))
+        except:
+            continue
+        words = [word[0] for word in ners]
+        result = depend.raw_parse(s).__next__()
+        triples = list(result.triples())
+        sub = None
+        for later, mid, front in triples:
+            if mid == 'nsubj':
+                # generate who
+                try:
+                    idx = words.index(front[0])
+                except:
+                    continue
+                sub = front[0]
+                ques = 'Who ' + ' '.join(words[idx + 1:-1]) + ' ?'
+                type = 'WHO'
+                answer = ' '.join(words[:idx + 1])
+                answer = answer[0].upper() + answer[1:]
+                print('who q', ques)
+                questions.append(type + '\t' + ques + '\t' + answer)
+            if mid == 'dobj':
+                if sub == None:
+                    continue
+                try:
+                    obj_idx = words.index(front[0])
+                    verb_idx = words.index(later[0])
+                except:
+                    continue
+                verb_tag = ners[verb_idx][1]
+                what = False
+                where = False
+                if 'GPE' in ners[obj_idx][2] or 'LOC' in ners[obj_idx][2]:
+                    where = True
+                else:
+                    what = True
+                if what:
+                    type = 'WHAT'
+                    begin_word = 'What'
+                else:
+                    type = 'WHERE'
+                    begin_word = 'Where'
+
+                if verb_tag == 'VBD':
+                    aux_verb = 'did'
+                    true_verb = word_lem.lemmatize(later[0])
+                elif verb_tag == 'VBZ':
+                    aux_verb = 'does'
+                    true_verb = word_lem.lemmatize(later[0])
+                elif verb_tag in ('VB', 'VBP'):
+                    aux_verb = 'do'
+                    true_verb = word_lem.lemmatize(later[0])
+                else:
+                    find = False
+                    for l1, m1, f1 in triples:
+                        if m1 == 'aux':
+                            find = True
+                            aux_verb = f1[0]
+                            true_verb = l1[0]
+                            break
+                    if not find:
+                        continue
+                ques = begin_word + ' ' + aux_verb + ' ' + sub + " " + true_verb + ' ?'
+                answer = ' '.join(words[verb_idx + 1:])
+                answer = answer[0].upper() + answer[1:]
+                questions.append(type + '\t' + ques + '\t' + answer)
+    return list(set(questions))
+
+    pass
+
+
 def generate_wh_questions(sentences):
     target_verb_list = ["am", "is", "are", "was", "were", "can", \
                         "cannot", "can't", "could", "couldn't", \
@@ -72,7 +159,9 @@ def generate_wh_questions(sentences):
                         "would", "won't"]
     forward_stop_tag_list = [",", ":", ".", "WRB"]
     backward_stop_tag_list = [",", ":", "CC", "IN"]
+    # print('sentence:',sentences)
     title = sentences[0][0].strip("\r\n").lower()
+    # print('title:',title)
     keywords = title.split(' ')
 
     sentences = reduce(lambda x, y: x + y, sentences)
@@ -111,8 +200,6 @@ def generate_wh_questions(sentences):
                 who = begin
                 whof = True
             begin -= 1
-        if begin == -1:
-            continue
         if who == None:
             continue
         end = verb_index + 1
@@ -180,7 +267,7 @@ def sentences_to_yesnoquestions_baseline2(sentences):
         pos_tags = nltk.pos_tag(nltk.word_tokenize(sentence))
         if pos_tags[-1][0] != '.':
             if pos_tags[-1][0] == '?':
-                questions.append(sentence)
+                questions.append('YN\t' + sentence+ '\t' + 'Yes')
             continue
 
         noun_encountered = False
@@ -252,12 +339,12 @@ def sentences_to_yesnoquestions_baseline2(sentences):
                 end += 1
 
             pos_tags[verb_index] = (
-            WordNetLemmatizer().lemmatize(pos_tags[verb_index][0], 'v'), pos_tags[verb_index][1])
+                WordNetLemmatizer().lemmatize(pos_tags[verb_index][0], 'v'), pos_tags[verb_index][1])
             subsentence = pos_tags[(begin + 1): end]
             rest_of_sentence = [tag[0] for tag in subsentence]
             if rest_of_sentence:
                 rest_of_sentence[0] = rest_of_sentence[0][0].lower() + rest_of_sentence[0][1:] if not \
-                pos_tags[begin + 1][1].startswith('N') else rest_of_sentence[0]
+                    pos_tags[begin + 1][1].startswith('N') else rest_of_sentence[0]
             firstword = ""
             if pos_tags[verb_index][1] == "VBD" or pos_tags[verb_index][1] == "VBN":
                 firstword = "Did"
@@ -268,9 +355,7 @@ def sentences_to_yesnoquestions_baseline2(sentences):
             question = reduce(
                 lambda x, y: x + ' ' + y if y not in ["'s", "'", ")", "%"] and x[-1] not in ["("] else x + y,
                 [firstword] + rest_of_sentence)
-
         questions.append('YN\t' + question[0].upper() + question[1:] + "?" + '\t' + 'Yes')
-
     return questions
 
 
@@ -323,7 +408,6 @@ def sentences_to_yesnoquestions_baseline(sentences):
                 lambda x, y: x + ' ' + y if y not in ["'s", "'", ")", "%"] and x[-1] not in ["("] else x + y,
                 [pos_tags[verb_index][0]] + subj + obj)
             questions.append('YN\t' + question[0].upper() + question[1:] + "?" + '\t' + 'Yes')
-
     return questions
 
 
@@ -346,7 +430,7 @@ def main():
         return
     article_file_name = sys.argv[1]
     num_questions = sys.argv[2]
-    verbose = True
+    verbose = False
     if len(sys.argv) == 4 and sys.argv[3].lower() == "v":
         verbose = True
     if (not num_questions.isdigit()) or int(num_questions) <= 0:
@@ -368,18 +452,29 @@ def main():
     questions = get_questions_from_sentences(sentences_in_paragraphs, [sentences_to_yesnoquestions_baseline,
                                                                        sentences_to_yesnoquestions_baseline2,
                                                                        generate_wh_questions])
+    #questions = get_questions_from_sentences(sentences_in_paragraphs,[generate_wh_questionByStandfordNLP])
     if verbose:
         print(questions)
 
     # Shuffle and print: don't use this
     questions = list(filter(lambda q: len(q.split(' ')) < 30 and len(q.split(' ')) > 5, questions))
     random.shuffle(questions)
-    newpath='generate_'+article_file_name
+    newpath = '../knowledge_base/generate_' + article_file_name
     allq = '\n'.join(questions)
-    with open(newpath,'w') as f:
+    output_question = []
+    for question_pair in questions:
+        q = question_pair.strip().split('\t')
+        if len(q)>1:
+            q=q[1]
+        else:
+            continue
+        output_question.append(q)
+    with codecs.open(newpath, 'w','utf-8') as f:
         f.write(allq)
-    print("\n".join(questions[0:num_questions]))
+    print("\n".join(output_question[0:num_questions]))
 
 
 if __name__ == "__main__":
+    if not os.path.exists('../knowledge_base'):
+        os.mkdir('../knowledge_base')
     main()
