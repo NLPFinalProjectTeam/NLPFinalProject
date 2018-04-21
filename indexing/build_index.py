@@ -4,19 +4,29 @@ import sys, os, nltk, codecs
 
 def segment_into_sentences(path):
 	"""
-		Example input: 'set1/a1.txt'
+		Example input: 'set1/a1.txt' or 'a1.txt'
 	
 	"""
-	set_num, txt_num = path.strip().split("/")
-	sent_set_dir = os.path.join("../sentences/", set_num)
-	if not os.path.isdir(sent_set_dir):
-		os.mkdir(sent_set_dir)
+	if "/" in path:
+		set_num, txt_num = path.strip().split("/")
+		sent_set_dir = os.path.join("../sentences/", set_num)
+		if not os.path.isdir(sent_set_dir):
+			os.mkdir(sent_set_dir)
 
-	doc_dir = os.path.join(sent_set_dir, txt_num[:-4])
-	if not os.path.isdir(doc_dir):
-		os.mkdir(doc_dir)
+		doc_dir = os.path.join(sent_set_dir, txt_num[:-4])
+		if not os.path.isdir(doc_dir):
+			os.mkdir(doc_dir)
 
-	f = codecs.open(os.path.join("../data/", path), encoding="utf-8", errors="replace")
+		fname = os.path.join("../data/", path)
+
+	else:
+		doc_dir = os.path.join("../sentences/", path[:-4])
+		if not os.path.isdir(doc_dir):
+			os.mkdir(doc_dir)
+
+		fname = os.path.join("../src/", path)
+
+	f = codecs.open(fname, encoding="utf-8", errors="replace")
 	lines = f.readlines()
 	f.close()
 
@@ -37,18 +47,25 @@ def build_index(path):
 		Example input: 'set1/a1.txt'
 	
 	"""
-	set_num, txt_num = path.strip().split("/")
+
 	sent_set_dir = os.path.join("../sentences/", path[:-4])
-	index_set_dir = os.path.join("../index/", set_num)
 	if not os.path.isdir(sent_set_dir):
 		segment_into_sentences(path)
 
-	if not os.path.isdir(index_set_dir):
-		os.mkdir(index_set_dir)
+	if "/" in path:
+		set_num, txt_num = path.strip().split("/")
+		index_set_dir = os.path.join("../index/", set_num)
+		if not os.path.isdir(index_set_dir):
+			os.mkdir(index_set_dir)
 
-	index_dir = os.path.join(index_set_dir, txt_num[:-4])
-	if not os.path.isdir(index_dir):
-		os.mkdir(index_dir)
+		index_dir = os.path.join(index_set_dir, txt_num[:-4])
+		if not os.path.isdir(index_dir):
+			os.mkdir(index_dir)
+
+	else:
+		index_dir = os.path.join("../index/", path[:-4])
+		if not os.path.isdir(index_dir):
+			os.mkdir(index_dir)
 
 	cmd = 'java -cp ".:lucene-6.6.0/*" MyIndexer %s %s' % (sent_set_dir, index_dir)
 	os.system(cmd)

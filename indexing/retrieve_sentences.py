@@ -21,11 +21,16 @@ def retrieve(path, query, num_of_sent):
 	result = []
 	f = codecs.open(temp_file, encoding="utf-8", errors="replace")
 	lines = f.readlines()
-	while i < num_of_sent * 2:
+	i = 0
+	while i < num_of_sent * 2 and i < len(lines) - 1:
 		score = float(lines[i].strip())
 		sent = lines[i+1].strip()
+		result.append((score, sent))
+		i += 2
+
+	return result
 
 
 
 if __name__ == '__main__':
-	retrieve("set1/a1.txt", "who is dempsey?", 6)
+	print (retrieve("a2.txt", "unlike his father?", 5))
