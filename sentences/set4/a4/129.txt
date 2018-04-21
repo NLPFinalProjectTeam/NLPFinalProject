@@ -1,0 +1,1 @@
+Earth observations were used very early in the program to generate flat-fields for the WFPC1 instrument.

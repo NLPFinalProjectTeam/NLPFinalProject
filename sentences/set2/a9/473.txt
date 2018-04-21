@@ -1,0 +1,1 @@
+    {\displaystyle a={\frac {u^{2}}{v}}+v,\ \ b={\frac {u^{2}}{w}}+w,\ \ c={\frac {u^{2}}{v}}+{\frac {u^{2}}{w}}-(v+w)}

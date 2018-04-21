@@ -1,0 +1,1 @@
+The bricks were then designed to be of the shape of the constituent rectangle and the layer was created.

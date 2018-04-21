@@ -1,0 +1,1 @@
+One proposed refinement to avoid this would-be singularity is to develop a correct treatment of quantum gravity.

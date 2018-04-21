@@ -1,0 +1,1 @@
+NICMOS contained a heat sink of solid nitrogen to reduce the thermal noise from the instrument, but shortly after it was installed, an unexpected thermal expansion resulted in part of the heat sink coming into contact with an optical baffle.

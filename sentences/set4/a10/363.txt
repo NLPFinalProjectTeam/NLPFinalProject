@@ -1,0 +1,1 @@
+Models including the Hartle–Hawking no-boundary condition, in which the whole of space-time is finite; the Big Bang does represent the limit of time but without any singularity.

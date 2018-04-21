@@ -1,0 +1,1 @@
+    {\displaystyle {\begin{aligned}&x+y=a,\ x-y=b,\ xy=c,x^{2}+y^{2}=d,\\[8pt]&x^{2}-y^{2}=e,\ x^{3}+y^{3}=f,\ x^{3}-y^{3}=g\end{aligned}}}

@@ -1,0 +1,1 @@
+There are further contingency plans for observations with just one gyro, but if all gyros fail, continued scientific observations will not be possible.

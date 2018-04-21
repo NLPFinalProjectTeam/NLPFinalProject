@@ -1,0 +1,1 @@
+The two initial, primary computers on the HST were the 1.25 MHz DF-224 system, built by Rockwell Autonetics, which contained three redundant CPUs, and two redundant NSSC-1 (NASA Standard Spacecraft Computer, Model 1) systems, developed by Westinghouse and GSFC using diode–transistor logic (DTL).

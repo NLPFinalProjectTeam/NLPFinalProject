@@ -1,0 +1,1 @@
+The instrument contained eight charge-coupled device (CCD) chips divided between two cameras, each using four CCDs.

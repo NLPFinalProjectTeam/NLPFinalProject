@@ -1,0 +1,1 @@
+Each CCD has a resolution of 0.64 megapixels.

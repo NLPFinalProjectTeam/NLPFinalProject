@@ -1,0 +1,1 @@
+Additionally, some of the science instruments and components had their own embedded microprocessor-based control systems.

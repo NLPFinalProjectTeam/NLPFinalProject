@@ -1,0 +1,1 @@
+These types are all the possible pairs of equations of the following seven forms:

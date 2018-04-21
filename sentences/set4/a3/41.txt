@@ -1,0 +1,1 @@
+Polaris' mean position (taking account of precession and proper motion) will reach a maximum declination of +89°32'23", which translates to 1657" (or 0.4603°) from the celestial north pole, in February 2102.

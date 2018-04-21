@@ -1,0 +1,1 @@
+Both systems make use of internal and external concepts.

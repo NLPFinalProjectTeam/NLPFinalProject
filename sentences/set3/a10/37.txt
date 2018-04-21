@@ -1,0 +1,1 @@
+Using Body Slam, it jumps up when it appears and slams whomever it hits.

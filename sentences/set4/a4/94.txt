@@ -1,0 +1,1 @@
+A co-processor for the DF-224 was added during Servicing Mission 1 in 1993, which consisted of two redundant strings of an Intel-based 80386 processor with an 80387 math co-processor.

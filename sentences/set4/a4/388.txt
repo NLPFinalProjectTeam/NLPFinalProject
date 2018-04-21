@@ -1,0 +1,1 @@
+All data in the archive is in the FITS format, which is suitable for astronomical analysis but not for public use.

@@ -1,0 +1,1 @@
+More recently, as discussed in the above section, the infinite series of calculus for trigonometric functions (rediscovered by Gregory, Taylor, and Maclaurin in the late 17th century) were described (with proofs and formulas for truncation error) in India, by mathematicians of the Kerala school, remarkably some two centuries earlier.

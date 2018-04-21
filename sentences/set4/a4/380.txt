@@ -1,0 +1,1 @@
+Color images are created by combining separate monochrome images taken through different filters.

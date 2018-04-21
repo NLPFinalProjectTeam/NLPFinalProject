@@ -1,0 +1,1 @@
+    {\displaystyle x={\frac {{\sqrt {4ac+b^{2}}}-b}{2a}}}

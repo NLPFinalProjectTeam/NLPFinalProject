@@ -1,0 +1,1 @@
+It was built by NASA's Jet Propulsion Laboratory, and incorporated a set of 48 filters isolating spectral lines of particular astrophysical interest.

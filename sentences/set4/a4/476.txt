@@ -1,0 +1,1 @@
+Existing ground-based telescopes, and various proposed Extremely Large Telescopes, can exceed the HST in terms of sheer light-gathering power and diffraction limit due to larger mirrors, but other factors affect telescopes.

@@ -1,0 +1,1 @@
+Manipulation of error term to derive a faster converging series for

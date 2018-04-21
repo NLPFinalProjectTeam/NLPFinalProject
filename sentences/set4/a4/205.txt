@@ -1,0 +1,1 @@
+The same number was also derived by analyzing the null corrector used by Perkin-Elmer to figure the mirror, as well as by analyzing interferograms obtained during ground testing of the mirror.

@@ -1,0 +1,1 @@
+An exact limit to the size it can grow to in this manner is unknown.

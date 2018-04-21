@@ -1,0 +1,1 @@
+Contains the trigonometric formula sin(n + 1)x − sin nx = sin nx − sin(n − 1)x − (1/225)sin nx.

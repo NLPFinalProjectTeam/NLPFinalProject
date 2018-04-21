@@ -1,0 +1,1 @@
+A new power supply for the wide angle channel was added during SM 4, but quick tests revealed this did not help the high resolution channel.

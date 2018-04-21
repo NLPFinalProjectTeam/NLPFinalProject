@@ -1,0 +1,1 @@
+Although JWST is primarily an infrared instrument, its coverage extends down to 600 nm wavelength light, or roughly orange in the visible spectrum.

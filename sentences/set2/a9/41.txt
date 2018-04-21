@@ -1,0 +1,1 @@
+They contain lists of Pythagorean triples, which are particular cases of Diophantine equations.

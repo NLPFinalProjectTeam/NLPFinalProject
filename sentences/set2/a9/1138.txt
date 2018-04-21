@@ -1,0 +1,1 @@
+where, for r = 1, the series reduces to the standard power series for these trigonometric functions, for example:

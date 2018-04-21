@@ -1,0 +1,1 @@
+Astronomical data taken with CCDs must undergo several calibration steps before they are suitable for astronomical analysis.

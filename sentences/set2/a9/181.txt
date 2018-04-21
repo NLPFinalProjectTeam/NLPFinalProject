@@ -1,0 +1,1 @@
+word1word2, wordN − 1wordN; word2word3, wordN − 3wordN − 2; ..; wordN − 1wordN, word1word2;

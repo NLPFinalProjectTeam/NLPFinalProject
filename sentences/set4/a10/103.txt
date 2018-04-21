@@ -1,0 +1,1 @@
+The points, which can be galaxies, stars, or other objects, are themselves specified using a coordinate chart or "grid" that is laid down over all spacetime.

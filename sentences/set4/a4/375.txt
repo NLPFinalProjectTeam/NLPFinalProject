@@ -1,0 +1,1 @@
+About twice daily, the Hubble Space Telescope radios data to a satellite in the geosynchronous Tracking and Data Relay Satellite System (TDRSS), which then downlinks the science data to one of two 60-foot (18-meter) diameter high-gain microwave antennas located at the White Sands Test Facility in White Sands, New Mexico.

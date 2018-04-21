@@ -1,0 +1,1 @@
+The Trainer has a Squirtle and an Ivysaur, all three of which can be switched between; unlike the other fighters, these Pokémon become fatigued and consequently weaker, and must be switched out long enough to recover.

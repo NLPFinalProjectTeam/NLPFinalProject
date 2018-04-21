@@ -1,0 +1,1 @@
+A rational approximation of the sine function.

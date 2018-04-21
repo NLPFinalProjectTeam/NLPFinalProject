@@ -1,0 +1,1 @@
+This ensured that the mirror's final shape would be correct and to specification when finally deployed.

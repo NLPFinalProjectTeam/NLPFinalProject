@@ -1,0 +1,1 @@
+A semi-rigorous (see remark on limits above) method of differentiation of some trigonometric functions.

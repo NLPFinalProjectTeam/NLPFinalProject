@@ -1,0 +1,1 @@
+Defined the sine (jya) as the modern relationship between half an angle and half a chord.

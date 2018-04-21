@@ -1,0 +1,1 @@
+This design, with two hyperbolic mirrors, is known for good imaging performance over a wide field of view, with the disadvantage that the mirrors have shapes that are hard to fabricate and test.

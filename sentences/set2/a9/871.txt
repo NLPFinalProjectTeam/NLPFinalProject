@@ -1,0 +1,1 @@
+The general indeterminate quadratic equation using the chakravala method.

@@ -1,0 +1,1 @@
+Before the launch of X-ray-observing satellites, such as the Chandra X-ray Observatory, X-ray observations generally had quite low angular resolution, but when the Moon passes in front of the nebula, its position is very accurately known, and so the variations in the nebula's brightness can be used to create maps of X-ray emission.

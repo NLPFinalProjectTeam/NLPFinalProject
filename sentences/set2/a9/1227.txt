@@ -1,0 +1,1 @@
+  , (for n odd, and i = 1, 2, 3) for the series:

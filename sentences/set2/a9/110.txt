@@ -1,0 +1,1 @@
+Beginning at half the square, draw two other similar squares below it; below these two, three other squares, and so on.

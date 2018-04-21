@@ -1,0 +1,1 @@
+    {\displaystyle r-\cos x=r{\frac {x^{2}}{(2^{2}-2)r^{2}}}-r{\frac {x^{2}}{(2^{2}-2)r^{2}}}{\frac {x^{2}}{(4^{2}-4)r^{2}}}+\cdots ,}

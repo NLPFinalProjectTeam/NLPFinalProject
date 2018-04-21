@@ -1,0 +1,1 @@
+which expresses √2 in the sexagesimal system, and which is also accurate up to 5 decimal places (after rounding).

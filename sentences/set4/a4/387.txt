@@ -1,0 +1,1 @@
+Calibration data such as flat fields and dark frames are also publicly available straight away.

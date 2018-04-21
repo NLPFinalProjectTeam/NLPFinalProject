@@ -1,0 +1,1 @@
+The constellation boundaries, as set by Eugène Delporte in 1930, are defined by a polygon of 26 sides.

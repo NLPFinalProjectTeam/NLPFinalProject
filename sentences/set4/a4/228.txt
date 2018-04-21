@@ -1,0 +1,1 @@
+Most importantly, the High Speed Photometer was replaced with the COSTAR corrective optics package, and WFPC was replaced with the Wide Field and Planetary Camera 2 (WFPC2) with an internal optical correction system.

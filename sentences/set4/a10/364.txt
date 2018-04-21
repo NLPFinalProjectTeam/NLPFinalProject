@@ -1,0 +1,1 @@
+Big Bang lattice model, states that the universe at the moment of the Big Bang consists of an infinite lattice of fermions, which is smeared over the fundamental domain so it has rotational, translational and gauge symmetry.

@@ -1,0 +1,1 @@
+Solved some quintic equations and higher-order polynomials.

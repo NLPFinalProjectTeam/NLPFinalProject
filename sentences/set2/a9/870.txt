@@ -1,0 +1,1 @@
+The general form of Pell's equation using the chakravala method.

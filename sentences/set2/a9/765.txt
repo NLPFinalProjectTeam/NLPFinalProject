@@ -1,0 +1,1 @@
+Formulae derived to calculate the area of an ellipse and quadrilateral inside a circle.

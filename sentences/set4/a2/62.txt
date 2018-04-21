@@ -1,0 +1,1 @@
+The value of the parallax was 0.23 arcseconds, and error of the parallax was estimated not to exceed a quarter of a second, or in Henderson's words, "On the whole we may conclude that the parallax of Sirius is not greater than half a second in space; and that it is probably much less."

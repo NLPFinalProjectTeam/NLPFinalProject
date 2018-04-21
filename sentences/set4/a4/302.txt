@@ -1,0 +1,1 @@
+Public image processing of Hubble data is encouraged as most of the data in the archives has not been processed into color imagery.

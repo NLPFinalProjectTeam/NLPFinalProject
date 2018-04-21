@@ -1,0 +1,1 @@
+Hubble accommodates five science instruments at a given time, plus the Fine Guidance Sensors, which are mainly used for aiming the telescope but are occasionally used for science (astrometry).

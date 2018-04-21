@@ -1,0 +1,1 @@
+Rather than CCDs these three instruments used photon-counting digicons as their detectors.

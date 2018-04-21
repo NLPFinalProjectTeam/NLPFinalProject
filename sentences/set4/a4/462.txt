@@ -1,0 +1,1 @@
+Large ground-based telescopes can image some of the same wavelengths as Hubble, sometimes challenge HST in terms of resolution by using adaptive optics (AO), have much larger light-gathering power, and can be upgraded more easily, but cannot yet match Hubble's excellent resolution over a wide field of view with the very dark background of space.

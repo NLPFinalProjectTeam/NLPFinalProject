@@ -1,0 +1,1 @@
+The process by which data is calibrated automatically is known as 'pipeline reduction', and is increasingly common at major observatories.

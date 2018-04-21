@@ -1,0 +1,1 @@
+Brahmagupta's theorem: If a cyclic quadrilateral has diagonals that are perpendicular to each other, then the perpendicular line drawn from the point of intersection of the diagonals to any side of the quadrilateral always bisects the opposite side.

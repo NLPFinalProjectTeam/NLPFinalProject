@@ -1,0 +1,1 @@
+Derived the differential of the sine function.

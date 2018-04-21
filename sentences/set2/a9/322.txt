@@ -1,0 +1,1 @@
+Contains the earliest tables of sine, cosine and versine values, in 3.75° intervals from 0° to 90°, to 4 decimal places of accuracy.

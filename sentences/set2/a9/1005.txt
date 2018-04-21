@@ -1,0 +1,1 @@
+    {\displaystyle 1^{p}+2^{p}+\cdots +n^{p}\approx {\frac {n^{p+1}}{p+1}}}

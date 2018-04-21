@@ -1,0 +1,1 @@
+Deals with the concept of ardhaccheda, the number of times a number could be halved, and lists various rules involving this operation.

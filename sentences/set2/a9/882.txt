@@ -1,0 +1,1 @@
+Stated Rolle's theorem, a special case of the mean value theorem (one of the most important theorems of calculus and analysis).

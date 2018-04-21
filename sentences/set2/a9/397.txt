@@ -1,0 +1,1 @@
+Brahmagupta's formula: The area, A, of a cyclic quadrilateral with sides of lengths a, b, c, d, respectively, is given by

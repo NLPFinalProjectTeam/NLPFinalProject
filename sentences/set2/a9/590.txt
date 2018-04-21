@@ -1,0 +1,1 @@
+    {\displaystyle \ (x^{2}-Ny^{2})(x'^{2}-Ny'^{2})=(xx'+Nyy')^{2}-N(xy'+x'y)^{2}}

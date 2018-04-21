@@ -1,0 +1,1 @@
+Use of rectification (computation of length) of the arc of a circle to give a proof of these results.

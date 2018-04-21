@@ -1,0 +1,1 @@
+   which was a generalisation of an earlier identity of Diophantus: Brahmagupta used his identity to prove the following lemma:

@@ -1,0 +1,1 @@
+A related issue to the classic horizon problem arises because in most standard cosmological inflation models, inflation ceases well before electroweak symmetry breaking occurs, so inflation should not be able to prevent large-scale discontinuities in the electroweak vacuum since distant parts of the observable universe were causally separate when the electroweak epoch ended.

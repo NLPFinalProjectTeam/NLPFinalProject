@@ -1,0 +1,1 @@
+This meant that COSTAR was no longer required, since all new instruments had built-in correction for the main mirror aberration.

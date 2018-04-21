@@ -1,0 +1,1 @@
+Rest's mechanics are changed entirely; instead of recovering Jigglypuff's health, the move launches foes that touch it.

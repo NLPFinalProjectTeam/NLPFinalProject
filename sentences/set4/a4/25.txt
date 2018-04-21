@@ -1,0 +1,1 @@
+First, the angular resolution (the smallest separation at which objects can be clearly distinguished) would be limited only by diffraction, rather than by the turbulence in the atmosphere, which causes stars to twinkle, known to astronomers as seeing.

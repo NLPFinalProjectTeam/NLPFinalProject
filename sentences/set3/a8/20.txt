@@ -1,0 +1,1 @@
+This trait is carried on to games where Pokémon speak English such as the Pokémon Mystery Dungeon series, with the text appearing as combinations of "X"s, "O"s, punctuation marks, and/or musical notes, instead of legible words.

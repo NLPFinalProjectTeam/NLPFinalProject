@@ -1,0 +1,1 @@
+Observation schedules are typically finalized only a few days in advance, as a longer lead time would mean there was a chance that the target would be unobservable by the time it was due to be observed.

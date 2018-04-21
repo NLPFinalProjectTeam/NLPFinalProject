@@ -1,0 +1,1 @@
+On the long wavelength end, the OTA was not designed with optimum IR performance in mind—for example, the mirrors are kept at stable (and warm, about 15 °C) temperatures by heaters.

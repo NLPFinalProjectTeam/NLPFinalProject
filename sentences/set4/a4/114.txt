@@ -1,0 +1,1 @@
+It could take up to 100,000 measurements per second with a photometric accuracy of about 2% or better.

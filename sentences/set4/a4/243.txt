@@ -1,0 +1,1 @@
+It increases throughput by moving some computing tasks from the ground to the spacecraft and saves money by allowing the use of modern programming languages.

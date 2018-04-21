@@ -1,0 +1,1 @@
+"Snapshot observations" are those in which targets require only 45 minutes or less of telescope time, including overheads such as acquiring the target.

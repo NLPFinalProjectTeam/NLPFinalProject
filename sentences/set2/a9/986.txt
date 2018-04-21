@@ -1,0 +1,1 @@
+A semi-rigorous proof (see "induction" remark below) of the result:

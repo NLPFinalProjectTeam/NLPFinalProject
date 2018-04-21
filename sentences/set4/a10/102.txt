@@ -1,0 +1,1 @@
+General relativity describes spacetime by a metric, which determines the distances that separate nearby points.

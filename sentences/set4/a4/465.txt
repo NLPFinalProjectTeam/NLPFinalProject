@@ -1,0 +1,1 @@
+It is not engineered to be fully serviceable (such as replaceable instruments), but the design includes a docking ring to enable visits from other spacecraft.

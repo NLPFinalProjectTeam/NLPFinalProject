@@ -1,0 +1,1 @@
+Gave a proof for division by zero being infinity.

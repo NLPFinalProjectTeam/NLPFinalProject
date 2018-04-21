@@ -1,0 +1,1 @@
+HST uses gyroscopes to detect and measure any rotations so it can stabilize itself in orbit and point accurately and steadily at astronomical targets.

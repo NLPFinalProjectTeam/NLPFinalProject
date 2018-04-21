@@ -1,0 +1,1 @@
+    {\displaystyle \ \sin(a-b)=\sin(a)\cos(b)-\sin(b)\cos(a)}

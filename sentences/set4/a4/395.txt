@@ -1,0 +1,1 @@
+Astronomers may if they wish retrieve the calibration files themselves and run the pipeline reduction software locally.

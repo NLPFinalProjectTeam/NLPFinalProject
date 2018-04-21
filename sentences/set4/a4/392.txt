@@ -1,0 +1,1 @@
+STScI has developed sophisticated software that automatically calibrates data when they are requested from the archive using the best calibration files available.

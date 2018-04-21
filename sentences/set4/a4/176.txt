@@ -1,0 +1,1 @@
+Images of point sources spread out over a radius of more than one arcsecond, instead of having a point spread function (PSF) concentrated within a circle 0.1 arcsec in diameter as had been specified in the design criteria.

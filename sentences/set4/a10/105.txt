@@ -1,0 +1,1 @@
+This metric contains a scale factor, which describes how the size of the universe changes with time.

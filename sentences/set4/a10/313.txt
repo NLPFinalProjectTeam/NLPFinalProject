@@ -1,0 +1,1 @@
+Curvature is negative, if its density is less than the critical density; positive, if greater; and zero at the critical density, in which case space is said to be flat.

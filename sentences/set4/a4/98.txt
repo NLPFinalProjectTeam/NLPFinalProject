@@ -1,0 +1,1 @@
+The Wide Field and Planetary Camera (WFPC) also utilized an RCA 1802 microprocessor (or possibly the older 1801 version).

@@ -1,0 +1,1 @@
+The mission replaced all six gyroscopes, replaced a Fine Guidance Sensor and the computer, installed a Voltage/temperature Improvement Kit (VIK) to prevent battery overcharging, and replaced thermal insulation blankets.

@@ -1,0 +1,1 @@
+This coincides with the binary logarithm when applied to powers of two, but differs on other numbers, more closely resembling the 2-adic order.

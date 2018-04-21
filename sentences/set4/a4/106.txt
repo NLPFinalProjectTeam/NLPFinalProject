@@ -1,0 +1,1 @@
+The "wide field camera" (WFC) covered a large angular field at the expense of resolution, while the "planetary camera" (PC) took images at a longer effective focal length than the WF chips, giving it a greater magnification.

@@ -1,0 +1,1 @@
+Find the price of each animal and the total value for the animals possessed by each merchant.

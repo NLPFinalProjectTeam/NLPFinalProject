@@ -1,0 +1,1 @@
+Oort cloud objects move very slowly, and can be perturbed by infrequent events, such as collisions, the gravitational effects of a passing star, or the galactic tide, the tidal force exerted by the Milky Way.

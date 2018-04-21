@@ -1,0 +1,1 @@
+This process can also create false-color versions of images including infrared and ultraviolet channels, where infrared is typically rendered as a deep red and ultraviolet is rendered as a deep blue.

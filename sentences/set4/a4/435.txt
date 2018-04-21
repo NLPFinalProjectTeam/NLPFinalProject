@@ -1,0 +1,1 @@
+Normally, three gyroscopes are required for operation; observations are still possible with two, but the area of sky that can be viewed would be somewhat restricted, and observations requiring very accurate pointing are more difficult.

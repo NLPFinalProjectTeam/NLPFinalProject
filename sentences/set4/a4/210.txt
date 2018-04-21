@@ -1,0 +1,1 @@
+The Corrective Optics Space Telescope Axial Replacement (COSTAR) system was designed to correct the spherical aberration for light focused at the FOC, FOS, and GHRS.

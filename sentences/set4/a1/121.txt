@@ -1,0 +1,1 @@
+The consequence of this early date is that because of the precession of the equinoxes, the borders on a modern star map, such as epoch J2000, are already somewhat skewed and no longer perfectly vertical or horizontal.

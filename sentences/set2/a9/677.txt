@@ -1,0 +1,1 @@
+He then used this lemma to both generate infinitely many (integral) solutions of Pell's equation, given one solution, and state the following theorem:

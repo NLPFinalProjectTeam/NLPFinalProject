@@ -1,0 +1,1 @@
+NICMOS is kept in hibernation, but may be revived if WFC3 were to fail in the future.

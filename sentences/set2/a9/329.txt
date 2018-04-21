@@ -1,0 +1,1 @@
+Whole number solutions of linear equations by a method equivalent to the modern method.

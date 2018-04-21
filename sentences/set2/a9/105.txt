@@ -1,0 +1,1 @@
+There is evidence that in his work on the enumeration of syllabic combinations, Pingala stumbled upon both Pascal's triangle and binomial coefficients, although he did not have knowledge of the binomial theorem itself.

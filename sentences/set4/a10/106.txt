@@ -1,0 +1,1 @@
+This enables a convenient choice of a coordinate system to be made, called comoving coordinates.

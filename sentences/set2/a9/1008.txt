@@ -1,0 +1,1 @@
+Applications of ideas from (what was to become) differential and integral calculus to obtain (Taylor–Maclaurin) infinite series for sin x, cos x, and arctan x.

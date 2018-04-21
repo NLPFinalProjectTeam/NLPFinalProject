@@ -1,0 +1,1 @@
+Its three Fine Guidance Sensors (FGS) are primarily used to keep the telescope accurately pointed during an observation, but can also be used to carry out extremely accurate astrometry; measurements accurate to within 0.0003 arcseconds have been achieved.

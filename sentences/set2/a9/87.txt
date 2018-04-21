@@ -1,0 +1,1 @@
+    {\displaystyle {\sqrt {2}}\approx 1+{\frac {24}{60}}+{\frac {51}{60^{2}}}+{\frac {10}{60^{3}}}=1.41421297\ldots }

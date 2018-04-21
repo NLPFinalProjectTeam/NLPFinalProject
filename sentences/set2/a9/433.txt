@@ -1,0 +1,1 @@
+    {\displaystyle s={\frac {a+b+c+d}{2}}.}

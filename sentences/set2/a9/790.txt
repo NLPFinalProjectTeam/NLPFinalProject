@@ -1,0 +1,1 @@
+Solved indeterminate quadratic equations.

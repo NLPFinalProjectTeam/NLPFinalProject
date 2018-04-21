@@ -1,0 +1,1 @@
+Optical telescopes typically have mirrors polished to an accuracy of about a tenth of the wavelength of visible light, but the Space Telescope was to be used for observations from the visible through the ultraviolet (shorter wavelengths) and was specified to be diffraction limited to take full advantage of the space environment.

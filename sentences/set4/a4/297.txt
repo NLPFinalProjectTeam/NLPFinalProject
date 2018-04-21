@@ -1,0 +1,1 @@
+Snapshot observations are used to fill in gaps in the telescope schedule that cannot be filled by regular GO programs.

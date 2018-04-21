@@ -1,0 +1,1 @@
+The DF-224 and its 386 co-processor were replaced by a 25 MHz Intel-based 80486 processor system during Servicing Mission 3A in 1999.

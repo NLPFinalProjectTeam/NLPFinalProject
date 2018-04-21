@@ -1,0 +1,1 @@
+One rather complex task that falls to STScI is scheduling observations for the telescope.

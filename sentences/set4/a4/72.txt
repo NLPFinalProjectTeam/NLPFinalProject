@@ -1,0 +1,1 @@
+Perkin-Elmer simulated microgravity by supporting the mirror from the back with 130 rods that exerted varying amounts of force.

@@ -1,0 +1,1 @@
+The first WFPC was dismantled, and some components were then re-used in WFC3.
