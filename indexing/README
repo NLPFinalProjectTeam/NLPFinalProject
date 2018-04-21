@@ -4,4 +4,4 @@ A simple indexer.
 USAGE:
   compile: javac -Xlint -cp ".:lucene-6.6.0/*" -g *.java
   run:     java -cp ".:lucene-6.6.0/*" MyIndexer documentDirectoryName destinationIndexDirectory
-           java -cp ".:lucene-6.6.0/*" MyRetriever queryfile indexDirectory
+           java -cp ".:lucene-6.6.0/*" MyRetriever queryfile indexDirectory hitsPerPage

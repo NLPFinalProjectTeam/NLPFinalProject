@@ -30,11 +30,13 @@ public class MyRetriever {
 
 	private String queryFile;
 	private String indexPath;
+	private int hitsPerPage;
 
-	public MyRetriever(String queryFile, String indexPath) {
+	public MyRetriever(String queryFile, String indexPath, String hitsPerPage) {
 
 		this.queryFile = queryFile;
 		this.indexPath = indexPath;
+		this.hitsPerPage = Integer.parseInt(hitsPerPage);
 	}
 
 	public void processQueries() throws Exception {
@@ -53,7 +55,7 @@ public class MyRetriever {
 		Query q = new QueryParser("body", analyzer).parse(query);
 
 		//System.out.println(q);
-		int hitsPerPage = 5;
+		int hitsPerPage = this.hitsPerPage;
 		IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(this.indexPath)));
 		IndexSearcher searcher = new IndexSearcher(reader);
 		TopDocs docs = searcher.search(q, hitsPerPage);
@@ -63,12 +65,12 @@ public class MyRetriever {
 		//System.out.println("searcher.count(q) = " + searcher.count(q));
 
 		//System.out.println("-----------------------");
-		System.out.println("Query: " + query);
+		//System.out.println("Query: " + query);
 		//System.out.println(docs.getMaxScore() + "\n");
 		//System.out.println(sentences.length);
 		//int cnt = 1;
 		for (ScoreDoc s : sentences) {
-			System.out.println("Score: " + s.score);
+			System.out.println(s.score);
 			//System.out.println(reader.document(s.doc).get("externalId"));
 			System.out.println(searcher.doc(s.doc).get("body"));
 			//++cnt;
@@ -80,7 +82,7 @@ public class MyRetriever {
 
 
 	public static void main(String[] args) throws Exception {
-		MyRetriever retriever = new MyRetriever(args[0], args[1]);
+		MyRetriever retriever = new MyRetriever(args[0], args[1], args[2]);
 		retriever.processQueries();
 	}
 }

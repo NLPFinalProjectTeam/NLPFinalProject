@@ -41,7 +41,10 @@ def build_index(path):
 	sent_set_dir = os.path.join("../sentences/", path[:-4])
 	index_set_dir = os.path.join("../index/", set_num)
 	if not os.path.isdir(sent_set_dir):
-		os.mkdir(sent_set_dir)
+		segment_into_sentences(path)
+
+	if not os.path.isdir(index_set_dir):
+		os.mkdir(index_set_dir)
 
 	index_dir = os.path.join(index_set_dir, txt_num[:-4])
 	if not os.path.isdir(index_dir):

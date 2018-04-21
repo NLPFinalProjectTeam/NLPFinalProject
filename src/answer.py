@@ -4,6 +4,9 @@ import numpy as np
 import codecs
 import string
 
+from indexing.build_index import segment_into_sentences, build_index
+from indexing.retrieve_sentences import retrieve
+
 KNOWLEDGE_BASE_PATH = "../knowledge_base/"
 
 
@@ -50,7 +53,7 @@ def get_type(q):
 
     return "exception"
 
-
+'''
 def get_sim(q1, q2):
     """
 
@@ -66,7 +69,7 @@ def get_sim(q1, q2):
     intersect = q1.intersection(q2)
 
     return float(len(intersect)) / (len(q1) + len(q2) - len(intersect))
-
+'''
 
 def exception_answer(psg):
     """
@@ -79,6 +82,8 @@ def exception_answer(psg):
     f = codecs.open(psg, encoding="utf-8")
     title = f.readlines()[0].strip()
     return title
+
+
 
 def main(argv):
     psg = argv[1]
@@ -107,28 +112,22 @@ def main(argv):
             print(knowledge[(question, qtype)])
             continue
 
-        max_sim = -float("inf")
-        argmax_ans = None
-        for tup, ans in knowledge.items():
-            q, t = tup[0], tup[1]
-            if qtype != t:
-                continue
+        # Retrieve
 
-            similarity = get_sim(q, question)
-            # print similarity
-            if similarity > max_sim:
-                max_sim = similarity
-                argmax_ans = ans
 
-        # end for
-        # Temporarily just print the answer
-        if argmax_ans == None:
-            argmax_ans = exception_answer(psg)
+
+
 
         print(argmax_ans)
     # end for
 
     qf.close()
+
+
+def from_retrieve(retrieve_result, question, qtype):
+    """
+        [(score, sentence),...]
+    """
 
 
 if __name__ == '__main__':
