@@ -71,6 +71,7 @@ def get_sim(q1, q2):
     return float(len(intersect)) / (len(q1) + len(q2) - len(intersect))
 '''
 
+'''
 def exception_answer(psg):
     """
         TODO: when exception occurs, call this function.
@@ -82,7 +83,7 @@ def exception_answer(psg):
     f = codecs.open(psg, encoding="utf-8")
     title = f.readlines()[0].strip()
     return title
-
+'''
 
 
 def main(argv):
@@ -100,12 +101,6 @@ def main(argv):
         question = question.strip().lower().translate(translator)
         qtype = get_type(question)
 
-        # print qtype
-
-        if qtype == "exception":
-            print(exception_answer(psg))
-            continue
-
         if (question, qtype) in knowledge:
             # Temporarily just print the answer
             # print question, qtype
@@ -113,12 +108,11 @@ def main(argv):
             continue
 
         # Retrieve
+        num_of_returns = 5
+        retrieve_result = retrieve(psg, question, num_of_returns)
 
-
-
-
-
-        print(argmax_ans)
+        answer = from_retrieve(retrieve_result, question, qtype)
+        print (answer)
     # end for
 
     qf.close()
@@ -128,6 +122,9 @@ def from_retrieve(retrieve_result, question, qtype):
     """
         [(score, sentence),...]
     """
+
+
+
 
 
 if __name__ == '__main__':
