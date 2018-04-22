@@ -7,6 +7,8 @@ import string
 from indexing.build_index import segment_into_sentences, build_index
 from indexing.retrieve_sentences import retrieve
 
+from nltk.stem.porter import *
+
 KNOWLEDGE_BASE_PATH = "../knowledge_base/"
 
 
@@ -50,6 +52,8 @@ def get_type(q):
         return "YN"
     elif q[0] == "why":
         return "WHY"
+    elif q[0] == "when":
+        return "WHEN"
 
     return "exception"
 
@@ -123,6 +127,102 @@ def from_retrieve(retrieve_result, question, qtype):
         [(score, sentence),...]
     """
 
+    sent = retrieve_result[0][1] # temporary choice
+
+    if qtype == "YN":
+        answer = get_answer_yn(sent, question)
+    elif qtype == "HOW":
+        answer = get_answer_how(sent, question)
+    elif qtype == "WHY":
+        answer = get_answer_why(sent, question)
+    elif qtype == "WHEN":
+        answer = get_answer_when(sent, question)
+    elif qtype == "WHO":
+        answer = get_answer_who(sent, question)
+    elif qtype == "WHAT":
+        answer = get_answer_what(sent, question)
+
+
+    if answer != None:
+        return answer
+
+    # last choice, return the most relevant sentence
+    return retrieve_result[0][1]
+
+
+def get_answer_yn(sent, question):
+
+
+    """
+        TODO: given a sentence and a question, judge yes/no
+
+    """
+
+
+    return "Yes"
+
+def get_answer_how(sent, question):
+    """
+        TODO: furthur split into "how many", "how much", etc.
+    """
+    return sent
+
+def get_answer_why(sent, question):
+    return sent
+
+def get_answer_when(sent, question):
+    
+    """
+        TODO: solve WHEN questions
+    """
+
+    return naive_method(sent, question)
+
+
+def get_answer_what(sent, question):
+
+
+    """
+        TODO: solve WHAT questions
+    """
+    
+    return naive_method(sent, question)
+
+
+def get_answer_who(sent, question):
+
+    """
+        TODO: solve WHO questions
+
+
+    """
+    
+
+    return naive_method(sent, question)
+
+
+def naive_method(sent, question):
+
+    """
+        A naive way of generation answer, by using set-minus of sentence and question
+    """
+
+    translator = str.maketrans('', '', string.punctuation)
+    stemmer = PorterStemmer()
+    sent = sent.strip().lower().translate(translator).split()
+    sent_stemmed = [stemmer.stem(w) for w in sent]
+    question = question.strip().lower().translate(translator).split()
+    question_stemmed = [stemmer.stem(w) for w in question]
+
+    recover = {}
+    for i in range(len(sent)):
+        recover[sent_stemmed[i]] = sent[i]
+
+    for w in question_stemmed:
+        if w in sent_stemmed:
+            sent_stemmed.remove(w)
+
+    return " ".join([recover[w] for w in sent_stemmed]).strip()
 
 
 
