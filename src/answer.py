@@ -268,7 +268,7 @@ def naive_method(sent, question, stanford):
 
 def is_keyword(pos_tag):
     pos_tag = pos_tag.upper()
-    if pos_tag.startswith("V") or pos_tag.startswith("N"):
+    if pos_tag.startswith("V") or pos_tag.startswith("N") or pos_tag.startswith("J"):
         return True
 
     return False
