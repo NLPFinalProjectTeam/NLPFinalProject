@@ -180,8 +180,31 @@ def get_answer_who(sent, question, stanford):
         USE STANFORD NER.
 
     """
-    
 
+    annotation = stanford.annotate(sent,
+                                    properties={
+                                        'annotators': 'ner'
+                                        'outputFormat': 'json'
+                                        'timeout': 1000,
+                                    })
+
+    persons = []
+    person = []
+    for token in annotation["sentences"][0]["tokens"]:
+        
+        if token["ner"] == "PERSON":
+            person.append(token["originalText"])
+
+        else:
+            if len(person) > 0:
+                p = " ".join(person).strip()
+                if p not in question.lower():
+                    persons.append(p)
+            person = []
+
+    if len(persons) > 0:
+        return persons[0]
+    
     return naive_method(sent, question)
 
 def get_answer_where(sent, question, stanford):
