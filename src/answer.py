@@ -55,40 +55,11 @@ def get_type(q):
         return "WHY"
     elif q[0] == "when":
         return "WHEN"
+    elif q[0] == "where":
+        return "WHERE"
 
     return "exception"
 
-'''
-def get_sim(q1, q2):
-    """
-
-        TODO: similarity matching, use word2vec/sentence2vec perhaps.
-
-        For now, a simple jaccard is used.
-
-
-        In final version, will use more advanced methods
-    """
-    q1 = set(q1.strip().lower().split())
-    q2 = set(q2.strip().lower().split())
-    intersect = q1.intersection(q2)
-
-    return float(len(intersect)) / (len(q1) + len(q2) - len(intersect))
-'''
-
-'''
-def exception_answer(psg):
-    """
-        TODO: when exception occurs, call this function.
-
-        Now, temporary return the title of the passage.
-
-        Maybe should add an attribute of question type.
-    """
-    f = codecs.open(psg, encoding="utf-8")
-    title = f.readlines()[0].strip()
-    return title
-'''
 
 
 def main(argv):
@@ -144,6 +115,8 @@ def from_retrieve(retrieve_result, question, qtype, stanford):
         answer = get_answer_who(sent, question, stanford)
     elif qtype == "WHAT":
         answer = get_answer_what(sent, question, stanford)
+    elif qtype == "WHERE":
+        answer = get_answer_where(sent, question, stanford)
 
 
     if answer != None:
@@ -177,6 +150,10 @@ def get_answer_when(sent, question, stanford):
     
     """
         TODO: solve WHEN questions
+
+
+
+        USE STANFORD NER.
     """
 
     return naive_method(sent, question)
@@ -187,6 +164,9 @@ def get_answer_what(sent, question, stanford):
 
     """
         TODO: solve WHAT questions
+
+
+        USE STANFORD NER.
     """
     
     return naive_method(sent, question)
@@ -197,11 +177,21 @@ def get_answer_who(sent, question, stanford):
     """
         TODO: solve WHO questions
 
+        USE STANFORD NER.
 
     """
     
 
     return naive_method(sent, question)
+
+def get_answer_where(sent, question, stanford):
+
+    """
+        TODO: solve WHERE questions
+
+        USE STANFORD NER.
+
+    """
 
 
 def naive_method(sent, question, stanford):
