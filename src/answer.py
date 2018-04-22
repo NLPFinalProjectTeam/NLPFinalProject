@@ -8,6 +8,7 @@ from indexing.build_index import segment_into_sentences, build_index
 from indexing.retrieve_sentences import retrieve
 
 from nltk.stem.porter import *
+from pycorenlp import StanfordCoreNLP
 
 KNOWLEDGE_BASE_PATH = "../knowledge_base/"
 
@@ -100,6 +101,7 @@ def main(argv):
     # questions = qf.readlines()
 
     translator = str.maketrans('', '', string.punctuation)
+    stanford = StanfordCoreNLP('http://localhost:9000')
 
     for question in qf:
         question = question.strip().lower().translate(translator)
@@ -115,14 +117,15 @@ def main(argv):
         num_of_returns = 5
         retrieve_result = retrieve(psg, question, num_of_returns)
 
-        answer = from_retrieve(retrieve_result, question, qtype)
+        answer = from_retrieve(retrieve_result, question, qtype, stanford)
         print (answer)
     # end for
 
+    stanford.close()
     qf.close()
 
 
-def from_retrieve(retrieve_result, question, qtype):
+def from_retrieve(retrieve_result, question, qtype, stanford):
     """
         [(score, sentence),...]
     """
@@ -130,17 +133,17 @@ def from_retrieve(retrieve_result, question, qtype):
     sent = retrieve_result[0][1] # temporary choice
 
     if qtype == "YN":
-        answer = get_answer_yn(sent, question)
+        answer = get_answer_yn(sent, question, stanford)
     elif qtype == "HOW":
-        answer = get_answer_how(sent, question)
+        answer = get_answer_how(sent, question, stanford)
     elif qtype == "WHY":
-        answer = get_answer_why(sent, question)
+        answer = get_answer_why(sent, question, stanford)
     elif qtype == "WHEN":
-        answer = get_answer_when(sent, question)
+        answer = get_answer_when(sent, question, stanford)
     elif qtype == "WHO":
-        answer = get_answer_who(sent, question)
+        answer = get_answer_who(sent, question, stanford)
     elif qtype == "WHAT":
-        answer = get_answer_what(sent, question)
+        answer = get_answer_what(sent, question, stanford)
 
 
     if answer != None:
@@ -150,7 +153,7 @@ def from_retrieve(retrieve_result, question, qtype):
     return retrieve_result[0][1]
 
 
-def get_answer_yn(sent, question):
+def get_answer_yn(sent, question, stanford):
 
 
     """
@@ -161,16 +164,16 @@ def get_answer_yn(sent, question):
 
     return "Yes"
 
-def get_answer_how(sent, question):
+def get_answer_how(sent, question, stanford):
     """
         TODO: furthur split into "how many", "how much", etc.
     """
     return sent
 
-def get_answer_why(sent, question):
+def get_answer_why(sent, question, stanford):
     return sent
 
-def get_answer_when(sent, question):
+def get_answer_when(sent, question, stanford):
     
     """
         TODO: solve WHEN questions
@@ -179,7 +182,7 @@ def get_answer_when(sent, question):
     return naive_method(sent, question)
 
 
-def get_answer_what(sent, question):
+def get_answer_what(sent, question, stanford):
 
 
     """
@@ -189,7 +192,7 @@ def get_answer_what(sent, question):
     return naive_method(sent, question)
 
 
-def get_answer_who(sent, question):
+def get_answer_who(sent, question, stanford):
 
     """
         TODO: solve WHO questions
@@ -201,7 +204,7 @@ def get_answer_who(sent, question):
     return naive_method(sent, question)
 
 
-def naive_method(sent, question):
+def naive_method(sent, question, stanford):
 
     """
         A naive way of generation answer, by using set-minus of sentence and question
