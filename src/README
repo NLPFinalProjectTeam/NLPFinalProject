@@ -1,0 +1,20 @@
+
+
+
+Answering:
+
+[NOTICE] Very important!
+
+
+Recommended way of running:
+
+  If the data is  ../data/set1/a1.txt
+  Run:  $python answer.py set1/a1.txt question.txt
+
+  For hidden test data, just create ../data/set5/ and put data in it. It will run properly
+
+
+Not recommended way:
+
+  If the data is ./a1.txt
+  Run: $python answer.py a1.txt question.txt

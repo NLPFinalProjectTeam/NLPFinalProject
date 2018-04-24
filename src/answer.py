@@ -133,9 +133,32 @@ def get_answer_yn(sent, question, stanford):
         TODO: given a sentence and a question, judge yes/no
 
     """
+    stemmer = PorterStemmer()
+
+    tokens_sent = stanford.annotate(sent,
+                                    properties={
+                                        'annotators': 'pos'
+                                        'outputFormat': 'json'
+                                        'timeout': 1000,
+                                    })['sentences'][0]['tokens']
+
+    tokens_ques = stanford.annotate(question,
+                                    properties={
+                                        'annotators': 'pos'
+                                        'outputFormat': 'json'
+                                        'timeout': 1000,
+                                    })['sentences'][0]['tokens']
 
 
-    return "Yes"
+
+    sent = set([stemmer.stem(t['originalText']) for t in tokens_sent if is_keyword(t['pos'])])
+    question = set([stemmer.stem(t['originalText']) for t in tokens_ques if is_keyword(t['pos'])])
+    intersect = sent.intersection(question)
+
+    if len(intersect) < len(sent) and len(intersect) < len(question):
+        return "No"
+    else:
+        return "Yes"
 
 def get_answer_how(sent, question, stanford):
     """
@@ -242,6 +265,14 @@ def naive_method(sent, question, stanford):
     return " ".join([recover[w] for w in sent_stemmed]).strip()
 
 
+
+
+def is_keyword(pos_tag):
+    pos_tag = pos_tag.upper()
+    if pos_tag.startswith("V") or pos_tag.startswith("N") or pos_tag.startswith("J"):
+        return True
+
+    return False
 
 
 if __name__ == '__main__':
