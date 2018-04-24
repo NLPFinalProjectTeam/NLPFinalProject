@@ -88,6 +88,12 @@ def main(argv):
         num_of_returns = 5
         retrieve_result = retrieve(psg, question, num_of_returns)
 
+
+        # error handling
+    	if retrieve_result = None or len(retrieve_result) == 0:
+    		print ("THIS IS AN EASTER EGG.")
+    		continue
+
         answer = from_retrieve(retrieve_result, question, qtype, stanford)
         print (answer)
     # end for
@@ -100,6 +106,7 @@ def from_retrieve(retrieve_result, question, qtype, stanford):
     """
         [(score, sentence),...]
     """
+
 
     sent = retrieve_result[0][1] # temporary choice
 
@@ -123,7 +130,7 @@ def from_retrieve(retrieve_result, question, qtype, stanford):
         return answer
 
     # last choice, return the most relevant sentence
-    return retrieve_result[0][1]
+    return sent
 
 
 def get_answer_yn(sent, question, stanford):
@@ -164,6 +171,24 @@ def get_answer_how(sent, question, stanford):
     """
         TODO: furthur split into "how many", "how much", etc.
     """
+
+    second = question.strip().lower().split()[1]
+    tokens = stanford.annotate(sent,
+    							properties={
+    								'annotators': 'ner',
+    								'outputFormat': 'json',
+    								'timeout': 2000,
+    							})["sentences"][0]["tokens"]
+
+    if second == "much":
+    	money = group_by(tokens, ["MONEY"], question)
+    	if len(money) > 0:
+    		return money[0]
+    elif second == "many":
+    	numbers = group_by(tokens, ["NUMBER"], question)
+    	if len(numbers) > 0:
+    		return numbers[0]
+
     return sent
 
 def get_answer_why(sent, question, stanford):
@@ -179,7 +204,20 @@ def get_answer_when(sent, question, stanford):
         USE STANFORD NER.
     """
 
-    return naive_method(sent, question)
+    tokens = stanford.annotate(sent,
+    							properties={
+    								'annotators': 'ner',
+    								'outputFormat': 'json',
+    								'timeout': 2000,
+    							})["sentences"][0]["tokens"]
+
+    date_time = group_by(tokens, ["DATE", "TIME"])
+    if len(date_time) == 1:
+    	return date_time[0]
+
+    return sent 
+
+    # return naive_method(sent, question)
 
 
 def get_answer_what(sent, question, stanford):
@@ -191,8 +229,27 @@ def get_answer_what(sent, question, stanford):
 
         USE STANFORD NER.
     """
-    
-    return naive_method(sent, question)
+
+    tokens = stanford.annotate(sent,
+    							properties={
+    								'annotators': 'ner',
+    								'outputFormat': 'json',
+    								'timeout': 2000,
+    							})["sentences"][0]["tokens"]
+
+
+    titles = group_by(sent, ["TITLE"], question)
+    if len(titles) > 0:
+    	return titles[0]
+
+
+    organizations = group_by(sent, ["ORGANIZATION"], question)
+    if len(organizations) > 0:
+    	return organizations[0]
+
+
+    return sent
+    # return naive_method(sent, question)
 
 
 def get_answer_who(sent, question, stanford):
@@ -204,29 +261,33 @@ def get_answer_who(sent, question, stanford):
 
     """
 
-    annotation = stanford.annotate(sent,
-                                    properties={
-                                        'annotators': 'ner'
-                                        'outputFormat': 'json'
-                                        'timeout': 1000,
-                                    })
+    tokens = stanford.annotate(sent,
+                                properties={
+                                    'annotators': 'ner',
+                                    'outputFormat': 'json',
+                                    'timeout': 2000,
+                                })["sentences"][0]["tokens"]
 
-    persons = []
-    person = []
-    for token in annotation["sentences"][0]["tokens"]:
+    # persons = []
+    # person = []
+    # for token in annotation["sentences"][0]["tokens"]:
         
-        if token["ner"] == "PERSON":
-            person.append(token["originalText"])
+    #     if token["ner"] == "PERSON":
+    #         person.append(token["originalText"])
 
-        else:
-            if len(person) > 0:
-                p = " ".join(person).strip()
-                if p not in question.lower():
-                    persons.append(p)
-            person = []
+    #     else:
+    #         if len(person) > 0:
+    #             p = " ".join(person).strip()
+    #             if p not in question.lower():
+    #                 persons.append(p)
+    #         person = []
 
+    # if len(persons) > 0:
+    #     return persons[0]
+
+    persons = group_by(tokens, ["PERSON"], question)
     if len(persons) > 0:
-        return persons[0]
+    	return persons[0]
     
     return sent
     #return naive_method(sent, question)
@@ -239,12 +300,33 @@ def get_answer_where(sent, question, stanford):
         USE STANFORD NER.
 
     """
+    tokens = stanford.annotate(sent,
+                                properties={
+                                    'annotators': 'ner',
+                                    'outputFormat': 'json',
+                                    'timeout': 2000,
+                                })["sentences"][0]["tokens"]
+
+    locations = group_by(tokens, ["LOCATION, CITY, COUNTRY"], question)
+    if len(locations) > 0:
+    	return locations[0]
+
+
+    organizations = group_by(sent, ["ORGANIZATION"], question)
+    if len(organizations) > 0:
+    	return organizations[0]
+
+
+    return sent
+
 
 
 def naive_method(sent, question, stanford):
 
     """
         A naive way of generation answer, by using set-minus of sentence and question
+
+        Not used anymore.
     """
 
     translator = str.maketrans('', '', string.punctuation)
@@ -273,6 +355,26 @@ def is_keyword(pos_tag):
         return True
 
     return False
+
+
+def group_by(tokens, ner_tags, question=""):
+	"""
+		Group by an NER-tag
+	"""
+
+	results = []
+    temp = []
+    for token in tokens:
+        
+        if token["ner"].upper() in ner_tags:
+            temp.append(token["originalText"])
+
+        else:
+            if len(temp) > 0:
+                p = " ".join(temp).strip()
+                if p.lower() not in question.lower():
+                    persons.append(p)
+            temp = []
 
 
 if __name__ == '__main__':
