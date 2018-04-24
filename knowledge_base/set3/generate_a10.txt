@@ -1,0 +1,33 @@
+YN	Does Snorlax stand up and dances to the music?	Yes
+YN	Did Gary Oak where it quickly defeat Gary's Nidoqueen and Arcanine?	Yes
+YN	Was Snorlax placed at eight in Complex's `` The 50 Best Pokemon Up to Pokemon Crystal ''?	Yes
+WHAT	What has been as a roadblock in the Kanto region?	the games has been as a roadblock in the Kanto region
+WHAT	What is also large?	Its head is also large
+WHAT	What has a pre-evolution?	Snorlax has a pre-evolution
+YN	Is where Snorlax becomes a roadblock to the next town Ash traveling to?	Yes
+YN	Has the games been as a roadblock in the Kanto region?	Yes
+WHAT	What are short?	Its arms are short
+WHAT	What has a cream-colored face?	Snorlax has a cream-colored face
+YN	Has Snorlax been utilized by the anime series main character Ash Ketchum?	Yes
+YN	Is Snorlax seen sleeping throughout the game?	Yes
+YN	Do Snorlax's stomach can dissolve any kind of poison?	Yes
+YN	Does get to be friends with May's younger Munchlax?	Yes
+YN	Did Snorlax name Munchlax was introduced?	Yes
+YN	Does Snorlax appear from a Poké Ball in the Super Smash Bros. series?	Yes
+YN	Is Snorlax an NPC in PokéPark Wii?	Yes
+WHAT	What called the character a fan favorite?	GamesRadar called the character a fan favorite
+YN	Does Snorlax's popularity make it commonly used for fanmade and official merchandise?	Yes
+WHO	Who called upon it for the Sumo Conference in Ring Masters?	Ash called upon it for the Sumo Conference in Ring Masters
+YN	Has Snorlax been well received by the media?	Yes
+YN	Has Snorlax been said to weigh over 1,000 pounds and for a time was considered the heaviest known Pokémon?	Yes
+WHAT	What makes it commonly used for fanmade and official merchandise?	Snorlax 's popularity makes it commonly used for fanmade and official merchandise
+YN	Did know in Japan as Kabigon (カビゴン)?	Yes
+WHO	Who becomes one of the most physically powerful members of Red 's team?	Lax becomes one of the most physically powerful members of Red 's team
+YN	Does where Snorlax become a roadblock to the next town Ash is traveling to?	Yes
+WHO	Who is used by Red?	Snorlax is used by Red
+YN	Did Snorlax then fight during Ash's following match against Harrison?	Yes
+YN	Did Snorlax first appear in the video games Pokémon Red and Blue and subsequent sequels?	Yes
+YN	Is Snorlax seen as a Poké Float?	Yes
+YN	Did Snorlax help Ash earn the Guts Symbol from Greta in Wheel of Frontier by defeating her Hariyama with an Ice Punch and flattening her Medicham with Body Slam?	Yes
+WHO	Who becomes a roadblock to the next town Ash is traveling to?	where Snorlax becomes a roadblock to the next town Ash is traveling to
+YN	Has Snorlax been said to weigh over 1,000 pounds and until Generation III was considered the heaviest known Pokémon?	Yes

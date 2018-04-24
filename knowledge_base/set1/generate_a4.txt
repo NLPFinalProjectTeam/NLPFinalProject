@@ -1,0 +1,99 @@
+YN	Did Iniesta arrive at the club?	Yes
+WHO	Who received the Marca Legend Award in 2011?	Iniesta received the Marca Legend Award in 2011
+YN	Did Iniesta receive the Marca Legend Award in 2011?	Yes
+YN	Does Iniesta say he `` cried rivers '' the day he left for La Masia and struggled being separated from his parents?	Yes
+YN	Did Iniesta travel there with his parents and visited La Masia?	Yes
+YN	Was Iniesta named in the Team of the Tournament and awarded the Silver Ball for the second best player in the competition?	Yes
+WHO	Who was named in the FIFA World XI?	Iniesta was named in the FIFA World XI
+YN	Was Iniesta also chosen for the 2010 FIFA World Cup and was a key member of the victorious Spanish team?	Yes
+YN	Was Iniesta named in the FIFA World XI?	Yes
+YN	Did Iniesta get injured in Barcelona's home match against Málaga CF?	Yes
+WHO	Who described him as `` the complete footballer?	Vicente del Bosque described him as `` the complete footballer
+WHAT	What came to an end after he aggravated a previous calf injury during training?	His season came to an end after he aggravated a previous calf injury during training
+YN	Did the 2004–05 season Iniesta feature in 37 out of 38 league games—more than any other player—although 25 of these were substitute appearances?	Yes
+YN	Was Iniesta named in the Team of the Tournament alongside fellow Spain midfielders Xavi?	Yes
+YN	Did do not want to come back until he was 100 percent and finally returned to action on 3 January 2009 as a 65th-minute substitute against RCD Mallorca?	Yes
+WHO	Who was named in the Team of the Tournament alongside fellow Spain midfielders Xavi?	Iniesta was named in the Team of the Tournament alongside fellow Spain midfielders Xavi
+WHO	Who captained Barcelona in the 2015 UEFA Champions League Final?	Iniesta captained Barcelona in the 2015 UEFA Champions League Final
+YN	Was Iniesta awarded the man of the match award for his performances in three different matches?	Yes
+YN	Did Iniesta start the 2011–12 season by scoring the opening goal in the second leg of the Supercopa de España against rivals Real Madrid?	Yes
+WHO	Who started all three matches for Spain at the 2014 FIFA World Cup?	Iniesta started all three matches for Spain at the 2014 FIFA World Cup
+WHAT	What lost their son due to miscarriage?	his wife lost their son due to miscarriage
+YN	Is Iniesta a playmaker who relies on exceptional creative passing?	Yes
+YN	Did his wife lose their son due to miscarriage?	Yes
+WHO	Who was followed by Iker Casillas?	Iniesta was followed by Iker Casillas
+WHO	Who made his 250th appearance for Barcelona in the Copa del Rey match against Mallorca?	Iniesta made his 250th appearance for Barcelona in the Copa del Rey match against Mallorca
+YN	Has Iniesta been chosen in the UEFA Team of the Year five times (2009?	Yes
+WHAT	What has been chosen in the UEFA Team of the Year five times ( 2009?	Iniesta has been chosen in the UEFA Team of the Year five times ( 2009
+WHAT	What was eliminated from the tournament at the semi-final stage?	Spain was eliminated from the tournament at the semi-final stage
+YN	Did Iniesta play and was influential in the game?	Yes
+WHO	Who was able to switch his number 24 shirt for his preferred number 8?	Iniesta was able to switch his number 24 shirt for his preferred number 8
+YN	Has Iniesta a sponsorship deal with American sportswear and equipment supplier?	Yes
+YN	Did Iniesta steer Spain to their second consecutive continental crown?	Yes
+YN	Did Iniesta invest €420,000 in his boyhood club?	Yes
+YN	Did Iniesta do not participate in the 2009 FIFA Confederations Cup in South Africa due to a thigh muscle injury?	Yes
+WHAT	What named him the Man of the Match?	The Technical Study Group named him the Man of the Match
+YN	Is Iniesta considered to be one of the best players of his generation and one of the greatest midfielders of all time?	Yes
+WHO	Who responded the same day to deny the rumours?	Iniesta responded the same day to deny the rumours
+YN	Was Iniesta's 2009–10 season largely disrupted by recurrent injuries?	Yes
+YN	Did Iniesta make his 250th appearance for Barcelona in the Copa del Rey match against Mallorca?	Yes
+WHO	Who had the ninth highest social media rank in the world among sportspeople?	Iniesta had the ninth highest social media rank in the world among sportspeople
+WHO	Who suffered a leg injury and was expected to return to action in six weeks?	Iniesta suffered a leg injury and was expected to return to action in six weeks
+YN	Did Iniesta respond the same day to deny the rumours?	Yes
+WHO	Who played for Spain at the Under-16?	Iniesta played for Spain at the Under-16
+YN	Has Iniesta been praised for his understanding and interplay with Xavi?	Yes
+YN	Was Iniesta shortlisted for the Golden Ball award?	Yes
+WHAT	What knew the FC Barcelona youth team coach?	His parents knew the FC Barcelona youth team coach
+WHAT	What decided on its new team captains?	the Barcelona squad decided on its new team captains
+WHO	Who placed fifth with 134 votes?	Iniesta placed fifth with 134 votes
+YN	Did Iniesta score a vital equaliser in the final minute of stoppage time during the second leg of the Champions League semi-final against Chelsea?	Yes
+YN	Did Iniesta win the UEFA Best Player in Europe award in 2012?	Yes
+WHO	Who was also chosen as the UEFA Euro 2012 Player of the Tournament?	Iniesta was also chosen as the UEFA Euro 2012 Player of the Tournament
+YN	Was Iniesta named captain on several occasions?	Yes
+YN	Did Iniesta place fifth with 134 votes?	Yes
+YN	Did Iniesta score one of the best goals in the UEFA Champions League group stage after a good interchange of passes with Lionel Messi?	Yes
+WHO	Who steered Spain to their second consecutive continental crown?	Iniesta steered Spain to their second consecutive continental crown
+YN	Was Andrés one of five nominations for the World Player of the Year award alongside teammates Lionel Messi?	Yes
+YN	Did Iniesta extend his contract to 2014?	Yes
+YN	Was Iniesta able to switch his number 24 shirt for his preferred number 8?	Yes
+YN	Was Iniesta substituted before the penalty shootout itself?	Yes
+YN	Was Iniesta followed by Iker Casillas?	Yes
+WHO	Who arrived at the club?	Iniesta arrived at the club
+WHO	Who has dated Anna Ortiz?	Iniesta has dated Anna Ortiz
+YN	Had Iniesta the ninth highest social media rank in the world among sportspeople?	Yes
+YN	Do helping Spain win the UEFA European Under-16 Championship?	Yes
+YN	Was Iniesta named in the six man shortlist for the 2011 Laureus World Sportsman of the Year?	Yes
+YN	Did Iniesta regularly captain Barcelona throughout the club's second treble winning season?	Yes
+YN	Did Iniesta equal Emilio Butragueno's record of 50 matches unbeaten in the Spanish La Liga?	Yes
+YN	Has Iniesta been one of the most consistent performers in the last two seasons of the Primera Division?	Yes
+YN	Did Iniesta come through La Masia?	Yes
+YN	Was Iniesta named man of the match after scoring a goal and assisting one more in a 0–4 win against rivals Real Madrid in El Clásico?	Yes
+YN	Did Iniesta play for Spain at the Under-16?	Yes
+WHAT	What is a Catholic?	Iniesta is a Catholic
+WHO	Who was selected in Spain 's squad for UEFA Euro 2008 in Austria and Switzerland?	Iniesta was selected in Spain 's squad for UEFA Euro 2008 in Austria and Switzerland
+WHO	Who described Iniesta as the best player in the world?	Wayne Rooney described Iniesta as the best player in the world
+WHO	Who came through La Masia?	Iniesta came through La Masia
+YN	Was Iniesta selected in Spain's squad for UEFA Euro 2008 in Austria and Switzerland?	Yes
+YN	Was Iniesta the most popular Spanish sportsman on the Internet throughout 2010?	Yes
+WHAT	What has been praised for his understanding and interplay with Xavi?	Iniesta has been praised for his understanding and interplay with Xavi
+YN	Did Iniesta score his first goal of the season for Barcelona during the opening La Liga fixture against Racing Santander?	Yes
+WHO	Who was named captain on several occasions?	Iniesta was named captain on several occasions
+YN	Did Iniesta start all three matches for Spain at the 2014 FIFA World Cup?	Yes
+YN	Was Iniesta also chosen as the UEFA Euro 2012 Player of the Tournament?	Yes
+WHAT	What played 12 October 2014?	match played 12 October 2014
+YN	Did Iniesta lift the Joan Gamper Trophy as the captain of the team?	Yes
+WHO	Who was substituted before the penalty shootout itself?	Iniesta was substituted before the penalty shootout itself
+WHAT	What performed by company Vipnet360 examined the web presence on platforms like Facebook?	The study performed by company Vipnet360 examined the web presence on platforms like Facebook
+YN	Did Iniesta become the only Spanish player to win the award at least once in each of Spain's three consecutive successful tournaments?	Yes
+YN	Was 25 November 2012 Iniesta named man of the match after scoring one goal and creating three others in a 4–0 win over Levante UD in the league?	Yes
+YN	Did Iniesta originally start as a defensive midfielder but his balance?	Yes
+YN	Did Iniesta play a pivotal part in Spain's qualification for UEFA Euro 2008 by scoring goals against Sweden and by assisting the strikers?	Yes
+WHAT	What married on 8 July 2012?	The couple married on 8 July 2012
+YN	Was Iniesta named the `` Best Player '' of the 2011–12 UEFA Champions League?	Yes
+YN	Was Iniesta included in a list of 30 candidates for the prestigious Ballon d'Or?	Yes
+WHO	Who traveled there with his parents and visited La Masia?	Iniesta traveled there with his parents and visited La Masia
+YN	Did Iniesta suffer a leg injury and was expected to return to action in six weeks?	Yes
+YN	Did Iniesta return to Barcelona for a pre-season medical on 9 August 2010?	Yes
+YN	Did Iniesta become the third Barcelona player ever?	Yes
+YN	Did Iniesta win his first cap for La Furia Roja he was brought on at half-time in a friendly against Russia on 27 May 2006?	Yes
+YN	Did Iniesta captain Barcelona in the 2015 UEFA Champions League Final?	Yes

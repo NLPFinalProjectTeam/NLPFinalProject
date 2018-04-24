@@ -1,0 +1,88 @@
+YN	Did indian mathematicians make early contributions to the study of the concept of zero as a number?	Yes
+WHAT	What were used for memorising mathematical texts?	Similar methods were used for memorising mathematical texts
+WHAT	What are made by the officiant as he recalls the formula from his memory?	All these inferences are made by the officiant as he recalls the formula from his memory
+WHAT	What are algebraic?	his explanations are algebraic
+YN	Was mathematics founded by Madhava of Sangamagrama in Kerala?	Yes
+WHAT	What has diagonals that are perpendicular to each other?	a cyclic quadrilateral has diagonals that are perpendicular to each other
+WHAT	What list ( link )?	authors list ( link )
+YN	Are indian mathematicians presently culturally attributed to their Western counterparts?	Yes
+WHAT	What provide evidence for the use of large numbers?	the Vedic Period provide evidence for the use of large numbers
+WHAT	What seems to make the case that by the mid-3rd century CE?	Such use seems to make the case that by the mid-3rd century CE
+WHAT	What list ( link )?	authors list ( link )
+WHO	Who was in continuous contact with China and Arabia?	Kerala was in continuous contact with China and Arabia
+WHAT	What was employed in a verse composition technique?	A third decimal representation was employed in a verse composition technique
+WHAT	What was also used to transmit philosophical and literary works?	recitation was also used to transmit philosophical and literary works
+WHAT	What list ( link )?	authors list ( link )
+WHAT	What is often known as the golden age of Indian Mathematics?	This period is often known as the golden age of Indian Mathematics
+WHAT	What was first recorded in Indian mathematics?	worldwide use today was first recorded in Indian mathematics
+WHAT	What possessed by each merchant?	the animals possessed by each merchant
+WHAT	What included the Vaishali Ganit ( c. 3rd century BCE )?	mathematics included the Vaishali Ganit ( c. 3rd century BCE )
+WHAT	What predates its most famous exponent?	philosophy predates its most famous exponent
+YN	Was the Indian decimal place value system based on the symbols used on Chinese counting boards from as early as the middle of the first millennium BCE?	Yes
+YN	Did Mathematics arise as a part of the last two disciplines?	Yes
+WHAT	What did not invent calculus?	the Kerala School did not invent calculus
+WHAT	What were transmitted to the Middle East?	These mathematical concepts were transmitted to the Middle East
+YN	Does indian science go back to at least the fifth century B.C?	Yes
+WHO	Who did not actually prove the theorem?	Brahmagupta did not actually prove the theorem
+WHAT	What is being pursued?	This research is being pursued
+YN	Did mathematics include the Vaishali Ganit (c. 3rd century BCE)?	Yes
+WHAT	What were almost completely neglected?	Whish 's results were almost completely neglected
+WHAT	What included both astronomical and mathematical contributions?	their works included both astronomical and mathematical contributions
+WHAT	What was the development of the series expansions for trigonometric functions ( sine?	Indian mathematics was the development of the series expansions for trigonometric functions ( sine
+WHO	Who made references to this text?	Aryabhata made references to this text
+WHAT	What were composed?	three Sulba Sutras were composed
+YN	Did indian mathematics emerge in the Indian subcontinent from 1200 BCE until the end of the 18th century?	Yes
+YN	Was where Indian cultural influence substantial?	Yes
+WHO	Who included up to eleven forms of recitation of the same text?	the sacred Vedas included up to eleven forms of recitation of the same text
+WHAT	What has seven asava horses?	One merchant has seven asava horses
+YN	Is Arabic mathematics ] all too likely to be tempered with dismissive rejections of their importance compared to Greek mathematics?	Yes
+WHAT	What lay in their freeing Indian mathematics from its religious and ritualistic constraints?	Jain mathematicians lay in their freeing Indian mathematics from its religious and ritualistic constraints
+WHAT	What were first written up for the Western world by Englishman C.M?	the Kerala school were first written up for the Western world by Englishman C.M
+WHAT	What put 1 in the two squares at the ends and?	the third line put 1 in the two squares at the ends and
+WHAT	What put the sum of the digits in the two squares above each?	the middle ones put the sum of the digits in the two squares above each
+YN	Did school children conduct by the Computer Science department of Anna University?	Yes
+WHAT	What multiplied by four times the [ coefficient of the ] square?	To the absolute number multiplied by four times the [ coefficient of the ] square
+YN	Was indian mathematics the development of the series expansions for trigonometric functions (sine?	Yes
+WHAT	What were later transmitted to the Middle East and Europe?	his contributions were later transmitted to the Middle East and Europe
+WHAT	What was not formulated or employed in proofs?	the inductive hypothesis was not formulated or employed in proofs
+WHAT	What mentions the date 595 CE?	India mentions the date 595 CE
+WHAT	What were shown by radiocarbon dating to come from three different centuries?	the manuscript were shown by radiocarbon dating to come from three different centuries
+WHAT	What is now considered a plausible date?	The 7th century CE is now considered a plausible date
+WHAT	What is unknown?	its authorship is unknown
+WHAT	What manufactured bricks whose dimensions were in the proportion 4:2:1?	the Indus Valley Civilization manufactured bricks whose dimensions were in the proportion 4:2:1
+YN	Did indian scholars make discoveries before the 17th century that are now considered a part of calculus?	Yes
+YN	Bressoud, David (2002), "Was Calculus Invented in India?	Yes
+WHAT	What conducted by the Computer Science department of Anna University?	school children conducted by the Computer Science department of Anna University
+WHAT	What consists of rules and examples?	Its mathematical content consists of rules and examples
+WHAT	What were subsequently `` proof-read '' by comparing the different recited versions?	The texts were subsequently `` proof-read '' by comparing the different recited versions
+WHAT	What given for operations involving zero?	Eight rules given for operations involving zero
+WHAT	What is a work on arithmetic and measurement?	The Pati Ganita is a work on arithmetic and measurement
+WHO	Who gave an explanation and justification of his rule as well as an example?	Citrabhanu gave an explanation and justification of his rule as well as an example
+WHAT	What covered with dust )?	boards covered with dust )
+WHAT	What were required to be constructed of five layers of burnt brick?	The altars were required to be constructed of five layers of burnt brick
+WHAT	What was invented is not so clear?	where the first decimal place value system was invented is not so clear
+WHAT	What have uncovered evidence of the use of `` practical mathematics ''?	the Indus Valley Civilisation have uncovered evidence of the use of `` practical mathematics ''
+WHAT	What was further advanced in India?	trigonometry was further advanced in India
+WHAT	What treated include arithmetic ( fractions?	The topics treated include arithmetic ( fractions
+WHAT	What was achieved through multiple means?	Extreme brevity was achieved through multiple means
+WHAT	What is estimated to have about thirty million manuscripts?	India today is estimated to have about thirty million manuscripts
+WHAT	What goes back to at least the fifth century B.C?	Indian science goes back to at least the fifth century B.C
+YN	Is the Indian subcontinent the birch bark Bakhshali Manuscript?	Yes
+WHAT	What saw mathematicians such as Aryabhata?	This period saw mathematicians such as Aryabhata
+WHAT	What produced on the Indian subcontinent is the birch bark Bakhshali Manuscript?	The oldest extant mathematical document produced on the Indian subcontinent is the birch bark Bakhshali Manuscript
+WHAT	What was founded by Madhava of Sangamagrama in Kerala?	mathematics was founded by Madhava of Sangamagrama in Kerala
+WHAT	What using the chakravala method?	Pell 's equation using the chakravala method
+YN	Did their works include both astronomical and mathematical contributions?	Yes
+WHAT	What having two square roots?	a positive number having two square roots
+WHAT	What using the chakravala method?	The general indeterminate quadratic equation using the chakravala method
+WHAT	What led them to classify numbers into three classes?	infinities led them to classify numbers into three classes
+WHAT	What was also known to Alhazen?	large n. This result was also known to Alhazen
+WHO	Who derived to calculate the area of an ellipse and quadrilateral inside a circle?	Formulae derived to calculate the area of an ellipse and quadrilateral inside a circle
+WHAT	What had numeral symbols and numeral systems?	Both scripts had numeral symbols and numeral systems
+WHAT	What arose as a part of the last two disciplines?	Mathematics arose as a part of the last two disciplines
+WHAT	What were composed in verse?	many early technical works were composed in verse
+WHAT	What included Bhadrabahu ( d. 298 BCE )?	Important Jain mathematicians included Bhadrabahu ( d. 298 BCE )
+WHAT	What employing object numbers is a ca?	The earliest reference employing object numbers is a ca
+YN	Did Aryabhata make references to this text?	Yes
+WHAT	What were orally transmitted until approximately 500 BCE?	All mathematical works were orally transmitted until approximately 500 BCE
+WHAT	What put 1 in the two squares at the ends?	the fourth line put 1 in the two squares at the ends

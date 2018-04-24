@@ -1,0 +1,51 @@
+YN	Is a red Gyarados found in the Lake of Rage?	Yes
+YN	Does a Gyarados appear in the Miracle Sea?	Yes
+YN	Is Gyarados based on the ancient Chinese tradition that the carp would evolve into a dragon after swimming upstream?	Yes
+WHO	Who returns Gyarados to Red?	Blue returns Gyarados to Red
+YN	Was a red Gyarados the leader of a group of Gyarados?	Yes
+WHO	Who was able to free himself and Lt. Surge returned it to Silver?	Gyarados was able to free himself and Lt. Surge returned it to Silver
+YN	Did Nintendo decide to give the various Pokémon species `` clever and descriptive names '' related to their appearance or features?	Yes
+YN	Do Gyarados usually live in large bodies of water?	Yes
+WHAT	What focused on a red Gyarados?	Innocence focused on a red Gyarados
+YN	Was Gyarados able to free himself and Lt. Surge returned it to Silver?	Yes
+WHAT	What owns a Gyarados in the Electric Tale of Pikachu manga?	Misty owns a Gyarados in the Electric Tale of Pikachu manga
+YN	Did Gyarados first appear in the video games Pokémon Red and Pokemon Green and subsequent sequels?	Yes
+WHAT	What are said to appear?	human conflict Gyarados are said to appear
+YN	Did this Gyarados appear again in Gaining Groudon and The Scuffle of Legends to stop the feuding of Groudon and Kyogre?	Yes
+YN	Is Gyarados used by many notable trainers such as Blue?	Yes
+YN	Is Gyarados known for its fierce temper and wanton destructive tendencies?	Yes
+YN	Does Gyarados make many appearances outside of the main series?	Yes
+WHAT	What owns a Gyarados?	Misty owns a Gyarados
+YN	Does Gyarados first appear in the Pokémon video game series in Pokémon Red and Blue?	Yes
+YN	Does Gyarados debut in the Red?	Yes
+WHAT	What is used by many notable trainers such as Blue?	Gyarados is used by many notable trainers such as Blue
+WHO	Who traded this Gyarados to Red in exchange for Red 's Krabby?	Misty traded this Gyarados to Red in exchange for Red 's Krabby
+YN	Does manage to get over the fear?	Yes
+WHAT	What has appeared many other times under the ownership of various trainers?	Gyarados has appeared many other times under the ownership of various trainers
+WHAT	What was `` Skulkraken ''?	the species ' beta name was `` Skulkraken ''
+YN	Does Gyarados try to take over the Beach Zone in Empoleon's absence?	Yes
+YN	Is the Gyarados evolved by obtaining 400 Magikarp Candies?	Yes
+YN	Has Gyarados received generally positive reception?	Yes
+YN	Has Gyarados received generally positive reception?	Yes
+WHO	Who described it as a `` classic powerhouse ''?	Wired 's John Mix Meyer described it as a `` classic powerhouse ''
+YN	Do two different Gyarados appear in the Pokémon Adventures manga?	Yes
+WHAT	What is known for its fierce temper and wanton destructive tendencies?	Gyarados is known for its fierce temper and wanton destructive tendencies
+YN	Is Gyarados a large sea serpent Pokémon most similar in appearance to dragons seen in Chinese mythology?	Yes
+WHO	Who borrows Blue 's Charizard to travel to Mt?	When Red borrows Blue 's Charizard to travel to Mt
+WHAT	What is largely blue?	Its snakelike body is largely blue
+WHAT	What appears multiple times in the anime under various trainers such as Misty?	Gyarados appears multiple times in the anime under various trainers such as Misty
+WHO	Who was the leader of a group of Gyarados?	A red Gyarados was the leader of a group of Gyarados
+WHAT	What is found uncommonly?	Gyarados is found uncommonly
+WHAT	What is mentioned at the beginning of Diamond and Pearl?	This Gyarados is mentioned at the beginning of Diamond and Pearl
+WHAT	What has one chance to catch it?	The player has one chance to catch it
+YN	Is Gyarados voiced by Unshō Ishizuka in both Japanese and English media?	Yes
+YN	Has Gyarados appeared many other times under the ownership of various trainers?	Yes
+YN	Is this Gyarados mentioned at the beginning of Diamond and Pearl?	Yes
+YN	Is Gyarados one of several Pokémon to gain a Mega Evolution in Pokémon X and Y?	Yes
+YN	Are human conflict Gyarados said to appear?	Yes
+YN	Has Gyarados been shown in the Magikarp Festival as one of these arenas as only a background character?	Yes
+YN	Is Gyarados generally considered one of the most difficult Pokémon to obtain?	Yes
+YN	Does Gyarados appear multiple times in the anime under various trainers such as Misty?	Yes
+YN	Has Gyarados been described as both one of the most well known and most powerful Pokémon?	Yes
+YN	Was this Gyarados frozen and remained at the bottom of Lake of Rage until Lt. Surge discovered it?	Yes
+WHAT	What is attributed to the dramatic structural changes its brain undergoes during evolution?	This violent nature is attributed to the dramatic structural changes its brain undergoes during evolution

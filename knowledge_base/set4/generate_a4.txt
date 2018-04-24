@@ -1,0 +1,274 @@
+WHAT	What remains poorly understood?	this acceleration remains poorly understood
+WHAT	What was of major concern to many astronomers?	a successor was of major concern to many astronomers
+WHAT	What were sharper than any taken since the passage of Voyager 2 in 1979?	the planet were sharper than any taken since the passage of Voyager 2 in 1979
+YN	Is Hubble one of the largest and most versatile?	Yes
+YN	Had the Hubble constant typically errors of up to 50%?	Yes
+WHO	Who was not designed to be serviced after launch?	Herschel was not designed to be serviced after launch
+WHAT	What headed by Lew Allen?	A commission headed by Lew Allen
+WHAT	What is named after the astronomer Edwin Hubble?	The HST is named after the astronomer Edwin Hubble
+YN	Did the Space Telescope Science Institute (STScI) release an image from the Carina Nebula?	Yes
+WHAT	What was a boon for NASA?	Its success was a boon for NASA
+WHAT	What are turned off?	the FGSs are turned off
+YN	Is the telescope operating as of 2018?	Yes
+YN	Do what managers can learn from it) ''?	Yes
+WHAT	What appeared to be sharper than those of ground-based telescopes?	the first images appeared to be sharper than those of ground-based telescopes
+YN	Is the telescope time designated `` director's discretionary '' (DD) time?	Yes
+YN	Did the telescope become the butt of many jokes?	Yes
+WHAT	What are monochromatic grayscale?	Hubble are monochromatic grayscale
+WHAT	What declared the mission a complete success and showed the first sharper images?	NASA declared the mission a complete success and showed the first sharper images
+WHAT	What were awarded time on the telescope?	Thirteen amateur astronomers were awarded time on the telescope
+WHAT	What was a high-resolution imaging device primarily intended for optical observations?	WF/PC was a high-resolution imaging device primarily intended for optical observations
+WHAT	What convened four panels to discuss key projects?	STScI convened four panels to discuss key projects
+YN	Have many Hubble observations led to breakthroughs in astrophysics?	Yes
+WHAT	What has recorded some of the most detailed visible light images ever?	Hubble has recorded some of the most detailed visible light images ever
+WHAT	What are now assembled using pressurized nitrogen?	Gyros are now assembled using pressurized nitrogen
+WHAT	What spread out over a radius of more than one arcsecond?	point sources spread out over a radius of more than one arcsecond
+WHAT	What made on Director 's Discretionary Time are exempt from the proprietary period?	Observations made on Director 's Discretionary Time are exempt from the proprietary period
+WHAT	What was completed?	Once work was completed
+YN	Was Hubble pictured with the Lusitania?	Yes
+WHAT	What was replaced with the COSTAR corrective optics package?	the High Speed Photometer was replaced with the COSTAR corrective optics package
+WHAT	What built into their surfaces could completely cancel the aberration of the primary?	An inverse error built into their surfaces could completely cancel the aberration of the primary
+WHO	Who was funded in the 1970s?	Hubble was funded in the 1970s
+WHO	Who had ground a back-up mirror for Hubble?	Kodak had ground a back-up mirror for Hubble
+WHAT	What were dismissed?	these results were dismissed
+WHAT	What recommended the development of a space telescope as part of the space program?	Sciences recommended the development of a space telescope as part of the space program
+WHO	Who authorized Goddard to proceed with preparations for a manned Hubble maintenance flight?	his appointment Griffin authorized Goddard to proceed with preparations for a manned Hubble maintenance flight
+WHAT	What identified three such projects?	The panels identified three such projects
+WHAT	What analyzed its surface with two conventional refractive null correctors?	Perkin-Elmer analyzed its surface with two conventional refractive null correctors
+WHAT	What were later canceled?	These plans were later canceled
+YN	Is Hubble the only telescope designed to be serviced in space by astronauts?	Yes
+WHAT	What made the support of work by amateur astronomers untenable?	STScI made the support of work by amateur astronomers untenable
+WHAT	What were stringently reviewed by a committee of amateur astronomers?	amateur time were stringently reviewed by a committee of amateur astronomers
+YN	Did Hubble capture an image of the first-ever predicted reappearance of a supernova?	Yes
+WHAT	What was coordinated among astronomers?	a nationwide lobbying effort was coordinated among astronomers
+WHAT	What have required new theories to explain them?	Some results have required new theories to explain them
+WHAT	What saw Discovery launch the telescope successfully into its planned orbit?	shuttle mission STS-31 saw Discovery launch the telescope successfully into its planned orbit
+WHAT	What were estimated to be about US $ 10 billion in 2010?	Hubble 's cumulative costs were estimated to be about US $ 10 billion in 2010
+WHAT	What observe in the near ultraviolet?	Hubble 's four main instruments observe in the near ultraviolet
+YN	Did the Hubble Space Telescope celebrate its 20th anniversary in space on April 24?	Yes
+YN	Was hubble data initially stored on the spacecraft?	Yes
+WHAT	What was initially stored on the spacecraft?	Hubble data was initially stored on the spacecraft
+WHAT	What has a resolution of 0.64 megapixels?	Each CCD has a resolution of 0.64 megapixels
+WHAT	What polishing continued until May 1981?	Mirror polishing continued until May 1981
+WHAT	What were assembled using pressurized nitrogen and they should be much more reliable?	The new gyro models were assembled using pressurized nitrogen and they should be much more reliable
+WHAT	What produces educational material?	ESA produces educational material
+YN	Does the Space Telescope Science Institute (STScI) select Hubble's targets and processes the resulting data?	Yes
+WHAT	What show the positive impact of Hubble data on astronomy?	Many objective measures show the positive impact of Hubble data on astronomy
+YN	Has Hubble also made significant contributions to aerospace engineering?	Yes
+YN	Had the other instruments to be removed?	Yes
+WHAT	What have led to breakthroughs in astrophysics?	Many Hubble observations have led to breakthroughs in astrophysics
+WHAT	What is 20 times faster?	The new computer is 20 times faster
+WHAT	What was a precise characterization of the error in the main mirror?	The first step was a precise characterization of the error in the main mirror
+YN	Was 1983 the telescope named after Edwin Hubble?	Yes
+WHAT	What became the butt of many jokes?	the telescope became the butt of many jokes
+YN	Do the Hubble Space Telescope can be traced back as far as 1946?	Yes
+YN	Was the telescope scheduled for 1990?	Yes
+WHO	Who continued to be expressed about Perkin-Elmer 's competence on a project of this importance?	Doubts continued to be expressed about Perkin-Elmer 's competence on a project of this importance
+YN	Do sometimes challenge HST in terms of resolution by using adaptive optics (AO)?	Yes
+WHAT	What needed to control Hubble was not ready in 1986?	the ground software needed to control Hubble was not ready in 1986
+WHAT	What had been severely strained during the telescope construction?	the optics company had been severely strained during the telescope construction
+YN	Did STScI release images of the Westerlund 2 cluster?	Yes
+WHAT	What celebrated its 20th anniversary in space on April 24?	The Hubble Space Telescope celebrated its 20th anniversary in space on April 24
+YN	Do using Hubble to study the motion of its aurorae?	Yes
+WHAT	What is in the FITS format?	the archive is in the FITS format
+YN	Did the European Space Agency create a dedicated 25th anniversary page on its website?	Yes
+WHAT	What are also difficult or impossible to study from the ground?	These wavelengths are also difficult or impossible to study from the ground
+WHAT	What is to observe the most distant objects in the universe?	JWST is to observe the most distant objects in the universe
+WHAT	What is granted a small amount of time to observe objects which?	The Heritage Project is granted a small amount of time to observe objects which
+WHAT	What had begun on a very small scale following World War II?	Space-based astronomy had begun on a very small scale following World War II
+YN	Were Space telescopes proposed as early as 1923?	Yes
+WHAT	What were replaced with more advanced ones during the Shuttle servicing missions?	Early instruments were replaced with more advanced ones during the Shuttle servicing missions
+WHAT	What failed in September 2008?	Hubble 's main data-handling unit failed in September 2008
+WHAT	What served as a unique opportunity for astronomers to test their models of?	Refsdal 's reappearance served as a unique opportunity for astronomers to test their models of
+YN	Had the telescope always incorporated servicing missions?	Yes
+WHAT	What occurred on February 11?	The Hubble observations occurred on February 11
+WHAT	What lacked any intermediate surfaces that could be figured in this way?	the other instruments lacked any intermediate surfaces that could be figured in this way
+YN	Was the Corrective Optics Space Telescope Axial Replacement (COSTAR) system designed to correct the spherical aberration for light focused at the FOC?	Yes
+WHAT	What determine the final performance?	the telescope determine the final performance
+WHAT	What were designed as orbital replacement units?	limited life items were designed as orbital replacement units
+WHAT	What indicated a serious problem with the optical system?	the returned images indicated a serious problem with the optical system
+WHAT	What is composed of amateur and professional astronomers?	The Heritage team is composed of amateur and professional astronomers
+WHAT	What demonstrated the important role space-based observations could play in astronomy?	OAO missions demonstrated the important role space-based observations could play in astronomy
+WHAT	What was dismantled?	The first WFPC was dismantled
+WHAT	What bright light out of the FGSs?	Moon avoidance keeps bright light out of the FGSs
+WHAT	What published a report emphasizing the need for a space telescope?	Sciences published a report emphasizing the need for a space telescope
+WHAT	What according to many factors?	the upper atmosphere varies according to many factors
+WHAT	What led to Congress deleting all funding for the telescope project?	public spending cuts led to Congress deleting all funding for the telescope project
+WHAT	What blamed the failings primarily on Perkin-Elmer?	The commission blamed the failings primarily on Perkin-Elmer
+WHAT	What has clearly helped astronomical research?	the HST has clearly helped astronomical research
+WHAT	What are also publicly available straight away?	dark frames are also publicly available straight away
+WHAT	What is in the Dornier museum?	The FOC is in the Dornier museum
+WHAT	What was forced to postpone the launch date until March and then September 1986?	NASA was forced to postpone the launch date until March and then September 1986
+YN	Are hubble shows that black holes probably common to the centers of all galaxies?	Yes
+WHO	Who convened an official panel?	Sciences convened an official panel
+WHAT	What had their own embedded microprocessor-based control systems?	components had their own embedded microprocessor-based control systems
+YN	Do space telescopes can study the universe across the entire electromagnetic spectrum?	Yes
+WHAT	What is calibrated automatically is known as 'pipeline reduction '?	which data is calibrated automatically is known as 'pipeline reduction '
+YN	Do Hubble will occur between 2028 and 2040?	Yes
+YN	Is the Hubble observatory nearing the end of its life?	Yes
+WHAT	What failed after three days?	OAO-1 's battery failed after three days
+WHAT	What was assailed by numerous astronomers?	This decision was assailed by numerous astronomers
+WHAT	What are accessible to high-resolution ground-based imaging?	astronomical objects are accessible to high-resolution ground-based imaging
+YN	Has Hubble contributed to studies of the behavior of graphite composite structures in vacuum?	Yes
+YN	Has the Hubble Space Telescope won two Space Achievement Awards from the Space Foundation?	Yes
+YN	Has Europe been the Hubble European Space Agency Information Centre (HEIC)?	Yes
+WHAT	What had been given the go-ahead?	Once the Space Telescope project had been given the go-ahead
+YN	Did the Space Telescope Imaging Spectrograph (STIS) fail?	Yes
+WHAT	What was added during SM 4?	the wide angle channel was added during SM 4
+WHAT	What ran into difficulties?	case their cutting-edge technology ran into difficulties
+YN	Did the telescope still carry out a large number of productive observations of less demanding targets?	Yes
+YN	Has Hubble recorded some of the most detailed visible light images ever?	Yes
+WHAT	What downlinks approximately 140 gigabits of data?	HST downlinks approximately 140 gigabits of data
+YN	Has Hubble helped resolve some long-standing problems in astronomy?	Yes
+YN	Are Hubble the Hubble Deep Field?	Yes
+YN	Did Hubble help to refine estimates of the age of the universe?	Yes
+WHAT	What created a dedicated 25th anniversary page on its website?	The European Space Agency created a dedicated 25th anniversary page on its website
+YN	Did the returned images indicate a serious problem with the optical system?	Yes
+WHO	Who gave the final go-ahead?	October 2006 Griffin gave the final go-ahead
+YN	Do advanced 21st-century space telescopes include the Advanced Technology Large-Aperture Space Telescope?	Yes
+WHAT	What was also published in Icarus?	amateurs was also published in Icarus
+WHAT	What include the Advanced Technology Large-Aperture Space Telescope?	advanced 21st-century space telescopes include the Advanced Technology Large-Aperture Space Telescope
+YN	Do a proposed precursor 1.5 m (4.9 ft) space telescope to test the systems to be used on the main satellite was dropped?	Yes
+YN	Did the Hubble programs further establish that the masses of the nuclear black holes and properties of the galaxies are closely related?	Yes
+WHO	Who projected that Hubble could survive into the 2020s?	deputy project manager James Jeletic projected that Hubble could survive into the 2020s
+WHAT	What is designated `` director 's discretionary '' ( DD ) time?	the telescope time is designated `` director 's discretionary '' ( DD ) time
+WHAT	What was replaced by the WFPC-2 during Servicing Mission 1 in 1993?	The WFPC-1 was replaced by the WFPC-2 during Servicing Mission 1 in 1993
+WHAT	What found that Perkin-Elmer did not review or supervise the mirror construction adequately?	NASA found that Perkin-Elmer did not review or supervise the mirror construction adequately
+WHAT	What allows it to take extremely high-resolution images?	Earth 's atmosphere allows it to take extremely high-resolution images
+WHAT	What described as `` unsettled and changing daily ''?	response to a schedule described as `` unsettled and changing daily ''
+WHAT	What was constructed by ESA?	The FOC was constructed by ESA
+WHAT	What established two committees?	NASA established two committees
+WHAT	What are issued roughly annually?	proposals are issued roughly annually
+WHAT	What are divided into several categories?	Proposals are divided into several categories
+WHAT	What continued to slip at a rate of about one month per quarter?	Perkin-Elmer 's schedules continued to slip at a rate of about one month per quarter
+WHAT	What were corrected to their intended quality by a servicing mission in 1993?	The optics were corrected to their intended quality by a servicing mission in 1993
+WHAT	What published each year that receive the most citations?	the 200 papers published each year that receive the most citations
+WHAT	What installed the replacement data-handling unit?	SM4 installed the replacement data-handling unit
+WHAT	What was strictly a corrective optics device rather than a true science instrument?	COSTAR was strictly a corrective optics device rather than a true science instrument
+WHAT	What was named after Edwin Hubble?	1983 the telescope was named after Edwin Hubble
+WHAT	What were replaced ( with two new pairs and one refurbished pair )?	which all six gyros were replaced ( with two new pairs and one refurbished pair )
+WHAT	What were trained to use about a hundred specialized tools?	the mission were trained to use about a hundred specialized tools
+WHAT	What was built by the United States space agency NASA?	The HST was built by the United States space agency NASA
+WHAT	What is estimated to be 100 km ( 60 mi ) deep?	The ocean is estimated to be 100 km ( 60 mi ) deep
+WHO	Who was to retrieve it using a space shuttle?	safely de-orbiting Hubble was to retrieve it using a space shuttle
+WHAT	What installed the Soft Capture and Rendezvous System?	Ultimately NASA installed the Soft Capture and Rendezvous System
+WHAT	What is nearing the end of its life?	the Hubble observatory is nearing the end of its life
+WHAT	What failed in 2007?	One more gyro failed in 2007
+WHAT	What have been ACS?	the four active instruments have been ACS
+WHAT	What is the only telescope designed to be serviced in space by astronauts?	Hubble is the only telescope designed to be serviced in space by astronauts
+YN	Have Hubble would then most likely been displayed in the Smithsonian Institution?	Yes
+WHAT	What is thus to demonstrate a deep connection between galaxies and their central black holes?	galaxies is thus to demonstrate a deep connection between galaxies and their central black holes
+YN	Do instruments would be housed proceeded somewhat more smoothly than the construction of the OTA?	Yes
+WHAT	What result from Hubble 's long lifetime on orbit?	These insights result from Hubble 's long lifetime on orbit
+WHO	Who was designed to accommodate regular servicing and equipment upgrades while in orbit?	Hubble was designed to accommodate regular servicing and equipment upgrades while in orbit
+YN	Did five subsequent Space Shuttle missions repair?	Yes
+YN	Does the Hubble Heritage Project process and releases to the public a small selection of the most striking images in JPEG and TIFF formats?	Yes
+WHAT	What was obtained in 1946?	the Sun was obtained in 1946
+WHAT	What based on Hubble data have been published in peer-reviewed journals?	15,000 papers based on Hubble data have been published in peer-reviewed journals
+WHAT	What materialized as the Next Generation Space Telescope project?	a Hubble successor materialized as the Next Generation Space Telescope project
+WHAT	What is an international collaboration between NASA?	The telescope is an international collaboration between NASA
+WHAT	What is primarily an infrared instrument?	JWST is primarily an infrared instrument
+WHAT	What was established at the Space Telescope European Coordinating Facility in Munich?	This office was established at the Space Telescope European Coordinating Facility in Munich
+WHAT	What was released for Hubble 's 26th `` birthday ''?	the Bubble Nebula was released for Hubble 's 26th `` birthday ''
+WHAT	What has won two Space Achievement Awards from the Space Foundation?	The Hubble Space Telescope has won two Space Achievement Awards from the Space Foundation
+WHAT	What have helped to keep the public informed about Hubble activities?	Several initiatives have helped to keep the public informed about Hubble activities
+WHAT	What were discovered?	Hubble 's mirror were discovered
+WHAT	What was a spectrograph designed to operate in the ultraviolet?	The GHRS was a spectrograph designed to operate in the ultraviolet
+YN	Was safely de-orbiting Hubble to retrieve it using a space shuttle?	Yes
+YN	Do it would have to withstand frequent passages from direct sunlight into the darkness of Earth's shadow?	Yes
+YN	Do the Visionaries Who Built It?	Yes
+WHAT	What is in the Space Place at the University of Wisconsin-Madison?	The HSP is in the Space Place at the University of Wisconsin-Madison
+WHAT	What using Hubble data announced the discovery of the farthest known galaxy to date?	researchers using Hubble data announced the discovery of the farthest known galaxy to date
+YN	Was the ground software needed to control Hubble not ready in 1986?	Yes
+WHO	Who devoted much of his career to pushing for the development of a space telescope?	Spitzer devoted much of his career to pushing for the development of a space telescope
+WHO	Who is one of the largest and most versatile?	Hubble is one of the largest and most versatile
+WHAT	What is the upcoming Frontier Fields program?	One example is the upcoming Frontier Fields program
+WHO	Who has contributed to studies of the behavior of graphite composite structures in vacuum?	Hubble has contributed to studies of the behavior of graphite composite structures in vacuum
+WHAT	What called for Hubble to be serviced in February 2005?	Plans called for Hubble to be serviced in February 2005
+WHAT	What had risen to US $ 1.175 billion?	the total project budget had risen to US $ 1.175 billion
+WHAT	What maintains the custom-made Space Telescope Science Data Analysis System ( STSDAS ) software?	STScI maintains the custom-made Space Telescope Science Data Analysis System ( STSDAS ) software
+WHAT	What had to be kept in a clean room?	The telescope had to be kept in a clean room
+WHAT	What was no longer required?	COSTAR was no longer required
+YN	Does Earth's atmosphere allow it to take extremely high-resolution images?	Yes
+YN	Did establish at Garching bei München near Munich in 1984?	Yes
+WHAT	What reveal galaxies billions of light years away?	The images reveal galaxies billions of light years away
+YN	Does which then downlinks the science data to one of two 60-foot (18-meter) diameter high-gain microwave antennas located at the White Sands Test Facility in White Sands?	Yes
+WHAT	What enabled by Hubble are the Hubble Deep Field?	the Universe enabled by Hubble are the Hubble Deep Field
+YN	Did the Hubble observations occur on February 11?	Yes
+WHAT	What operates the HubbleSite.org website?	STScI operates the HubbleSite.org website
+WHAT	What are typically finalized only a few days in advance?	Observation schedules are typically finalized only a few days in advance
+YN	Was Hubble designed to accommodate regular servicing and equipment upgrades while in orbit?	Yes
+YN	Do hubble data can be analyzed using many different packages?	Yes
+WHAT	What was fixed during Servicing Mission 4 in May 2009?	This power supply was fixed during Servicing Mission 4 in May 2009
+YN	Had once the Space Telescope project been given the go-ahead?	Yes
+WHAT	What requiring COSTAR had been replaced by instruments with their own corrective optics?	the original instruments requiring COSTAR had been replaced by instruments with their own corrective optics
+WHAT	What using Hubble discovered a tiny fifth moon moving around icy Pluto?	US astronomers using Hubble discovered a tiny fifth moon moving around icy Pluto
+YN	Is all Hubble data eventually made available via the Mikulski Archive for Space Telescopes at STScI?	Yes
+WHAT	What led to something of a reduction in the scale of the project?	The funding issues led to something of a reduction in the scale of the project
+WHAT	What is kept in hibernation?	NICMOS is kept in hibernation
+WHAT	What was referred to as `` the largest project in the history of Hubble ''?	CANDELS was referred to as `` the largest project in the history of Hubble ''
+YN	Was an orbiting solar telescope launched in 1962 by the United Kingdom as part of the Ariel space program?	Yes
+WHAT	What flew aboard Endeavour in December 1993?	SM1 flew aboard Endeavour in December 1993
+WHAT	What have been carried out?	research projects have been carried out
+WHAT	What was added during Servicing Mission 1 in 1993?	the DF-224 was added during Servicing Mission 1 in 1993
+WHAT	What questioned Perkin-Elmer 's managerial structure?	the time questioned Perkin-Elmer 's managerial structure
+YN	Is Hubble's operation monitored 24 hours per day by four teams of flight controllers who make up Hubble's Flight Operations Team?	Yes
+WHO	Who captured an image of the first-ever predicted reappearance of a supernova?	Hubble captured an image of the first-ever predicted reappearance of a supernova
+WHAT	What were upgraded with added coprocessors?	The onboard computers were upgraded with added coprocessors
+YN	Does the telescope determine the final performance?	Yes
+WHAT	What had always incorporated servicing missions?	the telescope had always incorporated servicing missions
+WHAT	What replaced all six gyroscopes?	The mission replaced all six gyroscopes
+WHAT	What were also replaced?	their drive electronics were also replaced
+WHAT	What extended the service contract for Hubble until June 2021?	NASA extended the service contract for Hubble until June 2021
+WHAT	What runs as a module of IRAF?	The software runs as a module of IRAF
+WHAT	What was initially canceled on safety grounds following the Columbia disaster ( 2003 )?	The fifth mission was initially canceled on safety grounds following the Columbia disaster ( 2003 )
+WHAT	What began in 1979?	the Perkin-Elmer mirror began in 1979
+WHAT	What have subsequently been awarded Nobel Prizes for their discovery?	these two groups have subsequently been awarded Nobel Prizes for their discovery
+WHAT	What considered adding an external propulsion module to allow controlled re-entry?	NASA considered adding an external propulsion module to allow controlled re-entry
+WHAT	What are created by combining separate monochrome images taken through different filters?	Color images are created by combining separate monochrome images taken through different filters
+WHAT	What was made in August 2005?	The switch to this mode was made in August 2005
+WHAT	What had originally been fully redundant?	The electronics had originally been fully redundant
+WHO	Who helped to refine estimates of the age of the universe?	Hubble helped to refine estimates of the age of the universe
+YN	Did a Hubble successor materialize as the Next Generation Space Telescope project?	Yes
+WHAT	What is to fulfill HST outreach and education tasks for the European Space Agency?	HEIC 's mission is to fulfill HST outreach and education tasks for the European Space Agency
+YN	Do a space-based telescope could observe infrared and ultraviolet light?	Yes
+YN	Were Hubble's cumulative costs estimated to be about US $ 10 billion in 2010?	Yes
+WHAT	What was removed and returned to Earth in 2009?	COSTAR was removed and returned to Earth in 2009
+WHAT	What are preferred for studying high redshift and low-temperature objects?	These bands are preferred for studying high redshift and low-temperature objects
+WHO	Who has also made significant contributions to aerospace engineering?	Hubble has also made significant contributions to aerospace engineering
+YN	Had the telescope to be kept in a clean room?	Yes
+WHAT	What were capable of reaching both HST and the ISS during the same mission?	no shuttles were capable of reaching both HST and the ISS during the same mission
+YN	Do Hubble's four main instruments observe in the near ultraviolet?	Yes
+WHAT	What were to be housed was another major engineering challenge?	instruments were to be housed was another major engineering challenge
+WHAT	What keeps the working parts of the telescope firmly aligned?	a graphite-epoxy frame keeps the working parts of the telescope firmly aligned
+WHAT	What was one of the most complex performed up until that date?	The mission was one of the most complex performed up until that date
+WHAT	What are required for operation?	three gyroscopes are required for operation
+WHAT	What had wanted to keep this function in-house?	NASA had wanted to keep this function in-house
+YN	Did researchers using Hubble data announce the discovery of the farthest known galaxy to date?	Yes
+WHAT	What has developed sophisticated software that automatically calibrates data?	STScI has developed sophisticated software that automatically calibrates data
+WHAT	What has helped resolve some long-standing problems in astronomy?	Hubble has helped resolve some long-standing problems in astronomy
+WHAT	What are selected?	Five premier multi-wavelength sky regions are selected
+WHAT	What are hygroscopic?	graphite composites are hygroscopic
+WHAT	What is eventually made available via the Mikulski Archive for Space Telescopes at STScI?	All Hubble data is eventually made available via the Mikulski Archive for Space Telescopes at STScI
+WHAT	What failed in June 2006?	Surveys ( ACS ) main camera primary electronics failed in June 2006
+WHAT	What was catastrophic?	This difference was catastrophic
+YN	Has it always been important for the Space Telescope to capture the public's imagination?	Yes
+YN	Does provide the public with high-quality images of the most interesting and striking objects observed?	Yes
+YN	Did US astronomers using Hubble discover a tiny fifth moon moving around icy Pluto?	Yes
+WHAT	What is intense?	the telescope is intense
+YN	Was Hubble funded in the 1970s?	Yes
+WHAT	What did allow time for engineers to perform extensive tests?	This delay did allow time for engineers to perform extensive tests
+YN	Is the telescope an international collaboration between NASA?	Yes
+YN	Is Hubble data encouraged as most of the data in the archives has not been processed into color imagery?	Yes
+YN	Was Hubble's main mirror found to have been ground incorrectly?	Yes
+WHAT	What were proposed as early as 1923?	Space telescopes were proposed as early as 1923
+WHAT	What resulted in the mirror being ground very precisely but to the wrong shape?	the device resulted in the mirror being ground very precisely but to the wrong shape
+WHAT	What was well characterized and stable?	The error was well characterized and stable
+YN	Does hubble orbit the Earth in the extremely tenuous upper atmosphere?	Yes
+WHAT	What were designed?	the way the HST 's instruments were designed
+WHAT	What met congressmen and senators in person?	Many astronomers met congressmen and senators in person
+WHAT	What contained eight charge-coupled device ( CCD ) chips divided between two cameras?	The instrument contained eight charge-coupled device ( CCD ) chips divided between two cameras
+WHAT	What is now on permanent display at the National Air and Space Museum?	The Kodak mirror is now on permanent display at the National Air and Space Museum
+WHAT	What has taken about five billion years to reach Earth?	the cluster has taken about five billion years to reach Earth
+WHAT	What moves slowly over a period of eight weeks?	the CVZ moves slowly over a period of eight weeks
+YN	Did Hubble's main data-handling unit fail in September 2008?	Yes

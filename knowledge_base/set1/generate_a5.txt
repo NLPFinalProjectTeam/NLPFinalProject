@@ -1,0 +1,123 @@
+WHAT	What won gold?	the team won gold
+WHAT	What was previously set by retired goalkeeper?	The record was previously set by retired goalkeeper
+YN	Did Solo also reveal details of her early life?	Yes
+WHAT	What were then scheduled for September 11?	Oral arguments were then scheduled for September 11
+YN	Did Solo sit out one game for the Reign and the NWSL allowed her to continue playing soccer through the end of the 2014 season?	Yes
+YN	Has Solo been the team's first choice goalkeeper since 2005?	Yes
+YN	Was Solo named Pac-10 Player of the Year becoming the first Washingtonian and first goalkeeper ever to receive the award?	Yes
+YN	Does Solo hold several U.S. goalkeeper records including appearances (185)?	Yes
+YN	Did Solo win her second Olympic gold medal with the United States women's national soccer team?	Yes
+YN	Did the Sounders sell out nine of their ten home matches at Starfire Stadium (capacity?	Yes
+YN	Did Solo say of her experience in Europe?	Yes
+WHO	Who signed for magicJack?	Solo signed for magicJack
+YN	Has Solo signed endorsement deals with Seiko?	Yes
+WHAT	What was scheduled for November 4?	her trial was scheduled for November 4
+YN	Did Solo save the third Brazil penalty kick by Daiane?	Yes
+YN	Did Solo release an apologetic statement the following day saying that was not her intent?	Yes
+WHAT	What lost to Japan in an intensely close match that ended in penalties?	the team lost to Japan in an intensely close match that ended in penalties
+WHO	Who was named the WPS Goalkeeper of the Year?	Solo was named the WPS Goalkeeper of the Year
+YN	Was Solo one of 15 professional athletes including Shaun Phillips?	Yes
+YN	Did solo describe the transition in her memoir?	Yes
+WHAT	What was highlighted especially during a quarter-final match against Brazil?	her exceptional skill was highlighted especially during a quarter-final match against Brazil
+WHO	Who was released after a judge determined there was not enough evidence to hold him?	Stevens was released after a judge determined there was not enough evidence to hold him
+YN	Has Solo been featured on the covers of Fitness?	Yes
+YN	Did Athletica get off to a very slow 0–2–2 start in their first season?	Yes
+YN	Did Solo attend the University of Washington from 1999 to 2002?	Yes
+WHAT	What compiled a 13-0-3 record?	the Reign compiled a 13-0-3 record
+YN	Did Solo participate in the television show Dancing with the Stars and posed for various magazines?	Yes
+YN	Was Solo the starting goalkeeper for the United States in the 2007 FIFA Women's World Cup?	Yes
+YN	Did solo return to the Reign for the 2014 season?	Yes
+YN	Was Solo named to the U.S. roster for the 2015 FIFA Women's World Cup in Canada by head coach Jill Ellis?	Yes
+WHO	Who saved the third Brazil penalty kick by Daiane?	Solo saved the third Brazil penalty kick by Daiane
+YN	Did Solo play for U.S. junior national soccer teams before joining the senior U.S. national team in 2000?	Yes
+YN	Did Solo join the national team at the 2004 Summer Olympics in Athens as an alternate behind primary goalkeeper Brianna Scurry and backup Kristin Luckenbill?	Yes
+YN	Did Solo reflect upon the tournament so far?	Yes
+WHAT	What finished 2013 undefeated with a 13-0-3 record?	The team finished 2013 undefeated with a 13-0-3 record
+YN	Is Solo regarded as one of the top female goalkeepers in the world and currently holds the U.S. record for most career clean sheets?	Yes
+WHAT	What represents the caliber player Sounders Women 's fans can expect in 2012?	Her signing represents the caliber player Sounders Women 's fans can expect in 2012
+YN	Did her teammates become the first women's sports team to be honored with a Ticker Tape Parade in New York City?	Yes
+WHAT	What is married to former American football player Jerramy Stevens?	Solo is married to former American football player Jerramy Stevens
+YN	Was Solo named to the U.S. roster for the 2011 FIFA Women's World Cup in Germany?	Yes
+YN	Have they been together since mid-August 2012?	Yes
+YN	Was Solo made by the team as a group?	Yes
+WHAT	What regrouped in January 2008 to begin preparations for the 2008 Summer Olympics?	The team regrouped in January 2008 to begin preparations for the 2008 Summer Olympics
+YN	Was Solo suspended by the national team for thirty days?	Yes
+YN	Did Solo claim she was defending herself from an attack by her nephew?	Yes
+YN	Was Solo arrested and charged with two misdemeanor counts of assault in the fourth degree?	Yes
+YN	Did solo finish the 2014 season with 65 saves in 20 games played and a .900 goals against average?	Yes
+WHAT	What resulted in a $ 2,500 fine and one-game suspension?	The second outburst resulted in a $ 2,500 fine and one-game suspension
+YN	Did Solo receive a public warning from the U.S. Anti-Doping Agency (USADA) after a June 15 urine test concluded the banned substance Canrenone had been detected?	Yes
+YN	Did Solo release her autobiography Solo?	Yes
+YN	Was Solo selected in the first round (fourth overall) of the 2003 WUSA Draft by the Philadelphia Charge?	Yes
+YN	Was Solo a contestant on the 13th season of the Dancing with the Stars television series?	Yes
+YN	Did Solo start the last three games of the season and earned her first professional shutout against the Atlanta Beat?	Yes
+WHO	Who released her autobiography Solo?	Solo released her autobiography Solo
+YN	Did Solo start and played all possible minutes (630) in all seven of the U.S.' matches?	Yes
+YN	Was Solo featured along with her national teammates in the EA Sports' FIFA video game series starting in FIFA 16?	Yes
+WHO	Who holds several U.S. goalkeeper records including appearances ( 185 )?	Solo holds several U.S. goalkeeper records including appearances ( 185 )
+WHO	Who was one of 15 professional athletes including Shaun Phillips?	Solo was one of 15 professional athletes including Shaun Phillips
+WHAT	What following the match?	an impromptu interview following the match
+YN	Was Solo the focus of an ESPN E:60 episode in 2012?	Yes
+YN	Did Solo sign with LX Ventures?	Yes
+YN	Did Solo become the twenty-seventh American woman and second goalkeeper to reach 100 caps with her start in the 3–1 semifinal win over France?	Yes
+WHAT	What did not require Solo to withdraw from any pre-Olympic matches?	The positive test did not require Solo to withdraw from any pre-Olympic matches
+YN	Did social networking website Twitter lead to two separate controversies after she accused Boston Breakers supporters of offensive chanting and racist remarks toward a teammate?	Yes
+WHAT	What were wed the next day?	The pair were wed the next day
+YN	Did some additional lineup changes make during the early summer?	Yes
+YN	Did Hope Amelia Stevens (bear July 30?	Yes
+WHO	Who signed with LX Ventures?	Solo signed with LX Ventures
+WHO	Who was arrested on investigation of assault following an altercation that left Solo injured?	Stevens was arrested on investigation of assault following an altercation that left Solo injured
+WHAT	What sold out nine of their ten home matches at Starfire Stadium ( capacity?	the Sounders sold out nine of their ten home matches at Starfire Stadium ( capacity
+WHO	Who did not make the team?	Briana Scurry did not make the team
+WHAT	What checked out and she was cleared with a public warning?	Her story checked out and she was cleared with a public warning
+YN	Did Solo win the `` Golden Glove '' award for best goalkeeper?	Yes
+YN	Did Solo start in all 14 matches in which she played with a 1.357 goals against average?	Yes
+WHO	Who scored 109 goals?	Solo scored 109 goals
+YN	Did Solo miss a significant part of the season?	Yes
+WHO	Who made three appearances for the club?	Solo made three appearances for the club
+YN	Did Solo tie the U.S. record for career shutouts with 71 after the team defeated France 1–0 during a friendly match in Tampa?	Yes
+YN	Is Solo married to former American football player Jerramy Stevens?	Yes
+WHAT	What ceased operations in early 2012?	the WPS ceased operations in early 2012
+WHAT	What are scheduled to file their argument by July 13?	Prosecutors are scheduled to file their argument by July 13
+WHO	Who won the `` Golden Glove '' award for best goalkeeper?	Solo won the `` Golden Glove '' award for best goalkeeper
+WHAT	What was taken ( 1 )?	her previous jersey number was taken ( 1 )
+WHAT	What folded after her first season?	When the WUSA folded after her first season
+WHO	Who commented on the performance and spirit of the U.S. players during the match?	Solo commented on the performance and spirit of the U.S. players during the match
+WHAT	What has signed endorsement deals with Seiko?	Solo has signed endorsement deals with Seiko
+WHAT	What received a key to the city from Mayor Bill de Blasio?	Each player received a key to the city from Mayor Bill de Blasio
+WHO	Who was linked with a transfer to English club Manchester City?	October 2013 Solo was linked with a transfer to English club Manchester City
+WHO	Who missed a significant part of the season?	Solo missed a significant part of the season
+WHAT	What was four times higher than the second most attended team in the league?	league matches was four times higher than the second most attended team in the league
+WHO	Who expressed admiration for the Japanese team and offered her congratulations?	Solo expressed admiration for the Japanese team and offered her congratulations
+WHAT	What is it 's not 2004 anymore?	the matter is it 's not 2004 anymore
+YN	Did Solo make three appearances for the club?	Yes
+WHO	Who claimed she was defending herself from an attack by her nephew?	Solo claimed she was defending herself from an attack by her nephew
+YN	Was Solo one of three players on the United States team who played all 570 minutes during the team's six matches?	Yes
+YN	Did a clearly upset Solo criticize Ryan's decision?	Yes
+YN	Do Solo underwent surgery to repair a long-standing injury in her left wrist and did not play for approximately three months?	Yes
+WHAT	What was Maksim Chmerkovskiy and they were eliminated in the semifinal round?	Her partner was Maksim Chmerkovskiy and they were eliminated in the semifinal round
+WHAT	What folded and Solo signed with WPS expansion team?	the Saint Louis Athletica folded and Solo signed with WPS expansion team
+WHAT	What have filed an appeal with the Superior Court of Washington?	prosecutors have filed an appeal with the Superior Court of Washington
+YN	Was Solo one of three national team players allocated to the Saint Louis Athletica in the WPS as part of the 2008 WPS Player Allocation?	Yes
+YN	Did solo play in 22 WPS matches in 2010 for both the Athletica and the Beat and was the league-leader in saves with 104?	Yes
+YN	Is `` Hope undoubtedly the best women's keeper in the game today?	Yes
+WHAT	What had divorced?	her parents had divorced
+WHAT	What was honored by President Barack Obama at the White House?	the team was honored by President Barack Obama at the White House
+YN	Was Solo named the WPS Goalkeeper of the Year?	Yes
+WHO	Who was the focus of an ESPN E:60 episode in 2012?	Solo was the focus of an ESPN E:60 episode in 2012
+YN	Did Solo express admiration for the Japanese team and offered her congratulations?	Yes
+YN	Did Solo end the tournament with 177 international caps and received the Golden Glove trophy as the best goalkeeper?	Yes
+YN	Did Solo also play club soccer for the Three Rivers Soccer Club in the Tri-Cities?	Yes
+WHO	Who was arrested and charged with two misdemeanor counts of assault in the fourth degree?	Solo was arrested and charged with two misdemeanor counts of assault in the fourth degree
+WHAT	What has been the team 's first choice goalkeeper since 2005?	Solo has been the team 's first choice goalkeeper since 2005
+WHO	Who was seven?	When Solo was seven
+YN	Did Solo become the top goalkeeper in Pac-10 history and finished her collegiate career as Washington ’ s all-time leader in shutouts (18)?	Yes
+WHO	Who left the team after his contract was not renewed in December 2007?	Ryan left the team after his contract was not renewed in December 2007
+WHO	Who was suspended by the national team for thirty days?	Solo was suspended by the national team for thirty days
+YN	Did Solo keep three clean sheets?	Yes
+YN	Did Solo comment on the performance and spirit of the U.S. players during the match?	Yes
+YN	Was October 2013 Solo linked with a transfer to English club Manchester City?	Yes
+YN	Was Solo named to the U.S. women's national soccer team roster for the post-World Cup tour?	Yes
+YN	Did Solo keep a clean sheet for five games until the 27th minute of the final game against Japan?	Yes
+YN	Did Solo say in a statement she had been prescribed a pre-menstrual medication and was not aware it contained any banned substances?	Yes
+WHAT	What has been featured on the covers of Fitness?	Solo has been featured on the covers of Fitness

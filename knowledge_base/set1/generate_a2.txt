@@ -1,0 +1,108 @@
+WHAT	What is the most for any man representing a team from CONCACAF?	five World Cup goals is the most for any man representing a team from CONCACAF
+WHO	Who expressed his desire to take a break from his professional soccer career?	Donovan expressed his desire to take a break from his professional soccer career
+YN	Had Donovan a mixed year with the Galaxy in 2007?	Yes
+YN	Do Donovan's playoff goals make him MLS' second all-time leading scorer in the playoffs with fourteen?	Yes
+WHO	Who had a mixed year with the Galaxy in 2007?	Donovan had a mixed year with the Galaxy in 2007
+YN	Did Donovan marry actress Bianca Kajlich on December 31?	Yes
+YN	Did Donovan star in the U.S. team that reached the quarter-finals of the 2002 FIFA World Cup?	Yes
+WHAT	What took place on 28 July 2015 at Commerce City?	The game took place on 28 July 2015 at Commerce City
+WHO	Who scored the title-clinching goal in the 72nd minute over the Houston Dynamo?	Donovan scored the title-clinching goal in the 72nd minute over the Houston Dynamo
+WHO	Who scored a goal in every game except for the final?	Donovan scored a goal in every game except for the final
+WHO	Who scored the 100th goal of his MLS career?	Donovan scored the 100th goal of his MLS career
+WHO	Who scored twice against the Philadelphia Union to break Cunningham 's record of 134?	Donovan scored twice against the Philadelphia Union to break Cunningham 's record of 134
+WHO	Who scored the winning goal at the MLS All Star game?	Donovan scored the winning goal at the MLS All Star game
+YN	Did Donovan score on a free kick?	Yes
+WHO	Who is the only American player to reach the 50 goals/50 assists mark?	Donovan is the only American player to reach the 50 goals/50 assists mark
+YN	Do Donovan would tally his first World Cup Finals goal in the 83rd minute of a 3–1 loss to Poland in the third match of the group stage?	Yes
+YN	Did Donovan announce that he would be retiring at the end of the 2014 Major League Soccer season?	Yes
+YN	Did Donovan attend the IMG Academy in Bradenton?	Yes
+WHO	Who started and played 90 minutes in both games?	Donovan started and played 90 minutes in both games
+WHO	Who is the all-time leader in scoring and assists?	Donovan is the all-time leader in scoring and assists
+YN	Did Donovan score the winning goal at the MLS All Star game?	Yes
+YN	Was Donovan included in the squad for the 2010 World Cup?	Yes
+YN	Did Donovan lead a team of MLS academy graduates?	Yes
+YN	Did Donovan relinquish his captaincy to the English superstar?	Yes
+WHO	Who was six?	When Donovan was six
+WHO	Who trained with Bayern Munich?	November 2008 Donovan trained with Bayern Munich
+WHO	Who led a team of MLS academy graduates?	Donovan led a team of MLS academy graduates
+YN	Was Donovan born on March 4?	Yes
+YN	Did Donovan score the 100th goal of his MLS career?	Yes
+WHO	Who was included in the squad for the 2010 World Cup?	Donovan was included in the squad for the 2010 World Cup
+YN	Had Donovan eighty-four all-time regular season goals putting him in seventh place on the league's all-time scoring list?	Yes
+YN	Did November 2008 Donovan train with Bayern Munich?	Yes
+YN	Was Donovan a member of Cal Heat – a club based in nearby Rancho Cucamonga under coach Clint Greenwood?	Yes
+WHO	Who has been open about dealing with depression throughout his life and career?	Donovan has been open about dealing with depression throughout his life and career
+YN	Did Donovan return to training with the Galaxy on March 25?	Yes
+WHAT	What was Donovan 's fifth in MLS Cup Finals?	The goal was Donovan 's fifth in MLS Cup Finals
+YN	Did 2004 Donovan become the first man to be named U.S. Soccer Athletes of the Year three years in a row?	Yes
+YN	Did Donovan convert a penalty kick in the 65th minute of play to give LA a 2–1 lead?	Yes
+YN	Did Donovan make his returning debut for Everton on January 4?	Yes
+YN	Was Donovan loaned to the San Jose Earthquakes of Major League Soccer for the 2001 season?	Yes
+WHAT	What raised him and his siblings in Redlands?	His mother raised him and his siblings in Redlands
+YN	Was Donovan recalled to the full national squad for the first time in over a year for the USA's September World Cup qualifying matches against Costa Rica and Mexico?	Yes
+YN	Had Donovan appearances in five friendly matches?	Yes
+YN	Did Donovan express his desire to take a break from his professional soccer career?	Yes
+WHO	Who scored twelve league goals and eight assists?	Donovan scored twelve league goals and eight assists
+WHO	Who returned to training with the Galaxy on March 25?	Donovan returned to training with the Galaxy on March 25
+WHAT	What playing for the U-17 team?	his two years playing for the U-17 team
+YN	Did Donovan assist in both goals in a 2–1 win over Fulham in the FA Cup Fourth round Proper?	Yes
+YN	Did the Galaxy fail to make the playoffs and lost in the Open Cup to Chicago Fire?	Yes
+YN	Did Donovan make his World Cup Finals debut in the 2002 World Cup starting in the shock upset of pre-tournament favorites Portugal?	Yes
+WHO	Who is of Irish descent and his maternal grandmother is from County Kerry?	Donovan is of Irish descent and his maternal grandmother is from County Kerry
+YN	Did Donovan enjoy an outstanding 2009 campaign?	Yes
+YN	Was Donovan declared player of the tournament for his role in the United States U17 squad that finished fourth in the 1999 FIFA U-17 World Championship?	Yes
+WHO	Who notched 7 goals and a team high 16 assists?	Donovan notched 7 goals and a team high 16 assists
+WHO	Who earned Man of the Match for his actions?	Donovan earned Man of the Match for his actions
+YN	Has joining the Galaxy Donovan resided in Manhattan Beach?	Yes
+YN	Was Donovan re-called to the national team for the 2013 CONCACAF Gold Cup to be played in July?	Yes
+YN	Did Donovan notch 7 goals and a team high 16 assists?	Yes
+YN	Did Donovan score the title-clinching goal in the 72nd minute over the Houston Dynamo?	Yes
+YN	Was Donovan named the MLS Cup MVP?	Yes
+YN	Did Donovan score twelve league goals and eight assists?	Yes
+WHAT	What had finished?	the 2009 MLS season had finished
+YN	Did Donovan also score three goals in the Open Cup?	Yes
+WHO	Who was born on March 4?	Donovan was born on March 4
+YN	Is Donovan the only American player to reach the 50 goals/50 assists mark?	Yes
+WHO	Who had appearances in five friendly matches?	Donovan had appearances in five friendly matches
+YN	Was Donovan a member of the U.S. squad at the 2006 World Cup?	Yes
+YN	Did Donovan reach 100 caps at the age of 26 on June 8?	Yes
+YN	Did Landon Timothy Donovan (bear March 4?	Yes
+YN	Did Donovan score on a penalty kick against Italy?	Yes
+YN	Did Donovan score a goal in every game except for the final?	Yes
+YN	Did Donovan score twice against the Philadelphia Union to break Cunningham's record of 134?	Yes
+YN	Was Donovan a member of the inaugural class at U.S. Soccer's full-time residency program at the IMG Academy?	Yes
+YN	Did Donovan earn Man of the Match for his actions?	Yes
+YN	Was Donovan left off of the squad by Jürgen Klinsmann for the June qualifying games despite having returned to playing full-time in March?	Yes
+WHO	Who scored his 35th international goal?	Donovan scored his 35th international goal
+WHO	Who had traded away Donovan 's rights?	San Jose GM Alexi Lalas had traded away Donovan 's rights
+YN	Did Donovan win a record six MLS Cups and is both the league's all-time top scorer with 144 goals and the league's all-time assists leader with 136?	Yes
+WHO	Who was the top scorer?	Donovan was the top scorer
+YN	Did Donovan receive praise and criticism for his critical comments about Beckham in Sports Illustrated journalist Grant Wahl's book The Beckham Experiment?	Yes
+YN	Did Donovan score a penalty against Ghana as the U.S lost 2–1 after extra time and were eliminated from the competition?	Yes
+WHAT	What needing a win over Mexico to clinch qualification?	the US needing a win over Mexico to clinch qualification
+YN	Has Donovan been open about dealing with depression throughout his life and career?	Yes
+WHO	Who was a member of the U.S. squad at the 2006 World Cup?	Donovan was a member of the U.S. squad at the 2006 World Cup
+YN	Did Donovan score his 35th international goal?	Yes
+YN	Did Donovan score a tap in goal off a low cross from Mix Diskerud to make the score 2–0?	Yes
+YN	Did the 29th minute deflect in off Jorge Costa?	Yes
+YN	Did following the season Donovan agree to a four-year extension to his contract with the Galaxy?	Yes
+YN	Did Donovan captain the U.S. in the group stage of the 2009 FIFA Confederations Cup due to Carlos Bocanegra's injury absence?	Yes
+YN	Did Donovan later sign with the German team Bayer Leverkusen?	Yes
+WHO	Who attended the IMG Academy in Bradenton?	Donovan attended the IMG Academy in Bradenton
+WHO	Who declined to extend his loan?	Bayern declined to extend his loan
+WHO	Who had immediate success?	Donovan had immediate success
+WHO	Who signed a six-year contract for German club Bayer Leverkusen?	1999 Donovan signed a six-year contract for German club Bayer Leverkusen
+YN	Was Donovan controversially left off of the US national team roster by Jürgen Klinsmann for the 2014 FIFA World Cup in Brazil?	Yes
+YN	Is Donovan the all-time leader in scoring and assists?	Yes
+WHO	Who relinquished his captaincy to the English superstar?	Donovan relinquished his captaincy to the English superstar
+WHO	Who was named the MLS Cup MVP?	Donovan was named the MLS Cup MVP
+WHO	Who married actress Bianca Kajlich on December 31?	Donovan married actress Bianca Kajlich on December 31
+WHAT	What was a disappointment for the Galaxy?	the 2008 season was a disappointment for the Galaxy
+YN	Had Donovan trouble `` adapting to the German culture '' and spent much of his time in the U.S. training with the United States U-17 National Team?	Yes
+WHAT	What made Donovan the highest scoring American man in World Cup history?	the 2010 World Cup made Donovan the highest scoring American man in World Cup history
+YN	Is Donovan of Irish descent and his maternal grandmother is from County Kerry?	Yes
+WHO	Who were keen on extending his loan deal?	Everton were keen on extending his loan deal
+YN	Did 1999 Donovan sign a six-year contract for German club Bayer Leverkusen?	Yes
+YN	Did Donovan take his tally of assists to 7?	Yes
+WHAT	What respected his wishes?	Bayer Leverkusen officials respected his wishes
+YN	Did Donovan start and played 90 minutes in both games?	Yes

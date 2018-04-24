@@ -1,0 +1,142 @@
+YN	Do Terry due to stand trial due to allegations that Terry had racially abused QPR's Anton Ferdinand?	Yes
+YN	Was Terry confirmed as the England captain in August?	Yes
+YN	Was Terry the first-choice centre back?	Yes
+YN	Was Terry banned for four games?	Yes
+YN	Had Terry the honour of wearing England's captain armband?	Yes
+WHO	Who captained the Chelsea side for the 400th time of his career?	Terry captained the Chelsea side for the 400th time of his career
+YN	Did Terry surpass David Unsworth as the highest-scoring defender in the Premier League after scoring his 39th in the opening five minutes against Liverpool?	Yes
+YN	Did Terry receive the first straight red card of his career against Manchester City for rugby-tackling Jô?	Yes
+WHAT	What started with two draws against the USA and Algeria?	England started with two draws against the USA and Algeria
+WHO	Who scored a goal on his debut as the England captain?	Terry scored a goal on his debut as the England captain
+WHAT	What found Terry not guilty?	The court therefore found Terry not guilty
+WHO	Who was confirmed as the England captain in August?	Terry was confirmed as the England captain in August
+YN	Did Terry play the entire match?	Yes
+YN	Was August 2002 Terry acquitted of the charges in court?	Yes
+YN	Was Terry again awarded with UEFA Defender of the Year?	Yes
+WHAT	What qualifying match against Poland?	a FIFA World Cup qualifying match against Poland
+WHO	Who denied the charge?	Terry denied the charge
+YN	Was Terry opened the scoring named Man of the Match in Chelsea's 2-0 victory over Tottenham?	Yes
+WHO	Who signed a new one-year deal with the Blues?	Terry signed a new one-year deal with the Blues
+YN	Was Terry investigated by Chelsea and the FA for allegedly taking money from an undercover reporter for a private tour of Chelsea's training ground?	Yes
+WHO	Who summed up his view of the consequences of the controversial incident?	Paul Hayward summed up his view of the consequences of the controversial incident
+WHAT	What was chosen by a vote of professional footballers based in 40 countries?	The team was chosen by a vote of professional footballers based in 40 countries
+YN	Is Terry the main face alongside Michael Owen for the Umbro sportswear brand often introducing new brand lines and products as well as new England kits?	Yes
+YN	Does Terry excel in the air and is known for his aggressive tackling?	Yes
+WHO	Who is Chelsea 's most successful captain?	Terry is Chelsea 's most successful captain
+YN	Did Terry announce his retirement from the English national football team?	Yes
+YN	Did England manager Fabio Capello announce that Terry was removed as the captain of the England team?	Yes
+WHAT	What concluded that it was `` quite satisfied?	The Commission concluded that it was `` quite satisfied
+YN	Was September 2001 Terry fined two weeks wages by Chelsea after drunkenly harassing grieving American tourists in the immediate aftermath of the September 11 attacks?	Yes
+WHO	Who was again awarded with UEFA Defender of the Year?	Terry was again awarded with UEFA Defender of the Year
+WHAT	What maintains that the alleged affair never took place?	Perroncel maintains that the alleged affair never took place
+WHO	Who was reinstated as captain the following year?	Terry was reinstated as captain the following year
+WHO	Who played the entire match?	Terry played the entire match
+YN	Was Terry charged with misconduct by the FA for questioning the integrity of match referee Graham Poll after the game?	Yes
+WHAT	What reached its height?	The joke reached its height
+YN	Did Terry share a flat with Andrew Crofts?	Yes
+YN	Did Terry become the joint highest-scoring defender in the Premier League with 38 goals?	Yes
+YN	Was Terry involved in an altercation with a bouncer at a West London nightclub with Chelsea teammate Jody Morris and Wimbledon's Des Byrne?	Yes
+WHO	Who signed one-year extension to his contract?	Terry signed one-year extension to his contract
+YN	Has Terry said that his children are fans of Lionel Messi?	Yes
+WHO	Who decided not to appeal against the verdict and his four-match ban?	Terry decided not to appeal against the verdict and his four-match ban
+WHO	Who scored in Chelsea 's record Champions League win against Slovenian side Maribor?	Terry scored in Chelsea 's record Champions League win against Slovenian side Maribor
+WHAT	What established that neither Ferdinand nor anyone else had heard Terry 's words?	The court established that neither Ferdinand nor anyone else had heard Terry 's words
+YN	Has Terry been pictured taking part in great moments in history and fiction?	Yes
+YN	Was Terry the world's third best passer in 2011 for players with over 1000 passes?	Yes
+YN	Did the 2006–07 season Terry miss matches for Chelsea due to a recurring back problem?	Yes
+YN	Did Terry captain Chelsea to the FA Cup?	Yes
+YN	Did Terry begin to establish himself in the Chelsea first team from the 2000–01 season?	Yes
+YN	Did Terry state on several occasions that he had no intention of leaving Chelsea?	Yes
+YN	Did Terry make his England debut in June 2003 against Serbia and Montenegro?	Yes
+YN	Did Terry captain Chelsea for the 500th time against Crystal Palace?	Yes
+WHO	Who was banned from selection for the England team for the duration of the case?	Terry was banned from selection for the England team for the duration of the case
+YN	Is Terry friends with Australian snooker player Neil Robertson?	Yes
+WHO	Who celebrated their birth?	Terry celebrated their birth
+WHAT	What went to penalties?	The match went to penalties
+WHAT	What kept him out of action for 16 first-team games in total?	Terry 's knee injury kept him out of action for 16 first-team games in total
+WHAT	What did not prevent him playing in the Champions League final against Manchester United?	This injury did not prevent him playing in the Champions League final against Manchester United
+WHO	Who shared a flat with Andrew Crofts?	Terry shared a flat with Andrew Crofts
+WHO	Who announced on 23 September 2012 he had retired from international football?	Terry announced on 23 September 2012 he had retired from international football
+YN	Did Terry make his Chelsea debut on 28 October 1998 as a late substitute in a League Cup tie with Aston Villa?	Yes
+YN	Did Terry score his 50th goal for Chelsea against Liverpool?	Yes
+YN	Was Terry unconscious for several minutes?	Yes
+YN	Was Terry suspended for the Champions League Final?	Yes
+YN	Is Terry Chelsea's most successful captain?	Yes
+YN	Was Terry named UEFA Club Defender of the Year in 2005?	Yes
+YN	Did Terry score his 54th goal in all competitions for Chelsea against Tottenham Hotspur on 28 September 2013?	Yes
+YN	Did Terry score his sixth league goal of the season?	Yes
+YN	Was Terry placed under police investigation following an allegation of racist abuse made at Anton Ferdinand during a match versus Queens Park Rangers?	Yes
+YN	Did Terry decide not to appeal against the verdict and his four-match ban?	Yes
+YN	Did Terry keep a clean sheet as Chelsea held out to win 1–0?	Yes
+YN	Had Terry accepted that he would `` bear full responsibility '' should England fail to qualify?	Yes
+YN	Did Terry open the scoring was named Man of the Match in Chelsea's 2-0 victory over Tottenham?	Yes
+WHAT	What married at Blenheim Palace on 15 June 2007?	The couple married at Blenheim Palace on 15 June 2007
+YN	Did Terry score in Chelsea's record Champions League win against Slovenian side Maribor?	Yes
+YN	Is Terry regarded as a part of the spine of the Chelsea team?	Yes
+WHO	Who has said that his children are fans of Lionel Messi?	Terry has said that his children are fans of Lionel Messi
+YN	Was Terry snubbed by Queens Park Rangers defender Anton Ferdinand in the pre-match handshake against QPR?	Yes
+YN	Was Terry interviewed under caution by the police?	Yes
+WHO	Who were charged with assault and affray after a confrontation with a nightclub bouncer?	Wimbledon were charged with assault and affray after a confrontation with a nightclub bouncer
+YN	Was Terry removed as the captain of the England team?	Yes
+WHO	Who played 90 minutes in all four of England 's matches at the Euros?	Terry played 90 minutes in all four of England 's matches at the Euros
+YN	Did England do not qualify for Euro 2008 – their first absence from a tournament finals since the 1994 World Cup?	Yes
+YN	Did Terry score the decisive goal in Chelsea's match against Manchester United at Stamford Bridge to preserve their perfect home record for the season?	Yes
+WHAT	What began in July 2012?	When the trial began in July 2012
+YN	Did John George Terry (bear 7 December 1980) is an English professional footballer who plays for and captains Chelsea?	Yes
+YN	Was Terry a Manchester United supporter growing up?	Yes
+YN	Did Terry's knee injury keep him out of action for 16 first-team games in total?	Yes
+YN	Did Terry hint at dissatisfaction with Capello's team selection and stated that the players were bored with little to do in the evenings at their training base?	Yes
+YN	Did which he do not play due to suspension)?	Yes
+WHO	Who bundled a header towards the goal?	Stern John bundled a header towards the goal
+YN	Was Terry banned from selection for the England team for the duration of the case?	Yes
+WHO	Who was interviewed under caution by the police?	Terry was interviewed under caution by the police
+YN	Was Terry criticised for not directly and personally apologising to Ferdinand?	Yes
+WHO	Who scored his 50th goal for Chelsea against Liverpool?	Terry scored his 50th goal for Chelsea against Liverpool
+YN	Did Terry captain Chelsea as they won their fourth League title after an 8–0 win against Wigan Athletic at Stamford Bridge?	Yes
+WHO	Who reinstated Terry as England captain following a long-term injury to previous captain Rio Ferdinand?	Capello reinstated Terry as England captain following a long-term injury to previous captain Rio Ferdinand
+YN	Did Terry score twice in the derby match against Fulham that ended 3–0?	Yes
+WHO	Who was a Manchester United supporter growing up?	Terry was a Manchester United supporter growing up
+YN	Was Terry named in new manager Roy Hodgson's squad for Euro 2012 while Rio Ferdinand was left out?	Yes
+YN	Did Terry score his first goal for England?	Yes
+YN	Was Terry awarded the Defender of The Year award from UEFA at the Champions League group stage draw in Monaco?	Yes
+WHO	Who announced his retirement from the English national football team?	Terry announced his retirement from the English national football team
+YN	Did Stern John bundle a header towards the goal?	Yes
+YN	Was Terry reinstated as captain the following year?	Yes
+WHAT	What was photographed celebrating with his team winning the 2012 League of Ireland?	The fan was photographed celebrating with his team winning the 2012 League of Ireland
+YN	Did Terry play the first World Cup Qualifying game against Moldova before leaving the field with an ankle injury meaning he missed the game against Ukraine?	Yes
+YN	Did Terry score a goal on his debut as the England captain?	Yes
+WHO	Who has been pictured taking part in great moments in history and fiction?	Terry has been pictured taking part in great moments in history and fiction
+YN	Did Chelsea still face media condemnation?	Yes
+WHO	Who was unconscious for several minutes?	Terry was unconscious for several minutes
+YN	Did Terry captain the Chelsea side for the 400th time of his career?	Yes
+WHO	Who was negotiated in 2004 by Chris Nathaniel of NVA Management?	publisher Harper Collins was negotiated in 2004 by Chris Nathaniel of NVA Management
+YN	Did Terry reveal in a 2005 interview that he has to go through about 50 superstitious rituals before each game?	Yes
+WHO	Who was acquitted of the charges in court?	August 2002 Terry was acquitted of the charges in court
+WHO	Who is friends with Australian snooker player Neil Robertson?	Terry is friends with Australian snooker player Neil Robertson
+YN	Did Terry discharge himself the same day and returned to the Millennium Stadium to celebrate his team's 2–1 win?	Yes
+YN	Did Terry sign a new one-year deal with the Blues?	Yes
+YN	Did Terry become the first player in the senior England team to score an international goal at the new Wembley Stadium?	Yes
+WHAT	What had delayed the charge until after the conclusion of Terry 's criminal trial?	The FA had delayed the charge until after the conclusion of Terry 's criminal trial
+YN	Is Terry one of a very small group of footballers to have been paid more than £1 million for their autobiography?	Yes
+YN	Was Terry fined £60 for parking his Bentley in a disabled bay?	Yes
+YN	Did Terry announce on 23 September 2012 he had retired from international football?	Yes
+WHO	Who made a third bid for Terry?	Manchester City made a third bid for Terry
+YN	Did Terry captain Chelsea as he won his fourth FA Cup medal?	Yes
+WHO	Who captained Chelsea for the 500th time against Crystal Palace?	Terry captained Chelsea for the 500th time against Crystal Palace
+YN	Did Terry receive his first league red card for over five years?	Yes
+WHO	Who was banned for four games?	Terry was banned for four games
+WHAT	What has been Rio Ferdinand?	His main central defensive partner has been Rio Ferdinand
+YN	Was going to clear a ball Terry's foot stepped on by Emmanuel Eboué and Terry had suffered 3 broken bones in his foot?	Yes
+WHO	Who made his England debut in June 2003 against Serbia and Montenegro?	Terry made his England debut in June 2003 against Serbia and Montenegro
+YN	Was Terry ordered to pay £10,000 for the inappropriate conduct after he changed his mind and pleaded guilty to the FA?	Yes
+YN	Did Terry attend Eastbury Comprehensive School and played for local Sunday League side Senrab?	Yes
+WHAT	What stripped Terry of his England captaincy for the second time?	the FA stripped Terry of his England captaincy for the second time
+WHO	Who excels in the air and is known for his aggressive tackling?	Terry excels in the air and is known for his aggressive tackling
+YN	Was Terry named `` Dad of the Year '' after he came top of a poll of UK adults in a Daddies Sauce survey?	Yes
+WHO	Who was named UEFA Club Defender of the Year in 2005?	Terry was named UEFA Club Defender of the Year in 2005
+YN	Did Terry play 90 minutes in all four of England's matches at the Euros?	Yes
+WHO	Who captained Chelsea to the FA Cup?	Terry captained Chelsea to the FA Cup
+WHO	Who named John Terry as the England captain?	Steve McClaren named John Terry as the England captain
+YN	Did Terry later apologise for letting his teammates and Chelsea fans down?	Yes
+YN	Did Terry thank the Arsenal physiologist Gary Lewin for saving his life?	Yes
+YN	Did Terry sign one-year extension to his contract?	Yes

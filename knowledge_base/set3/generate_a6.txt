@@ -1,0 +1,48 @@
+WHAT	What has a distinctly feline appearance?	Meowth has a distinctly feline appearance
+WHO	Who were owned by Alolan royalty in the past?	Alolan Meowth were owned by Alolan royalty in the past
+YN	Has Meowth appeared in the Pokémon Trading Card Game first in the Jungle series?	Yes
+YN	Was this Meowth dressed up like Puss in Boots?	Yes
+YN	Did (S14E43) Meowth temporarily join the protagonists Ash?	Yes
+WHO	Who were drawn from a Japanese myth dealing with the true value of money?	Meowth were drawn from a Japanese myth dealing with the true value of money
+YN	Did so Meowth join Team Rocket?	Yes
+YN	Is Meowth an urban nocturnal Pokémon?	Yes
+WHO	Who exerted so much effort into being able to talk?	Meowth exerted so much effort into being able to talk
+WHAT	What has had mixed reception?	Meowth has had mixed reception
+YN	Is Meowth voiced by Inuko Inuyama in Japanese?	Yes
+WHAT	What named Tyson owns a Meowth?	A trainer named Tyson owns a Meowth
+WHAT	What loves round objects?	Meowth loves round objects
+YN	Does when a Meowth receive enough experience from battles?	Yes
+YN	Is Meowth's first appearance a cameo in the first chapter as one of the Pokémon that escapes from Professor Oak's Laboratory?	Yes
+YN	Has Meowth a distinctly feline appearance?	Yes
+YN	Does Meowth appear in The Electric Tale of Pikachu manga series along with his teammates Jessie and James?	Yes
+YN	Are Meowth valued for their ability to collect coins using their signature move?	Yes
+YN	Were Alolan Meowth owned by Alolan royalty in the past?	Yes
+YN	Is Meowth based on the Japanese Maneki Neko?	Yes
+YN	Has Meowth appearances in the Super Smash Bros. series (excluding Melee) as a Pokémon summoned via a Poké Ball item and uses its signature move?	Yes
+WHO	Who finds Meowth 's ability to speak human language `` creepy ''?	Meowzie finds Meowth 's ability to speak human language `` creepy ''
+WHAT	What collects the objects at every opportunity and hoards in its nest?	Meowth collects the objects at every opportunity and hoards in its nest
+YN	Is Meowth among the most recognizable Pokémon?	Yes
+WHO	Who is based on the Japanese Maneki Neko?	Meowth is based on the Japanese Maneki Neko
+WHAT	What stated that without the anime?	IGN stated that without the anime
+YN	Did Meowth exert so much effort into being able to talk?	Yes
+YN	Was a special Meowth card available with purchase of Pokémon Trading Card Video Game?	Yes
+WHAT	What was renamed Meowth?	the species was renamed Meowth
+YN	Were Meowth drawn from a Japanese myth dealing with the true value of money?	Yes
+WHAT	What receives enough experience from battles?	When a Meowth receives enough experience from battles
+YN	Does Meowth collect the objects at every opportunity and hoards in its nest?	Yes
+WHAT	What evolves into Persian?	Meowth evolves into Persian
+YN	Does Meowth also appear in the Nintendo 64 game Pokémon Snap?	Yes
+WHAT	What described Meowth as `` not all that useful ''?	GamesRadar described Meowth as `` not all that useful ''
+WHAT	What based on Meowzie appears?	an unnamed Meowth based on Meowzie appears
+YN	Did Meowth rank fourth on Game Daily's top 10 list of Nintendo characters that deserve their own games?	Yes
+YN	Does Meowth first appear as a version exclusive Pokémon in Pokémon Blue?	Yes
+WHO	Who was dressed up like Puss in Boots?	This Meowth was dressed up like Puss in Boots
+YN	Has a specific male Meowth made an appearance in almost every episode in the anime as the constant companion of Team Rocket agents Jessie and James?	Yes
+YN	Did an unnamed Meowth base on Meowzie appears?	Yes
+YN	Does the episode `` Go West Young Meowth '' show the character's backstory?	Yes
+WHAT	What is voiced by Inuko Inuyama in Japanese?	Meowth is voiced by Inuko Inuyama in Japanese
+WHO	Who wrote that Meowth was popular among girls?	Author Harry Schlesinger wrote that Meowth was popular among girls
+YN	Did Meowth first appear in the video games Pokémon Red and Blue and subsequent sequels?	Yes
+YN	Has Meowth a unique Alolan Form?	Yes
+YN	Is Meowth one of the playable characters in the Pokémon Mystery Dungeon games?	Yes
+YN	Is the Meowth clone encountered again in Pokémon?	Yes

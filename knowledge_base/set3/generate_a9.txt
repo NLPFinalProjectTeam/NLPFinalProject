@@ -1,0 +1,43 @@
+WHO	Who described Togepi as a useless egg-like creature?	Fellow GamesRadar editor Raymond Padilla described Togepi as a useless egg-like creature
+WHAT	What is Togekiss?	final evolution is Togekiss
+YN	Does Togepi star in its own minigame called `` Tumbling Togepi ''?	Yes
+YN	Has Togepi received somewhat positive reception?	Yes
+YN	Is Togepi one of the first second generation Pokémon revealed before the release of Pokémon Gold and Silver?	Yes
+YN	Has Togepi been featured in several pieces of promotional merchandise?	Yes
+WHO	Who picked up on some of his gambling habits as an egg?	Gold 's Togepi picked up on some of his gambling habits as an egg
+YN	Was Togepi among the first of the new Pokémon from Pokémon Gold and Silver to appear in the anime?	Yes
+WHAT	What has angry facial expressions and is quite violent?	this one has angry facial expressions and is quite violent
+WHAT	What has been featured in several pieces of promotional merchandise?	Togepi has been featured in several pieces of promotional merchandise
+YN	Did Gold's Togepi pick up on some of his gambling habits as an egg?	Yes
+YN	Did another Togepi appear in the episode ``?	Yes
+YN	Does Togepi also appear in all Super Smash Bros. games since Melee as a Poké Ball summon?	Yes
+YN	Did Togepi make its video game debut in Pokémon Gold and Silver alongside its first evolution Togetic?	Yes
+YN	Was Togepi also featured as a part of a promotion between Nintendo and Eggo?	Yes
+WHAT	What grows inseparable to her Togepi and carries it around everywhere?	Misty grows inseparable to her Togepi and carries it around everywhere
+YN	Has Togepi also been featured several times as part of the Pokémon Trading Card Game?	Yes
+YN	Did Togepi first appear in the Pokémon anime?	Yes
+WHO	Who was also featured as a part of a promotion between Nintendo and Eggo?	Togepi was also featured as a part of a promotion between Nintendo and Eggo
+YN	Is Togepi capable of evolving twice?	Yes
+YN	Does Togepi evolve into a Togetic to protect the `` Mirage Kingdom ''?	Yes
+WHAT	What evolves into a Togetic to protect the `` Mirage Kingdom ''?	Togepi evolves into a Togetic to protect the `` Mirage Kingdom ''
+YN	Was Togepi a favourite since it first appeared in the episode `` Attack of the Prehistoric Pokémon ''?	Yes
+WHAT	What is capable of evolving twice?	Togepi is capable of evolving twice
+YN	Did Togepi gain its second and final evolution called Togekiss?	Yes
+WHAT	What have to wobble 100-yards down the field avoiding all kinds of objects?	Players have to wobble 100-yards down the field avoiding all kinds of objects
+YN	Has Togepi stubby hands and round feet with two toes each?	Yes
+WHAT	What do not deal any damage to Arceus?	their attacks do not deal any damage to Arceus
+YN	Do making a sleeping Togepi stand up is said to bring happiness?	Yes
+WHAT	What is filled with joy?	Togepi is filled with joy
+YN	Did Togepi appear on the side of a 747-400 airplane?	Yes
+YN	Has this one angry facial expressions and is quite violent?	Yes
+WHAT	What has stubby hands and round feet with two toes each?	Togepi has stubby hands and round feet with two toes each
+WHAT	What is Togetic?	Its first evolution is Togetic
+YN	Was Togepi a good Pokémon for Pokémon fans who fantasize about taking care of babies?	Yes
+YN	It hatches into a Togepi in "Who Gets to Keep Togepi?	Yes
+WHAT	What is further referenced with its newly acquired empathy?	Its dove-like design is further referenced with its newly acquired empathy
+YN	Does Togepi appear in a dungeon crawling mini-game in Pokémon minis called Togepi's Great Adventure?	Yes
+YN	Does Togepi first appear as a mystery egg given to the player by a minor character called `` Mr. Pokémon ''?	Yes
+WHO	Who appeared in the episode ``?	Another Togepi appeared in the episode ``
+WHAT	What decides to let it stay and protect the Mirage Kingdom?	Misty decides to let it stay and protect the Mirage Kingdom
+WHO	Who travels to Hoenn to meet up with Ash?	Misty travels to Hoenn to meet up with Ash
+YN	Do trying to stop Arceus from rampaging?	Yes

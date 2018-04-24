@@ -1,0 +1,180 @@
+WHAT	What was likely several light-years across and probably birthed several stars?	This initial cloud was likely several light-years across and probably birthed several stars
+WHAT	What are in synchronous rotation?	the largest natural satellites are in synchronous rotation
+WHAT	What has 62 confirmed satellites composed largely of ice?	Saturn has 62 confirmed satellites composed largely of ice
+WHAT	What is in the Sun?	the system 's mass is in the Sun
+WHAT	What is close to circular?	Its orbit is close to circular
+WHAT	What is the only large satellite with a retrograde orbit?	Triton is the only large satellite with a retrograde orbit
+YN	Does the inner Solar System include the four terrestrial planets and the asteroid belt?	Yes
+WHAT	What slows dramatically?	Here the wind slows dramatically
+YN	Is the Solar System located in the Orion Arm?	Yes
+WHAT	What creates semi-permanent features in its atmosphere?	Jupiter 's strong internal heat creates semi-permanent features in its atmosphere
+WHAT	What are very close to the ecliptic?	The planets are very close to the ecliptic
+WHO	Who has 69 known satellites?	Jupiter has 69 known satellites
+WHAT	What is home to at least two disc-like regions of cosmic dust?	The interplanetary medium is home to at least two disc-like regions of cosmic dust
+YN	Does the Solar System also contain smaller objects?	Yes
+WHAT	What are composed largely of materials with lower melting points?	the Sun are composed largely of materials with lower melting points
+WHAT	What consists of atoms blasted off its surface by the solar wind?	Mercury 's very tenuous atmosphere consists of atoms blasted off its surface by the solar wind
+YN	Are Solar System planets nearly circular?	Yes
+WHAT	What dominates the system by mass?	the Sun dominates the system by mass
+WHAT	What is Sirius?	The largest nearby star is Sirius
+WHAT	What contain few metals?	The oldest stars contain few metals
+WHAT	What is radically different from those of the other planets?	Earth 's atmosphere is radically different from those of the other planets
+YN	Does the known Solar System also lack super-Earths (Planet Nine could be a super-Earth beyond the known Solar System)?	Yes
+WHAT	What is called its perihelion?	A body 's closest approach to the Sun is called its perihelion
+YN	Are the inner Solar System relatively close to the Sun?	Yes
+WHAT	What is sometimes described as the `` third zone of the Solar System ''?	This region is sometimes described as the `` third zone of the Solar System ''
+WHAT	What is accompanied in its orbit by several minor planets?	Neptune is accompanied in its orbit by several minor planets
+WHAT	What has 14 known satellites?	Neptune has 14 known satellites
+WHAT	What is home to the giant planets and their large moons?	the Solar System is home to the giant planets and their large moons
+YN	Is the solar wind's influence roughly four times Pluto's distance from the Sun?	Yes
+WHAT	What flowing outwards from the Sun?	charged particles flowing outwards from the Sun
+WHAT	What is the Solar System 's star and by far its most massive component?	The Sun is the Solar System 's star and by far its most massive component
+YN	Is the Solar System home to the giant planets and their large moons?	Yes
+WHAT	What is unlikely to be more than a thousandth of that of Earth?	the asteroid belt is unlikely to be more than a thousandth of that of Earth
+WHAT	What are orbited by natural satellites?	the smaller bodies are orbited by natural satellites
+WHAT	What lie the Kuiper belt and scattered disc?	Neptune 's orbit lie the Kuiper belt and scattered disc
+WHAT	What is a stellar-wind bubble?	The heliosphere is a stellar-wind bubble
+WHAT	What include that its outer layers were stripped off by a giant impact?	Hypotheses include that its outer layers were stripped off by a giant impact
+WHAT	What shields the Solar System from cosmic rays is poorly understood?	How well the heliosphere shields the Solar System from cosmic rays is poorly understood
+WHAT	What is roughly four times Pluto 's distance from the Sun?	the solar wind 's influence is roughly four times Pluto 's distance from the Sun
+WHAT	What suggest they belong in their own category?	some astronomers suggest they belong in their own category
+WHAT	What is still unknown?	the Solar System is still unknown
+WHAT	What are divided into asteroid groups and families based on their orbital characteristics?	the asteroid belt are divided into asteroid groups and families based on their orbital characteristics
+WHAT	What are giant planets?	The four outer planets are giant planets
+YN	Are the Solar System considered a distinct region consisting of the objects beyond Neptune?	Yes
+WHAT	What is the Sun?	the Solar System is the Sun
+WHAT	What is encircled by planetary rings of dust and other small objects?	the outer planets is encircled by planetary rings of dust and other small objects
+WHAT	What is located in the Orion Arm?	The Solar System is located in the Orion Arm
+WHAT	What are the binary Luhman 16 system at 6.6 light-years?	The nearest brown dwarfs are the binary Luhman 16 system at 6.6 light-years
+YN	Is the Solar System located in the Milky Way?	Yes
+WHAT	What are a closely tied pair of Sun-like stars?	B are a closely tied pair of Sun-like stars
+WHAT	What is 1 astronomical unit ( 150,000,000 km )?	Earth to the Sun is 1 astronomical unit ( 150,000,000 km )
+WHAT	What is unique among the terrestrial planets?	Its liquid hydrosphere is unique among the terrestrial planets
+YN	Does the inner Solar System also contain near-Earth asteroids?	Yes
+WHAT	What are home to a far larger concentration of supernovae?	spiral arms are home to a far larger concentration of supernovae
+WHO	Who had speculated on a heliocentric reordering of the cosmos?	Samos had speculated on a heliocentric reordering of the cosmos
+WHAT	What are nearly circular?	the planets are nearly circular
+WHAT	What increased until hydrostatic equilibrium was achieved?	density increased until hydrostatic equilibrium was achieved
+WHAT	What has no natural satellites?	Mercury has no natural satellites
+WHAT	What occupies the orbit between Mars and Jupiter?	The asteroid belt occupies the orbit between Mars and Jupiter
+WHAT	What is an explanation for the creation of these regions and?	The Nice model is an explanation for the creation of these regions and
+YN	Do the Solar System can be predicted using numerical models?	Yes
+WHAT	What charged particles into Earth 's upper atmosphere?	Earth 's magnetic field funnels charged particles into Earth 's upper atmosphere
+WHAT	What are called plutinos?	Kuiper belt objects whose orbits share this resonance are called plutinos
+YN	Is a result the solar wind causing their atmospheres to gradually bleed away into space?	Yes
+WHAT	What is the triple star system Alpha Centauri?	The closest is the triple star system Alpha Centauri
+WHAT	What consists of objects having no resonance with Neptune?	The classical belt consists of objects having no resonance with Neptune
+YN	Is the system's mass in the Sun?	Yes
+YN	Do which those volatile substances could condense is known as the frost line?	Yes
+WHAT	What is thought to look and behave very much like a comet 's tail?	This structure is thought to look and behave very much like a comet 's tail
+WHAT	What are rare?	the Sun are rare
+WHAT	What are composed mainly of gases?	Saturn are composed mainly of gases
+WHAT	What gives it a flattened and elongated shape?	3.9-hour rotation gives it a flattened and elongated shape
+YN	Did the Solar System form 4.568 billion years ago from the gravitational collapse of a region within a large molecular cloud?	Yes
+YN	Does use the 110-metre (361-ft) Ericsson Globe in Stockholm as its substitute Sun?	Yes
+WHAT	What were formed in the cores of ancient and exploding stars?	helium were formed in the cores of ancient and exploding stars
+WHAT	What have orbits lasting thousands of years?	Long-period comets have orbits lasting thousands of years
+YN	Is the Solar System still unknown?	Yes
+WHAT	What have secondary systems of their own?	the Solar System have secondary systems of their own
+WHAT	What comprise the majority of the satellites of the giant planets?	Icy substances comprise the majority of the satellites of the giant planets
+YN	Did the Solar System form 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud?	Yes
+WHAT	What is very sparsely populated?	The asteroid belt is very sparsely populated
+WHAT	What formed by accretion from this disc?	The planets formed by accretion from this disc
+WHAT	What have dense?	inner planets have dense
+WHAT	What is Tau Ceti at 11.9 light-years?	The closest solitary Sun-like star to the Solar System is Tau Ceti at 11.9 light-years
+WHAT	What are larger than the ones included here?	Some omitted objects are larger than the ones included here
+WHO	Who do not have magnetic fields?	Mars do not have magnetic fields
+WHAT	What is located in the Milky Way?	The Solar System is located in the Milky Way
+WHAT	What became great enough for it to begin thermonuclear fusion?	the protostar became great enough for it to begin thermonuclear fusion
+WHAT	What describe the orbits of objects about the Sun?	planetary motion describe the orbits of objects about the Sun
+YN	Is only Saturn's ring system easily observed from Earth?	Yes
+WHAT	What became a main-sequence star?	the Sun became a main-sequence star
+YN	Does the Solar System consist of the Sun?	Yes
+YN	Does it have one natural satellite?	Yes
+WHAT	What are referred to as volatiles?	ices are referred to as volatiles
+WHAT	What are considered a distinct region consisting of the objects beyond Neptune?	the Solar System are considered a distinct region consisting of the objects beyond Neptune
+WHAT	What consists of a near-vacuum known as the interplanetary medium?	the Solar System consists of a near-vacuum known as the interplanetary medium
+WHAT	What has a 3:2 resonance with Neptune?	Pluto has a 3:2 resonance with Neptune
+WHO	Who is the region comprising the terrestrial planets and the asteroid belt?	The inner Solar System is the region comprising the terrestrial planets and the asteroid belt
+WHAT	What have not yet been adequately explained?	thin mantle have not yet been adequately explained
+WHO	Who includes the four terrestrial planets and the asteroid belt?	The inner Solar System includes the four terrestrial planets and the asteroid belt
+WHAT	What is a sampling of Solar System bodies?	This section is a sampling of Solar System bodies
+WHAT	What is suffused with high-temperature plasma?	The bubble is suffused with high-temperature plasma
+WHAT	What move very slowly?	Oort cloud objects move very slowly
+WHAT	What is very likely a dwarf planet?	Sedna is very likely a dwarf planet
+YN	Does compared to other planetary systems the Solar System stand out in lacking planets interior to the orbit of Mercury?	Yes
+WHAT	What are classified as cubewanos?	the classical Kuiper belt are classified as cubewanos
+YN	Does the Solar System consist of a near-vacuum known as the interplanetary medium?	Yes
+WHAT	What is from the Sun?	belt is from the Sun
+WHAT	What exists in the Solar System?	A composition gradient exists in the Solar System
+YN	Is the Solar System the Sun?	Yes
+YN	Is the Solar System in the Local Interstellar Cloud or Local Fluff?	Yes
+WHAT	What is known as the Solar System 's galactic year?	This revolution is known as the Solar System 's galactic year
+YN	Did the Sun create the heliosphere and swept away the remaining gas and dust from the protoplanetary disc into interstellar space?	Yes
+WHAT	What are orbits linked to that of Neptune ( e.g?	Resonances are orbits linked to that of Neptune ( e.g
+WHO	Who is beyond the asteroids?	The outer Solar System is beyond the asteroids
+WHAT	What have closer orbits than Mercury?	these super-Earths have closer orbits than Mercury
+WHAT	What are small Solar System bodies?	Comets are small Solar System bodies
+WHAT	What is highly eccentric?	its orbit is highly eccentric
+YN	Is the Solar System the gravitationally bound system comprising the Sun and the objects that orbit it?	Yes
+WHAT	What was confirmed to be orbiting Proxima Centauri?	a potentially habitable exoplanet was confirmed to be orbiting Proxima Centauri
+WHAT	What comes from iron oxide ( rust ) in its soil?	Its red colour comes from iron oxide ( rust ) in its soil
+WHAT	What stops its atmosphere from being stripped away by the solar wind?	Earth 's magnetic field stops its atmosphere from being stripped away by the solar wind
+WHAT	What extends from about 10 AU to about 40 AU?	The second dust cloud extends from about 10 AU to about 40 AU
+WHAT	What are nearly circular?	Solar System planets are nearly circular
+WHAT	What are not known for certain?	local interstellar space are not known for certain
+WHAT	What enters the inner Solar System?	When a comet enters the inner Solar System
+WHAT	What is the brightest object in the Kuiper belt after Pluto?	Makemake is the brightest object in the Kuiper belt after Pluto
+WHAT	What is also within the frost line?	This region is also within the frost line
+WHO	Who contain a higher proportion of volatiles?	the outer Solar System contain a higher proportion of volatiles
+YN	Have the Solar System secondary systems of their own?	Yes
+WHAT	What is a great ring of debris similar to the asteroid belt?	The Kuiper belt is a great ring of debris similar to the asteroid belt
+WHAT	What contains tens of thousands?	The asteroid belt contains tens of thousands
+WHAT	What are categorized as dwarf planets?	Such objects are categorized as dwarf planets
+WHAT	What is the only planet of the Solar System that is less dense than water?	Saturn is the only planet of the Solar System that is less dense than water
+WHAT	What has no natural satellites?	Venus has no natural satellites
+YN	Do some Solar System models attempt to convey the relative scales involved in the Solar System on human terms?	Yes
+YN	Is the inner Solar System the region comprising the terrestrial planets and the asteroid belt?	Yes
+WHO	Who is a factor in the evolutionary history of life on Earth?	the Milky Way is a factor in the evolutionary history of life on Earth
+WHAT	What are usually called meteoroids and micrometeoroids ( grain-sized )?	one meter are usually called meteoroids and micrometeoroids ( grain-sized )
+WHAT	What have multiple satellites?	Many Kuiper belt objects have multiple satellites
+WHAT	What have enabled the investigation of geological phenomena?	unmanned spacecraft have enabled the investigation of geological phenomena
+YN	Do the outer Solar System contain a higher proportion of volatiles?	Yes
+YN	Does create a bubble-like region in the interstellar medium known as the heliosphere?	Yes
+WHAT	What lies the area of the `` trans-Neptunian region ''?	Neptune lies the area of the `` trans-Neptunian region ''
+WHAT	What are in a 2:3 resonance with Jupiter?	Hilda asteroids are in a 2:3 resonance with Jupiter
+YN	Does the Solar System also lie well outside the star-crowded environs of the galactic centre?	Yes
+WHAT	What is in the Local Interstellar Cloud or Local Fluff?	The Solar System is in the Local Interstellar Cloud or Local Fluff
+YN	Does which the Solar System end and interstellar space begins is not precisely defined because its outer boundaries are shaped by two separate forces?	Yes
+YN	Are the inner Solar System composed mostly of rock?	Yes
+WHAT	What is a G2-type main-sequence star?	The Sun is a G2-type main-sequence star
+WHAT	What are the red dwarfs Barnard 's Star ( at 5.9 ly )?	closest to the Sun are the red dwarfs Barnard 's Star ( at 5.9 ly )
+WHO	Who are composed mostly of rock?	the inner Solar System are composed mostly of rock
+WHAT	What consists of the Sun?	the Solar System consists of the Sun
+WHAT	What is growing brighter?	The Sun is growing brighter
+WHAT	What is not massive enough to commence the fusion of heavier elements?	The Sun is not massive enough to commence the fusion of heavier elements
+WHAT	What have orbits lasting less than two hundred years?	Short-period comets have orbits lasting less than two hundred years
+YN	Have some scientists speculated that recent supernovae may have adversely affected life in the last 35,000 years?	Yes
+WHAT	What is the heliospheric current sheet?	the heliosphere is the heliospheric current sheet
+WHAT	What are asteroids that orbit larger asteroids?	Asteroid moons are asteroids that orbit larger asteroids
+YN	Is the closest solitary Sun-like star to the Solar System Tau Ceti at 11.9 light-years?	Yes
+WHAT	What led to the discovery of further planets and moons?	the telescope led to the discovery of further planets and moons
+WHAT	What increased surface area?	its vastly increased surface area
+WHAT	What are made up of small ice and rock particles?	Saturn are made up of small ice and rock particles
+YN	Are solar warming often categorised as asteroids?	Yes
+WHAT	What debris that never became planets congregated in regions such as the asteroid belt?	Leftover debris that never became planets congregated in regions such as the asteroid belt
+WHAT	What have rings?	All four giant planets have rings
+YN	Is the outer Solar System beyond the asteroids?	Yes
+WHO	Who is approximately 0.33 AU farther out from the Sun than Mercury?	Venus is approximately 0.33 AU farther out from the Sun than Mercury
+WHAT	What is 0.0047 AU ( 700,000 km )?	the Sun is 0.0047 AU ( 700,000 km )
+WHAT	What has been detected on Venus?	current geological activity has been detected on Venus
+YN	Do the Solar System will remain roughly as we know it today until the hydrogen in the core of the Sun has been entirely converted to helium?	Yes
+WHAT	What occurring along a shell surrounding the inert helium?	hydrogen fusion occurring along a shell surrounding the inert helium
+WHAT	What is still largely unexplored?	The entire region is still largely unexplored
+WHAT	What has 27 known satellites?	Uranus has 27 known satellites
+WHAT	What consider it to be the first in an entirely new population?	other astronomers consider it to be the first in an entirely new population
+WHAT	What did not recognize or understand the concept of the Solar System?	humanity did not recognize or understand the concept of the Solar System
+WHAT	What is a population I star?	The Sun is a population I star
+WHAT	What are more luminous?	Hotter main-sequence stars are more luminous
+WHO	Who was considered a planet?	Ceres was considered a planet
+WHO	Who has 60 % of Jupiter 's volume?	Saturn has 60 % of Jupiter 's volume

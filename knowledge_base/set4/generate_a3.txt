@@ -1,0 +1,41 @@
+YN	Was the celestial pole about equally distant from α Ursae Minoris (Cynosura) and β Ursae Minoris (Kochab)?	Yes
+WHAT	What lacks a bright star like Polaris to mark its position?	The south celestial pole lacks a bright star like Polaris to mark its position
+YN	Is the naked-eye star nearest to the celestial south pole the faint Sigma Octantis?	Yes
+WHO	Who is a little over two degrees away from Zeta Draconis?	Jupiter is a little over two degrees away from Zeta Draconis
+WHAT	What beholde mooste this sterre?	therefore astronomers beholde mooste this sterre
+YN	Is the Celestial south pole moving toward the Southern Cross?	Yes
+YN	Does the North Star (Polaris) become evident in the title Cynosura seu Mariana Stella Polaris (i.e?	Yes
+WHAT	What is only a couple of degrees from the south Celestial pole of Mars?	Kappa Velorum is only a couple of degrees from the south Celestial pole of Mars
+YN	Was the star Beta Hydri the nearest bright star to the Celestial south pole?	Yes
+WHAT	What are defined analogously?	other planets are defined analogously
+WHAT	What is no longer visible from subtropical northern latitudes?	the constellation is no longer visible from subtropical northern latitudes
+WHAT	What is also known as Lodestar?	Polaris is also known as Lodestar
+WHAT	What have different pole stars because their axes are oriented differently?	Different planets have different pole stars because their axes are oriented differently
+YN	Is the pole about 1° (as of 2000)?	Yes
+WHAT	What is the closest star to the northern pole of Venus?	42 Draconis is the closest star to the northern pole of Venus
+YN	Does the pole stars gradually change over time because the celestial poles exhibit a slow continuous drift through the star field?	Yes
+WHAT	What is Gamma Velorum?	Its south pole star is Gamma Velorum
+YN	Do the south Celestial pole will pass close to the stars Gamma Chamaeleontis (4200 AD)?	Yes
+WHAT	What is the closest naked-eye star to the south Celestial pole?	Sigma Octantis is the closest naked-eye star to the south Celestial pole
+YN	Did marian poetry publish by Nicolaus Lucensis (Niccolo Barsotti de Lucca) in 1655?	Yes
+WHAT	What is a name of Polaris in the constellation Ursa Minor?	polar star is a name of Polaris in the constellation Ursa Minor
+YN	Do the south Celestial pole will travel through the False Cross?	Yes
+YN	Has North Star passed (and will pass) from one star to another in the remote past (and in the remote future)?	Yes
+WHAT	What published by Nicolaus Lucensis ( Niccolo Barsotti de Lucca ) in 1655?	Marian poetry published by Nicolaus Lucensis ( Niccolo Barsotti de Lucca ) in 1655
+WHAT	What takes about 25,770 years to complete a cycle?	the equinoxes takes about 25,770 years to complete a cycle
+WHO	Who was the nearest bright star to the Celestial south pole?	the star Beta Hydri was the nearest bright star to the Celestial south pole
+WHAT	What described the celestial pole as devoid of stars?	320 BC described the celestial pole as devoid of stars
+WHAT	What is moving toward the Southern Cross?	The Celestial south pole is moving toward the Southern Cross
+WHAT	What is the south pole star of the Moon?	Delta Doradus is the south pole star of the Moon
+YN	Does the south celestial pole lack a bright star like Polaris to mark its position?	Yes
+WHO	Who becomes the North Star again around 27,800 AD?	When Polaris becomes the North Star again around 27,800 AD
+WHAT	What is the faint Sigma Octantis?	the naked-eye star nearest to the celestial south pole is the faint Sigma Octantis
+YN	Do the celestial pole will be nearest Polaris in 2100 and will thereafter become more distant?	Yes
+WHAT	What is the south pole star of Saturn?	Delta Octantis is the south pole star of Saturn
+YN	Do pointing to where a southern pole star would be?	Yes
+YN	Do a pole star may be any fixed star close to either celestial pole of any given planetary body?	Yes
+YN	Is its south pole star Gamma Velorum?	Yes
+YN	Is polar star a name of Polaris in the constellation Ursa Minor?	Yes
+WHO	Who was associated with Marian veneration from an early time?	Polaris was associated with Marian veneration from an early time
+WHO	Who was the North Star?	the constellation Draco was the North Star
+WHO	Who was only 8 degrees from the south pole?	Achernar was only 8 degrees from the south pole

@@ -1,0 +1,87 @@
+WHO	Who was able to defeat his 1st new rival Morrison?	Ash was able to defeat his 1st new rival Morrison
+WHO	Who is a blatant parody of Ash Ketchum?	the character Blast Ketchup is a blatant parody of Ash Ketchum
+YN	Does Ash do not yet have a Pokémon that can mega-evolve?	Yes
+YN	Do his friends help defend Lumiose City from Team Flare?	Yes
+YN	Does Ash continue his journey to the Unova region?	Yes
+YN	Does Ash conclude his participation in the Sinnoh League with an impressive new ranking?	Yes
+YN	Are Ash's primary enemies a Pokémon crime organization called Team Rocket?	Yes
+WHO	Who had used his handkerchief to wrap up her injury?	Ash had used his handkerchief to wrap up her injury
+WHAT	What is similar?	Pikachu manga is similar
+WHAT	What is the only one to join Ash in the Orange Islands?	Misty is the only one to join Ash in the Orange Islands
+YN	Do however Ash wanting to learn more about Pokémon and get even stronger?	Yes
+WHAT	What is voiced by Rica Matsumoto?	the character is voiced by Rica Matsumoto
+YN	Bart remarks "Wow, how does this show stay so fresh?	Yes
+YN	Did Ash leave Pallet Town to start his journey?	Yes
+WHO	Who had hurt her knee from falling over after being startled by a Poliwag?	Serena had hurt her knee from falling over after being startled by a Poliwag
+YN	Was Ash able to go to the 5th round?	Yes
+WHAT	What was given a rival named Gary ( Shigeru in the Japanese version?	The character was given a rival named Gary ( Shigeru in the Japanese version
+WHAT	What concludes his participation in the Sinnoh League with an impressive new ranking?	Ash concludes his participation in the Sinnoh League with an impressive new ranking
+WHAT	What was never released in Japan?	This game was never released in Japan
+YN	Was when Ash a little boy?	Yes
+YN	Is Ash eventually defeated by Tobias?	Yes
+YN	Did a character very similar to Ash (name Red) appears as a playable character as well as in cameos in Pokémon Black 2?	Yes
+WHAT	What were recorded separately?	All the voices were recorded separately
+YN	Does Ash also make a cameo in Ghost Trial of the full game?	Yes
+YN	Is Ash usually seen traveling by himself during the course of this manga although he is joined by Misty and Brock in Indigo sometimes?	Yes
+YN	Does Ash make a brief cameo in the animated series The Simpsons?	Yes
+WHAT	What help defend Lumiose City from Team Flare?	his friends help defend Lumiose City from Team Flare
+YN	Was Ash's character design initially overseen by Sayuri Ichishi?	Yes
+YN	Has Ash appeared in all episodes of the anime?	Yes
+YN	Does a man wearing Ash's original outfit also appear in a few Taiwanese Subway ads teaching passengers basic safety procedures?	Yes
+WHAT	What was initially overseen by Sayuri Ichishi?	Ash 's character design was initially overseen by Sayuri Ichishi
+YN	Has Ash considerably improved his abilities as a trainer over the course of the series?	Yes
+WHO	Who noted the contrast between the characters ' relationship in the games and anime?	an interview Tajiri noted the contrast between the characters ' relationship in the games and anime
+WHAT	What were over Lt. Surge?	the only legitimate victories were over Lt. Surge
+YN	Does befriend a new traveling companion?	Yes
+YN	Did Ash then venture to the Kalos region to challenge the Kalos League?	Yes
+WHAT	What show The Big Bang Theory?	the TV show The Big Bang Theory
+WHO	Who stated that the character was temporarily named Casey?	Taylor stated that the character was temporarily named Casey
+WHO	Who is stopped?	Once Team Flare is stopped
+YN	Did Ash travel to the Orange Islands with Misty and Tracey Sketchit?	Yes
+YN	Does Ash still manage to win all eight gym badges in Unova and then entered the Unova League?	Yes
+YN	Does Ash earn all eight gym badges qualifying him to compete in the Kalos League?	Yes
+YN	Does Ash defeat all of the Brains and acquires all the 7 Battle Frontier symbols?	Yes
+WHO	Who was often the first person to record?	Taylor was often the first person to record
+WHAT	What expressed disappointment that Ash had lost?	the series expressed disappointment that Ash had lost
+YN	Did know as Satoshi (サトシ) in Japan?	Yes
+YN	Had Ash used his handkerchief to wrap up her injury?	Yes
+YN	Had Ash still a lot to learn as a trainer?	Yes
+YN	Is Ash mentioned by the character Sheldon Cooper?	Yes
+WHO	Who has collected 8 badges from each of the major regions of Kanto?	Ash has collected 8 badges from each of the major regions of Kanto
+YN	Was Ash forced to take shelter under a hollow tree?	Yes
+YN	Was Ash able to defeat his 1st new rival Morrison?	Yes
+WHAT	What is then defeated by Virgil?	Cameron is then defeated by Virgil
+YN	Did Ash also make a brief appearance on The Late Show with Stephen Colbert?	Yes
+WHAT	What was translated from Japanese?	the script was translated from Japanese
+YN	Was the rare Bond Phenomenon Ash's Greninja subject to was said to be far more powerful than a conventional Mega Evolution?	Yes
+WHO	Who uses the Z-Ring for the first time with Pikachu?	When Ash uses the Z-Ring for the first time with Pikachu
+YN	Has Ash generally improved in his Pokémon League Performances over time?	Yes
+WHAT	What has considerably improved his abilities as a trainer over the course of the series?	Ash has considerably improved his abilities as a trainer over the course of the series
+YN	Has Ash gone on to become one of the most well-known and recognizable animated characters of all-time (due to his status as the protagonist of the Pokémon anime)?	Yes
+YN	Does Ash also show a deep love for Pokémon in the series?	Yes
+YN	Did Ash then move on and traveled through the Hoenn region?	Yes
+WHO	Who enjoyed playing Ash because of his `` low?	Taylor enjoyed playing Ash because of his `` low
+YN	Does Ash notoriously display a drop in skill and competence?	Yes
+YN	Is a man wearing Ash's original League Expo hat also shown in the third episode of season 4 of the show Metalocalypse?	Yes
+YN	Did Ash train to catch more Pokémon than his childhood rival?	Yes
+WHO	Who cited Ash as an example of cultural identification?	Children 's Popular Culture cited Ash as an example of cultural identification
+YN	Was Ash eliminated from his first Pokémon League competition in a very unflattering manner?	Yes
+YN	Was Ash able to win his battle against Drake?	Yes
+YN	Does when Ash use the Z-Ring for the first time with Pikachu?	Yes
+YN	Does Ash win all 8 Sinnoh gym badges?	Yes
+WHAT	What remain the same?	determination remain the same
+YN	Has Ash an encounter with Tapu Koko?	Yes
+YN	Has then Ash traveled the world of Pokémon?	Yes
+YN	Did the same way it re-imagined Red's rival Blue as Gary Oak and Ethan (the protagonist of the second generation Pokémon games as well as their remakes) as Jimmy?	Yes
+WHO	Who has always provided the original Japanese voice of Ash?	Rica Matsumoto has always provided the original Japanese voice of Ash
+YN	Has Ash still many parodies and appearances in various other media?	Yes
+YN	Was Ash offered a choice between three Pokémon as his starter?	Yes
+WHO	Who was forced to take shelter under a hollow tree?	Ash was forced to take shelter under a hollow tree
+YN	Did Ash receive a major design overhaul for the Sun and Moon anime series?	Yes
+YN	Is Ash's dream to become a Pokémon Master?	Yes
+WHO	Who continues his journey to the Unova region?	Ash continues his journey to the Unova region
+YN	Has the only video game Ash truly appeared in to date is Pokémon Puzzle League?	Yes
+WHAT	What defeats all of the Brains and acquires all the 7 Battle Frontier symbols?	Ash defeats all of the Brains and acquires all the 7 Battle Frontier symbols
+YN	Has Ash collected 8 badges from each of the major regions of Kanto?	Yes
+WHAT	What wins all 8 Sinnoh gym badges?	Ash wins all 8 Sinnoh gym badges
+WHO	Who received a major design overhaul for the Sun and Moon anime series?	Ash received a major design overhaul for the Sun and Moon anime series

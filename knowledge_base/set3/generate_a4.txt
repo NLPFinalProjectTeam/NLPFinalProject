@@ -1,0 +1,61 @@
+YN	Does another Charizard appear in Pokémon X and Y?	Yes
+YN	Has Charizard appeared many times throughout the Super Smash Bros. series?	Yes
+YN	Is Charizard the evolved form of Charmeleon and the final evolution of Charmander?	Yes
+WHO	Who has appeared many times throughout the Super Smash Bros. series?	Charizard has appeared many times throughout the Super Smash Bros. series
+YN	Has shown to be powerful by defeating 10 Mega Evolutions in a row and defeating Ash's Greninja?	Yes
+YN	Has Charizard received positive reception from the media?	Yes
+WHAT	What covers Ash and his companions finding the abandoned Charmander?	The story covers Ash and his companions finding the abandoned Charmander
+YN	Does Charizard battle against Saur and is nearly knocked out?	Yes
+YN	Is the most notable Charizard one Ash Ketchum has had since he was a Charmander abandoned by his former owner Damian?	Yes
+WHAT	What become trapped inside the Trainer Tower in the Sevii Islands?	The three trainers become trapped inside the Trainer Tower in the Sevii Islands
+YN	Do Charizard should leave his team forever?	Yes
+WHAT	What have two wings that are teal?	Charizards have two wings that are teal
+YN	Did Red's Charizard go through Mega Evolution and became Mega Charizard X?	Yes
+YN	Did Red's Charizard help its trainer defeat Team Rocket?	Yes
+YN	Is Charizard a boss Pokémon who becomes attached to the player's character and assists him or her throughout the game?	Yes
+YN	Has Charizard been featured in lines of soft toys and action figures in the Pokémon franchise?	Yes
+YN	Was Charizard voted as the `` best Fire-type Pokémon ''?	Yes
+WHAT	What are ground-bound lizard like creatures?	Charmeleon are ground-bound lizard like creatures
+YN	Is Charizard one of several Pokémon in Pokémon X and Y that is able to use the new Mega Evolution mechanic?	Yes
+YN	Did Charizard stay with all of Ash's Pokémon sans Pikachu at Professor Oak's laboratory?	Yes
+WHAT	What have stated similar?	Interviewed children have stated similar
+YN	Did Blue's Charizard re-appeared during the final match of the ninth Pokémon League?	Yes
+YN	Did Charizard still do not obey Ash?	Yes
+YN	Did Charizard become loyal during the Orange Islands arc after Ash battled a trainer with a Poliwrath and Charizard was frozen solid?	Yes
+WHO	Who has saved Ash 's life on more than one occasion?	Charizard has saved Ash 's life on more than one occasion
+YN	Did Charizard make its video game debut in 1996 with the Japanese release of Pokémon Red and Blue?	Yes
+WHO	Who went through Mega Evolution and became Mega Charizard X?	Red 's Charizard went through Mega Evolution and became Mega Charizard X
+WHAT	What featuring the character have been stated to be the most desired of the series?	Cards featuring the character have been stated to be the most desired of the series
+WHO	Who is explicitly a Fire/Flying-type?	Charizard is explicitly a Fire/Flying-type
+YN	Did Charizard also develop a fierce rivalry with Iris's Dragonite so much so that both Ash and Iris agreed to have a battle?	Yes
+YN	Is Charizard the version mascot of Pokémon Red and FireRed versions?	Yes
+YN	Is Charizard featured in the Pokémon anime series with the most recurring being from the main character Ash Ketchum?	Yes
+YN	Did Charizard first appear in the video games Pokémon Red and Blue and subsequent sequels?	Yes
+YN	Is Charizard playable as a stand-alone character in Super Smash Bros. for Nintendo 3DS and Wii U?	Yes
+WHAT	What submerges a vine into the cloud?	Saur submerges a vine into the cloud
+YN	Does Charizard appear in Pokémon Origins with main character Red as its trainer?	Yes
+YN	Does Charizard appear often in the Pokémon Trading Card Game?	Yes
+YN	Does return on a temporary basis to battle at Ash's side?	Yes
+WHAT	What face off against Koga 's Articuno and are frozen by its Ice Beam?	Blue face off against Koga 's Articuno and are frozen by its Ice Beam
+YN	Has Charizard saved Ash's life on more than one occasion?	Yes
+YN	Does Charizard first appear as a non-playable character in Super Smash Bros. and Super Smash Bros. Melee?	Yes
+WHAT	What gets sharper with pointed horns and wings?	its appearance gets sharper with pointed horns and wings
+YN	Is Red's Charizard the first Pokémon to Mega Evolve in an anime?	Yes
+YN	Are Charizard known to unintentionally cause wildfires?	Yes
+WHAT	What overpowered and knocked out opponents in one hit?	These cards overpowered and knocked out opponents in one hit
+YN	Did Charizard also return for Ash's first Battle Frontier battle?	Yes
+YN	Did Charizard return during the Johto Pokémon League and defeated Gary's Blastoise?	Yes
+WHAT	What include Rock Smash?	Charizard 's moves include Rock Smash
+WHO	Who are known to unintentionally cause wildfires?	Charizard are known to unintentionally cause wildfires
+YN	Do having wings that can carry them close to an altitude of 4,600 feet?	Yes
+WHO	Who is Mega Evolved?	When Charizard is Mega Evolved
+YN	Was Pokémon Company president Tsunekazu Ishihara stated Charizard expected to be popular with North American audiences because of their preference for strong?	Yes
+YN	Has Charizard its own DVD that contains three episodes featuring it?	Yes
+YN	Did the Best Wishes series Charizard officially rejoin Ash's team while Ash was exploring the Unova (Isshu) region?	Yes
+YN	Did know in Japan as Lizardon (リザードン?	Yes
+YN	Do Charizard's moves include Rock Smash?	Yes
+YN	Do the three trainers manage to focus the angle of the three powerful attacks – Blast Burn?	Yes
+WHO	Who battles against Saur and is nearly knocked out?	Charizard battles against Saur and is nearly knocked out
+YN	Has Charizard been noted as one of the franchise's `` most popular '' characters?	Yes
+YN	Has Charizard made appearances in many other Pokémon games?	Yes
+WHAT	What brings Charizard to the Orange Islands and trains it diligently since the near-disaster?	Ash brings Charizard to the Orange Islands and trains it diligently since the near-disaster

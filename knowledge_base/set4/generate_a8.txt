@@ -1,0 +1,81 @@
+WHAT	What taken several years apart reveal the slow expansion of the nebula?	Images taken several years apart reveal the slow expansion of the nebula
+WHAT	What evolve so slowly that changes are visible only over timescales of many years?	most astronomical objects evolve so slowly that changes are visible only over timescales of many years
+YN	Do this would have created a shell around the nebula?	Yes
+YN	Does the Crab Nebula correspond to the bright SN 1054 supernova recorded by Chinese astronomers in AD 1054?	Yes
+YN	Was the nebula independently rediscovered in 1758 by Charles Messier as he was observing a bright comet?	Yes
+WHAT	What have been used to map X-ray emissions from the nebula?	Lunar transits have been used to map X-ray emissions from the nebula
+WHAT	What explode as supernovae?	stars explode as supernovae
+WHAT	What is the point?	the nebula is the point
+YN	Was the Crab Nebula first identified in 1731 by John Bevis?	Yes
+YN	Is the nebula thought to be shaped like a prolate spheroid?	Yes
+WHAT	What lies in the Perseus Arm of the Milky Way galaxy?	The nebula lies in the Perseus Arm of the Milky Way galaxy
+WHAT	What is slowing very gradually?	its period is slowing very gradually
+WHAT	What is thought to be shaped like a prolate spheroid?	the nebula is thought to be shaped like a prolate spheroid
+WHO	Who demonstrated that the remnant is expanding?	John Charles Duncan demonstrated that the remnant is expanding
+WHO	Who catalogued it as the first entry in his catalogue of comet-like objects?	Messier catalogued it as the first entry in his catalogue of comet-like objects
+WHAT	What are two faint stars?	the Crab Nebula are two faint stars
+WHAT	What allows for the detailed studying of celestial bodies that occult it?	The nebula 's radiation allows for the detailed studying of celestial bodies that occult it
+YN	Was the Crab Nebula strong evidence that pulsars were formed by supernova explosions?	Yes
+YN	Does the nebula's radiation allow for the detailed studying of celestial bodies that occult it?	Yes
+WHAT	What are sources of powerful electromagnetic radiation?	Pulsars are sources of powerful electromagnetic radiation
+YN	Does the Crab Nebula mean that it must have formed in a core-collapse supernova?	Yes
+YN	Is the Crab Pulsar believed to be about 28–30 km (17–19 mi) in diameter?	Yes
+YN	Is the Crab Nebula that a substantial proportion of the mass of the progenitor was carried away before the supernova explosion in a fast stellar wind?	Yes
+WHAT	What were first observed from the Crab Nebula?	When X-rays were first observed from the Crab Nebula
+WHO	Who proposed that the diffuse blue region is predominantly produced by synchrotron radiation?	1953 Iosif Shklovsky proposed that the diffuse blue region is predominantly produced by synchrotron radiation
+WHAT	What have been made at several wavelengths to observe a shell?	attempts have been made at several wavelengths to observe a shell
+WHAT	What is generally the brightest persistent source in the sky?	the Crab Nebula is generally the brightest persistent source in the sky
+WHO	Who registered his spectroscopy study of the sky?	when Vesto Slipher registered his spectroscopy study of the sky
+WHAT	What does not transit the nebula?	the Sun does not transit the nebula
+WHO	Who observed the Crab Nebula numerous times between 1783 and 1809?	William Herschel observed the Crab Nebula numerous times between 1783 and 1809
+WHO	Who became the first astronomical object recognized as being connected to a supernova explosion?	Crab Nebula became the first astronomical object recognized as being connected to a supernova explosion
+WHAT	What released as the pulsar slows down is enormous?	The energy released as the pulsar slows down is enormous
+YN	Does its exact age (almost to the day) allow for the verification of basic physical properties of these objects?	Yes
+YN	Is the nebula a much smaller pulsar wind nebula that appears as a shell surrounding the pulsar?	Yes
+YN	Does the Crab Nebula lie roughly 1.5 degrees away from the ecliptic—the plane of Earth's orbit around the Sun?	Yes
+WHAT	What started at that moment?	historical supernovae started at that moment
+WHAT	What was strong evidence that pulsars were formed by supernova explosions?	the Crab Nebula was strong evidence that pulsars were formed by supernova explosions
+WHAT	What is the focus of much attention among astronomers?	the Crab Nebula is the focus of much attention among astronomers
+YN	Is the Crab Nebula generally the brightest persistent source in the sky?	Yes
+YN	Did the Crab Nebula again become a major centre of interest?	Yes
+YN	Are the Crab Nebula two faint stars?	Yes
+YN	Does the Crab Nebula consist of a broadly oval-shaped mass of filaments?	Yes
+WHAT	What consists of a broadly oval-shaped mass of filaments?	the Crab Nebula consists of a broadly oval-shaped mass of filaments
+WHAT	What are the remnants of the progenitor star 's atmosphere?	The filaments are the remnants of the progenitor star 's atmosphere
+YN	Are the nebula important for estimating the mass of the supernova's progenitor star?	Yes
+WHAT	What are made by measuring the total amount of light emitted?	the nebula are made by measuring the total amount of light emitted
+WHAT	What means that it must have formed in a core-collapse supernova?	the Crab Nebula means that it must have formed in a core-collapse supernova
+YN	Was the Crab Nebula again one of the first objects to be studied?	Yes
+WHAT	What was the first astronomical object identified with a historical supernova explosion?	The nebula was the first astronomical object identified with a historical supernova explosion
+YN	Is the Crab Nebula the focus of much attention among astronomers?	Yes
+YN	Is the Crab Nebula that the combined mass of the nebula and the pulsar add up to considerably less than the predicted mass of the progenitor star?	Yes
+WHAT	What are superficial but remain meaningful to researchers and their lines of study?	the divisions are superficial but remain meaningful to researchers and their lines of study
+WHAT	What was found to be emitting its radiation in rapid pulses?	the star was found to be emitting its radiation in rapid pulses
+YN	Was the nebula observed later by English astronomer John Bevis in 1731?	Yes
+WHAT	What shifts rapidly?	this feature shifts rapidly
+YN	Was the Crab Nebula created by a supernova dates to 1921?	Yes
+YN	Does the nebula lie in the Perseus Arm of the Milky Way galaxy?	Yes
+WHAT	What are typically between 11,000 and 18,000 K?	The filaments ' temperatures are typically between 11,000 and 18,000 K
+WHAT	What are important for estimating the mass of the supernova 's progenitor star?	the nebula are important for estimating the mass of the supernova 's progenitor star
+YN	Is the Crab Nebula a helium-rich torus which is visible as an east-west band crossing the pulsar region?	Yes
+YN	Did Crab Nebula become the first astronomical object recognized as being connected to a supernova explosion?	Yes
+YN	Was the nebula the first astronomical object identified with a historical supernova explosion?	Yes
+WHAT	What are emitted at wavelengths across the electromagnetic spectrum?	Pulses are emitted at wavelengths across the electromagnetic spectrum
+WHAT	What was first identified in 1731 by John Bevis?	The Crab Nebula was first identified in 1731 by John Bevis
+WHAT	What was confirmed by observations?	Three years later the theory was confirmed by observations
+WHO	Who transits the Crab Nebula?	Saturn transits the Crab Nebula
+YN	Does the nebula lie the Crab Pulsar?	Yes
+WHAT	What was crucial?	supernova remnants was crucial
+YN	Is the nebula altered by the transiting body?	Yes
+YN	Did the nebula take several years apart revealed that it was expanding?	Yes
+WHAT	What shows sharp changes?	its rotational period shows sharp changes
+WHAT	What was created by a supernova dates to 1921?	the Crab Nebula was created by a supernova dates to 1921
+WHAT	What is due to William Parsons?	The now-current name is due to William Parsons
+WHAT	What composes about 25 % of the visible ejecta?	The torus composes about 25 % of the visible ejecta
+WHO	Who proposed associating the cloud to the star of 1054?	Edwin Hubble proposed associating the cloud to the star of 1054
+YN	Are the nebula made by measuring the total amount of light emitted?	Yes
+WHAT	What was observed shortly afterwards in 1968?	The star was observed shortly afterwards in 1968
+WHAT	What taken several years apart revealed that it was expanding?	the nebula taken several years apart revealed that it was expanding
+YN	Did expansion speed due to the nebula's mass) yield a date for the creation of the nebula several decades after 1054?	Yes
+WHAT	What was long considered unrecorded in Islamic astronomy?	The event was long considered unrecorded in Islamic astronomy
+WHAT	What corresponded to electrons moving at speeds up to half the speed of light?	The radiation corresponded to electrons moving at speeds up to half the speed of light

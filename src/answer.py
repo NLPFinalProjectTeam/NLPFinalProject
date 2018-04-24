@@ -14,9 +14,15 @@ KNOWLEDGE_BASE_PATH = "../knowledge_base/"
 
 
 def load_knowledge(psg):
+
     knowledge = {}
     try:
-        f = codecs.open(os.path.join(KNOWLEDGE_BASE_PATH, "generate_"+psg), encoding="utf-8")
+    	if "/" in psg:
+    		s, a = psg.split("/")
+    		temp = os.path.join(s, "generate_"+a)
+    	else:
+    		temp = "generate_" + psg
+        f = codecs.open(os.path.join(KNOWLEDGE_BASE_PATH, temp), encoding="utf-8")
     except FileNotFoundError:
         return knowledge
 
@@ -25,8 +31,8 @@ def load_knowledge(psg):
     for line in f:
         qtype, question, answer = line.strip().split("\t")
         question = question.strip().lower().rstrip('?:!.,;')
-        if (question, qtype) not in knowledge:
-            knowledge[(question, qtype)] = answer
+        if question not in knowledge:
+            knowledge[question] = answer
 
     f.close()
     return knowledge
@@ -49,7 +55,7 @@ def get_type(q):
         return "WHO"
     elif q[0] in ["is", "was", "are", "were", "am", "does",
                   "do", "did", "didn't", "isn't", "aren't",
-                  "weren't", "don't", "wasn't"]:
+                  "weren't", "don't", "wasn't", "had", "have", "hadn't", "haven't", "has", "hasn't"]:
         return "YN"
     elif q[0] == "why":
         return "WHY"
@@ -78,10 +84,10 @@ def main(argv):
         question = question.strip().lower().translate(translator)
         qtype = get_type(question)
 
-        if (question, qtype) in knowledge:
+        if question in knowledge:
             # Temporarily just print the answer
             # print question, qtype
-            print(knowledge[(question, qtype)])
+            print(knowledge[question])
             continue
 
         # Retrieve

@@ -1,0 +1,143 @@
+WHAT	What have incorporated observational and theoretical additions into the Big Bang model?	astrophysicists have incorporated observational and theoretical additions into the Big Bang model
+WHAT	What is known as the cosmic microwave background radiation?	This relic radiation is known as the cosmic microwave background radiation
+WHAT	What depend on a single parameter?	The relative abundances depend on a single parameter
+WHAT	What has always been controversial?	dark matter has always been controversial
+WHAT	What provided substantial confirmation of the big-bang predictions by Alpher?	Their discovery provided substantial confirmation of the big-bang predictions by Alpher
+WHAT	What appeared to indicate?	certain globular clusters appeared to indicate
+WHAT	What were greater than the critical density?	the universe were greater than the critical density
+WHO	Who agreed with Aristotle that the universe did not have a beginning in time?	Arthur Eddington agreed with Aristotle that the universe did not have a beginning in time
+WHAT	What formed within the first three minutes after the Big Bang?	simple atomic nuclei formed within the first three minutes after the Big Bang
+WHAT	What is dominated by a mysterious form of energy known as dark energy?	the universe today is dominated by a mysterious form of energy known as dark energy
+WHAT	What was raised in the late 1970s?	The magnetic monopole objection was raised in the late 1970s
+YN	Is the Big Bang model well established in cosmology?	Yes
+WHAT	What indicate that the universe is very nearly spatially flat?	the cosmic microwave background indicate that the universe is very nearly spatially flat
+WHAT	What was denser and hotter in the past?	the universe was denser and hotter in the past
+WHO	Who was demonstrably warmer at earlier times throughout the universe?	the Big Bang was demonstrably warmer at earlier times throughout the universe
+WHAT	What is not identical to the Doppler redshift?	the cosmological red-shift is not identical to the Doppler redshift
+WHAT	What continues to accelerate?	the universe continues to accelerate
+WHAT	What are uniformly isotropic?	These redshifts are uniformly isotropic
+WHAT	What are extremely isotropic and homogeneous?	Astronomical redshifts are extremely isotropic and homogeneous
+WHAT	What is the belief that it was the origin of the universe?	the Big Bang model is the belief that it was the origin of the universe
+WHAT	What assumes the existence of energy?	the Big Bang model assumes the existence of energy
+WHAT	What published papers?	George F. R. Ellis published papers
+WHAT	What were unstable?	the proton were unstable
+WHAT	What does not apply beyond motion through space?	special relativity does not apply beyond motion through space
+WHAT	What is mostly normal matter led to predictions that were strongly inconsistent with observations?	the universe is mostly normal matter led to predictions that were strongly inconsistent with observations
+WHAT	What was later resolved?	This issue was later resolved
+YN	Does the Big Bang model do not comment about?	Yes
+WHAT	What considered two scenarios for the future of the universe?	cosmologists considered two scenarios for the future of the universe
+WHAT	What is well established in cosmology?	the Big Bang model is well established in cosmology
+WHAT	What is not an explosion in space?	the Big Bang is not an explosion in space
+WHAT	What predicts that the primordial fluctuations are nearly scale invariant and Gaussian?	Inflation predicts that the primordial fluctuations are nearly scale invariant and Gaussian
+WHAT	What describes velocity that results from expansion of space?	Hubble 's law describes velocity that results from expansion of space
+YN	Is Big Bang nucleosynthesis strong evidence for the Big Bang?	Yes
+WHAT	What is itself sometimes called `` the Big Bang ''?	This primordial singularity is itself sometimes called `` the Big Bang ''
+WHAT	What is excellent for deuterium?	The agreement is excellent for deuterium
+WHAT	What have found this to be roughly true?	Observations have found this to be roughly true
+YN	Is the Big Bang model the belief that it was the origin of the universe?	Yes
+WHAT	What is the largest symmetry possible and hence the lowest entropy of any state?	The symmetry is the largest symmetry possible and hence the lowest entropy of any state
+WHAT	What combined into atoms ( mostly hydrogen )?	nuclei combined into atoms ( mostly hydrogen )
+WHAT	What suggests that there is a past horizon?	the universe back to very early times suggests that there is a past horizon
+YN	Does state that the universe at the moment of the Big Bang consists of an infinite lattice of fermions?	Yes
+WHAT	What is currently subjected to the most active laboratory investigations?	dark matter is currently subjected to the most active laboratory investigations
+YN	Have the Big Bang model revealed new mysteries of their own?	Yes
+YN	Does the Big Bang theory depend on two major assumptions?	Yes
+WHAT	What is interpreted as a Doppler shift?	the redshift is interpreted as a Doppler shift
+WHAT	What were further investigated by a large number of ground-based and balloon experiments?	CMB anisotropies were further investigated by a large number of ground-based and balloon experiments
+WHAT	What are known as cold dark matter?	matter are known as cold dark matter
+WHAT	What does not comment about?	the Big Bang model does not comment about
+WHAT	What violates special theory of relativity?	Hubble 's law violates special theory of relativity
+WHAT	What remained uncombined as hydrogen nuclei?	Most protons remained uncombined as hydrogen nuclei
+WHO	Who was `` small ''?	The Big Bang was `` small ''
+WHAT	What is believed to be a property of vacuum energy?	Negative pressure is believed to be a property of vacuum energy
+YN	Was the Big Bang `` small ''?	Yes
+WHAT	What serve as the seeds of all current structure in the universe?	These fluctuations serve as the seeds of all current structure in the universe
+WHAT	What is that any small departure from the critical density grows with time?	The problem is that any small departure from the critical density grows with time
+WHAT	What unified theories predicted topological defects in space that would manifest as magnetic monopoles?	Grand unified theories predicted topological defects in space that would manifest as magnetic monopoles
+YN	Does some believe the Big Bang imply a creator?	Yes
+YN	Does the Big Bang model assume the existence of energy?	Yes
+WHAT	What have been resolved while others are still outstanding?	problems have been resolved while others are still outstanding
+WHAT	What are undecided whether this means the universe began from a singularity?	Physicists are undecided whether this means the universe began from a singularity
+WHAT	What happened at about 1 second for electrons and positrons?	A similar process happened at about 1 second for electrons and positrons
+WHAT	What is due to the movement of branes in string theory?	which inflation is due to the movement of branes in string theory
+WHAT	What have arisen as a result of the development of the Big Bang theory?	problems have arisen as a result of the development of the Big Bang theory
+WHAT	What is not known?	The eventual result is not known
+WHAT	What launched the Cosmic Background Explorer satellite ( COBE )?	NASA launched the Cosmic Background Explorer satellite ( COBE )
+WHAT	What have been observed to contain heavy elements that are formed in stars?	all other astronomical objects have been observed to contain heavy elements that are formed in stars
+WHAT	What worked on characterizing the features of the Big Bang universe and resolving outstanding problems?	cosmologists worked on characterizing the features of the Big Bang universe and resolving outstanding problems
+WHAT	What were initially taken as postulates?	These ideas were initially taken as postulates
+WHAT	What cooled sufficiently to allow the formation of subatomic particles?	the universe cooled sufficiently to allow the formation of subatomic particles
+WHAT	What indicate that the expansion of the universe is accelerating?	supernovae indicate that the expansion of the universe is accelerating
+WHAT	What have been proposed that do not require a large amount of undetected matter?	Alternative theories have been proposed that do not require a large amount of undetected matter
+WHAT	What is not an explosion of matter moving outward to fill an empty universe?	The Big Bang is not an explosion of matter moving outward to fill an empty universe
+WHAT	What has a finite age?	the universe has a finite age
+WHAT	What are subject to much speculation?	the Big Bang are subject to much speculation
+WHAT	What remain more speculative features of current Big Bang models?	baryogenesis remain more speculative features of current Big Bang models
+WHAT	What is based on general relativity?	the cosmological red-shift is based on general relativity
+WHAT	What is the current `` standard model '' of Big Bang cosmology?	The Lambda-CDM model is the current `` standard model '' of Big Bang cosmology
+WHAT	What are still being sought?	such phenomena are still being sought
+YN	Is the Big Bang spacetime the presence of particle horizons?	Yes
+WHAT	What were proposed as non-standard cosmologies to explain Hubble 's observations?	the 1930s other ideas were proposed as non-standard cosmologies to explain Hubble 's observations
+YN	Is the Big Bang theory the prevailing cosmological model for the universe from the earliest known periods through its subsequent large-scale evolution?	Yes
+WHO	Who concluded that galaxies are drifting apart?	Edwin Hubble concluded that galaxies are drifting apart
+WHAT	What has begun with a single quantum?	the world has begun with a single quantum
+WHAT	What ends locally here and there in a random fashion?	which universal inflation ends locally here and there in a random fashion
+YN	Did the Big Bang theory develop from observations of the structure of the universe and from theoretical considerations?	Yes
+YN	Are the Big Bang subject to much speculation?	Yes
+WHAT	What was once divided between supporters of two different theories?	The scientific community was once divided between supporters of two different theories
+WHAT	What is needed to break this barrier?	quantum gravitation is needed to break this barrier
+YN	Have the Big Bang appeal to various exotic physical phenomena that not been observed in terrestrial laboratory experiments or incorporated into the Standard Model of particle physics?	Yes
+WHAT	What is the presence of particle horizons?	the Big Bang spacetime is the presence of particle horizons
+WHAT	What suggests that only gravitationally bound systems?	This theory suggests that only gravitationally bound systems
+WHAT	What is correct?	this suggestion is correct
+YN	Was the Big Bang demonstrably warmer at earlier times throughout the universe?	Yes
+WHAT	What depends on two major assumptions?	The Big Bang theory depends on two major assumptions
+YN	Does the Big Bang theory offer a comprehensive explanation for a broad range of observed phenomena?	Yes
+WHAT	What arises because in most standard cosmological inflation models?	A related issue to the classic horizon problem arises because in most standard cosmological inflation models
+WHAT	What is roughly the same at any point in time?	this model the universe is roughly the same at any point in time
+YN	Is the Big Bang expansion still poorly understood and an area of open investigation and speculation?	Yes
+WHAT	What was launched in May 2009?	The Planck space probe was launched in May 2009
+WHAT	What was `` repugnant '' to him?	time was `` repugnant '' to him
+WHAT	What disproved several specific cosmic inflation models?	The results disproved several specific cosmic inflation models
+WHAT	What were equal to or below the critical density?	the universe were equal to or below the critical density
+WHAT	What was discovered?	the cosmic microwave background radiation was discovered
+WHAT	What comes from its gravitational influence on other matter?	dark matter comes from its gravitational influence on other matter
+YN	Is the Big Bang not an explosion of matter moving outward to fill an empty universe?	Yes
+WHAT	What based cosmic microwave background experiments are ongoing?	balloon based cosmic microwave background experiments are ongoing
+WHAT	What is based on special relativity?	The Doppler redshift is based on special relativity
+WHAT	What are strong arguments against the steady-state model?	These observations are strong arguments against the steady-state model
+WHAT	What comprised a hot dense photon-baryon plasma sea?	the universe comprised a hot dense photon-baryon plasma sea
+WHAT	What includes observations of galaxy formation and evolution?	More recent evidence includes observations of galaxy formation and evolution
+WHAT	What has two possible explanations?	Hubble 's law has two possible explanations
+WHAT	What are most commonly resolved with inflationary theory?	the flatness problem are most commonly resolved with inflationary theory
+WHAT	What predicts that during the inflationary phase there would be quantum thermal fluctuations?	Heisenberg 's uncertainty principle predicts that during the inflationary phase there would be quantum thermal fluctuations
+WHAT	What are in agreement with the current state of the Big Bang theory?	quasars are in agreement with the current state of the Big Bang theory
+WHAT	What were the result of an explosion from a center distant from us?	the redshifts were the result of an explosion from a center distant from us
+WHAT	What suggest that the universe?	observations suggest that the universe
+WHAT	What have been proposed?	dark matter have been proposed
+YN	Has the Big Bang significant bearing on religion and philosophy?	Yes
+WHAT	What was split between these two theories?	support was split between these two theories
+YN	Is the Big Bang not an explosion in space?	Yes
+WHAT	What is also an area of intense interest for scientists?	Dark energy is also an area of intense interest for scientists
+WHAT	What have been aging and evolving?	stars have been aging and evolving
+WHAT	What expands much more rapidly than previously assumed?	the particle horizon expands much more rapidly than previously assumed
+YN	Gottfried Wilhelm Leibniz wrote: "Why is there something rather than nothing?	Yes
+WHAT	What is still poorly understood and an area of open investigation and speculation?	the Big Bang expansion is still poorly understood and an area of open investigation and speculation
+WHAT	What led to a small excess of baryons over antibaryons?	antiquarks led to a small excess of baryons over antibaryons
+YN	Did build upon the equations of classical general relativity?	Yes
+WHAT	What called baryogenesis was hypothesized to account for the asymmetry?	A process called baryogenesis was hypothesized to account for the asymmetry
+WHAT	What is problematic in this regard?	the CMB is problematic in this regard
+WHAT	What have no heavy elements?	gas have no heavy elements
+WHAT	What occur in the Standard Model?	All these conditions occur in the Standard Model
+WHAT	What is also resolved by cosmic inflation?	This problem is also resolved by cosmic inflation
+WHAT	What is explainable only if the universe is experiencing a metric expansion?	years is explainable only if the universe is experiencing a metric expansion
+WHAT	What preferred an eternal steady state universe?	1930s almost every major cosmologist preferred an eternal steady state universe
+YN	Was the latter model the Big Bang preceded by a Big Crunch and the universe cycles from one process to the other?	Yes
+WHAT	What requires the relation v = HD to hold at all times?	The theory requires the relation v = HD to hold at all times
+WHAT	What is described?	Big Bang is described
+WHAT	What produced by the Big Bang were hydrogen?	atoms produced by the Big Bang were hydrogen
+WHAT	What offers a comprehensive explanation for a broad range of observed phenomena?	The Big Bang theory offers a comprehensive explanation for a broad range of observed phenomena
+WHO	Who has significant bearing on religion and philosophy?	the Big Bang has significant bearing on religion and philosophy
+WHAT	What was very young?	When the universe was very young
+WHAT	What showed that these systems were indeed other galaxies?	the great distance to the nearest spiral nebulae showed that these systems were indeed other galaxies
+WHAT	What is homogeneous and isotropic?	large scales the universe is homogeneous and isotropic
