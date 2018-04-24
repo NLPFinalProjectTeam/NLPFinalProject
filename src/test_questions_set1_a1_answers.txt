@@ -1,0 +1,22 @@
+
+Questions are hand-crafted, they are reasonble and somehow hard to answer. 
+
+
+Correct	Yes
+Correct	Dempsey was named to the US roster for the 2006 World Cup in Germany
+Correct	Yes
+Correct	No
+Correct	On August 13, 2009, Dempsey signed a contract extension to remain with Fulham through 2013.
+TotallyOffTopic	He has also played for New England Revolution, Fulham and Tottenham Hotspur.
+Correct	Bethany Keegan Dempsey
+Correct	four
+TotallyOffTopic	Several parents of his teammates with the Texans offered to assist the Dempseys with expenses and travel, allowing him to rejoin the club.
+Correct	September 7
+Correct	Dempsey was born in Nacogdoches, Texas, and, for much of his childhood, his family lived in a trailer park, where he and his siblings grew up playing soccer with Hispanic immigrants.
+Wrong	No
+Correct	He came on as a substitute in the MLS Cup Final, but the Revolution lost their second straight final, this time in a penalty shoot-out (largely because Dempsey opted out of the PK, and it ended up scuffed off Jay Heaps' foot instead).
+Wrong	three
+TotallyOffTopic	Several parents of his teammates with the Texans offered to assist the Dempseys with expenses and travel, allowing him to rejoin the club.
+
+
+10 / 15 Correct
