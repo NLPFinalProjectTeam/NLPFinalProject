@@ -1,5 +1,9 @@
 A simple indexer.
 
+I write this code for my Capstone project. Some other member of my capstone team might also use this code for NLP.
+
+As you can see, this code is really simple. Almost an API.
+
 
 USAGE:
   compile: javac -Xlint -cp ".:lucene-6.6.0/*" -g *.java
