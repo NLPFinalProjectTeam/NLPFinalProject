@@ -205,7 +205,8 @@ def get_answer_who(sent, question, stanford):
     if len(persons) > 0:
         return persons[0]
     
-    return naive_method(sent, question)
+    return sent
+    #return naive_method(sent, question)
 
 def get_answer_where(sent, question, stanford):
 
