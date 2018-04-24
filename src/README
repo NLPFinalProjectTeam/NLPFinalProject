@@ -18,3 +18,22 @@ Not recommended way:
 
   If the data is ./a1.txt
   Run: $python answer.py a1.txt question.txt
+
+
+
+
+
+MyIndexer.java and MyRetriever.java
+
+
+A simple indexer and retriever based on Lucene-6.6.0.
+
+I write this code for my Capstone project. Some other member of my capstone team might also use this code for NLP.
+
+As you can see, this code is really simple. Almost an API.
+
+
+USAGE:
+  compile: javac -Xlint -cp ".:lucene-6.6.0/*" -g *.java
+  run:     java -cp ".:lucene-6.6.0/*" MyIndexer documentDirectoryName destinationIndexDirectory
+           java -cp ".:lucene-6.6.0/*" MyRetriever queryfile indexDirectory hitsPerPage
