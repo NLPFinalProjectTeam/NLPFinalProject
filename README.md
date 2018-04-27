@@ -4,10 +4,36 @@ This project is based on Python2(asking) and Python3(answering), implemented bas
 
 # Instructions
 
+1. Usage:
+$cd src    
+./ask article.txt num_questions   
+./answer article.txt questions.txt  [NOT RECOMMENDED]
+
+For answering, it is recommanded to put data in ./data [See section 2]
+
+Recommended way: in src folder
+
+python answer.py set1/a1.txt question_file
+
+2. Path and directory:
+
+Recommended way of running:
+
+  If the data is  ../data/set1/a1.txt
+  Run:  $./ask set1/a1.txt 30
+  Run:  $python answer.py set1/a1.txt question.txt
+
+  For hidden test data, just create ../data/set5/ and put data in it. It will run properly
 
 
+Not recommended way:
 
-To run our program you need to make sure you've installed stanford corenlp and Pattern package.
+  If the data is ./a1.txt
+  Run: $python answer.py a1.txt question.txt
+
+
+3. Environment setup:
+To run our program, you need to make sure you've installed stanford corenlp and Pattern package.
 This project is based on both Python2 and Python3, so make sure you have both python versions installed.
 And the java version should be 8, if your system's java version is 9+, please downgrade your version, or replace the corenlp.py in our installed package by the corenlp.py in this repo.  
 
@@ -23,41 +49,23 @@ nlp=StanfordCoreNLP("the_path_you_put_your_stanford_corenlp_+stanford-corenlp-fu
 
 Detailed insturction can be referred at https://github.com/Lynten/stanford-corenlp.    
 
-Here you go! Now you can try the following command.  
+The program will connect to "http://localhost:9000" for Stanford CoreNLP service, so we MUST START STANFORD CORE-NLP LOCAL SERVER before using our ask and answer modules.
 
-1. Usage:
-$cd src    
-./ask article.txt num_questions   
-./answer article.txt questions.txt  [NOT RECOMMENDED]
+# Additional dependencies for Answering
 
-For answering, it is recommanded to put data in ./data
+Answering:
 
-For details, SEE README in src folder. [MUST SEE!!]
-
-Recommended way: in src folder
-
-python answer.py set1/a1.txt question_file
+MyIndexer.java and MyRetriever.java
 
 
-The valid files are ask.py and answer.py.
+A simple indexer and retriever based on Lucene-6.6.0.
+
+I write this code for my Capstone project. Some other member of my capstone team might also use this code for NLP.
+
+As you can see, this code is really simple. Almost an API.
 
 
-2. Path and directory:
-questions.txt and article.txt must be put in the same directory as the ask and answer file.
-
-Not necessary for answering. [Details see README in src, MUST SEE!!]
-
-
-
-
-# Instructions for Answering (Different from asking)
-
-
-MUST START STANFORD CORE-NLP LOCAL SERVER!!!!!!
-
-The program will connect to "http://localhost:9000" for Stanford CoreNLP service.
-
-
-Put data as data/set(x)/a(y).txt;
-$ cd src
-$ python3 answer.py set1/a1.txt questions.txt
+USAGE:
+  compile: javac -Xlint -cp ".:lucene-6.6.0/*" -g *.java
+  run:     java -cp ".:lucene-6.6.0/*" MyIndexer documentDirectoryName destinationIndexDirectory
+           java -cp ".:lucene-6.6.0/*" MyRetriever queryfile indexDirectory hitsPerPage
