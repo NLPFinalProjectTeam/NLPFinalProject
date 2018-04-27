@@ -26,7 +26,7 @@ import math
 # no questions rules
 
 word_lem = WordNetLemmatizer()
-nlp = StanfordCoreNLP(r'/Users/lazy/Documents/cmu/11611/stanfordNLP/stanford-corenlp-full-2018-02-27')
+nlp = StanfordCoreNLP(r'http://localhost',port=9000)
 
 
 # nlp=StanfordCoreNLP(r'/Users/lazy/Documents/cmu/11611/stanfordNLP/stanford-corenlp-full-2018-02-27',quiet=False, logging_level=logging.DEBUG)
@@ -758,7 +758,7 @@ def main():
     questions = get_questions_from_sentences(sentences_in_paragraphs,
                                              [sentence_to_whquestions, sentences_to_yesnoquestions])
 
-    nlp.close()
+    #nlp.close(), ??? seems that we cannot close it
 
     if verbose:
         print(questions)
