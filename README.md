@@ -15,7 +15,7 @@ And the java version should be 8, if your system's java version is 9+, please do
 To successfully run stanford corenlp, please first download stanford corenlp from the link https://stanfordnlp.github.io/CoreNLP/. Put it in directory you like.  
 Then in order to run it in Python environment, please install the following package which wrap the stanford corenlp server: 
 
-pip install stanfordcorenlp .   
+pip install stanfordcorenlp   
 
 After you successfully install it, you can use it by declaring like: 
 
