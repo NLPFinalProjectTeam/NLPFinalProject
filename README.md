@@ -62,3 +62,12 @@ The valid files are ask.py and answer.py.
 questions.txt and article.txt must be put in the same directory as the ask and answer file.
 
 Not necessary for answering. [Details see README in src, MUST SEE!!]
+
+
+
+
+# Instructions for Answering (Different from asking)
+
+Put data as data/set(x)/a(y).txt;
+$ cd src
+$ python3 answer.py set1/a1.txt questions.txt
