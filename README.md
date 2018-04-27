@@ -1,6 +1,6 @@
 # NLPFinalProject
 
-This project is based on Python3, implemented basic question generation and question answering. For question answering we currently support Yes/No, what and who question implemented by NLTK's NER and POS, we'll use stanford NLP to generate more accurate and various question types with reference resolution in our next stage (this project already includes a standford NLP basic method). For question answering currently we simply match the questions with answers that are already generated regarding that article by the number of overlapping words. If no match is found, then the article's title is returned as the default answer. We'll implement information retrieval method (cosine similarity by word2vec to achieve sentence-level retrieval).
+This project is based on Python3, implemented basic question generation and question answering. For question answering we currently support Yes/No, what, who, where, when, how, whom, why question implemented by stanford corenlp. Becuase the package we're using for reference resolution uses a deterministic method and after we experimented with it, the accuracy is just unsatisfying so that we don't support coreference resolution currently. For question answering, we???.
 
 # Instructions
 
@@ -8,6 +8,36 @@ This project is based on Python3, implemented basic question generation and ques
 MUST START STANFORD CORE-NLP LOCAL SERVER!!!!!!
 
 
+To run our program you need to make sure you've installed stanford corenlp and Pattern package.
+This project is based on Python3, so make sure you python version is correct first.
+And the java version should be 8, if your system's java version is 9+, please downgrade your version, or replace the corenlp.py in our installed package by the corenlp.py in this repo.  
+
+To successfully run stanford corenlp, please first download stanford corenlp from the link https://stanfordnlp.github.io/CoreNLP/. Put it in directory you like. 
+Then in order to run it in Python environment, please install the following package which wrap the stanford corenlp server:  
+pip install stanfordcorenlp .  
+After you successfully install it, you can use it by declaring like:
+
+from stanfordcorenlp import StanfordCoreNLP
+nlp=StanfordCoreNLP("the_path_you_put_your_stanford_corenlp_+stanford-corenlp-full-2018-02-27")
+
+Detailed insturction can be referred at https://github.com/Lynten/stanford-corenlp. 
+
+In order to successfully install Pattern in Python 3 (currently the stable version only support python 2), please use the following command:
+
+git clone https://github.com/clips/pattern
+cd pattern
+git fetch
+git checkout development
+pip install mysqlclient
+python setup.py install
+
+Then you can successfully use it like:  
+
+from pattern.en import conjugate, lemma, lexeme,PRESENT,SG
+print (lemma('gave'))
+print (lexeme('gave'))
+
+Here you go! Now you can try the following command.
 
 1. Usage:
 $cd src    
