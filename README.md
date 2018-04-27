@@ -12,32 +12,32 @@ To run our program you need to make sure you've installed stanford corenlp and P
 This project is based on Python3, so make sure you python version is correct first.
 And the java version should be 8, if your system's java version is 9+, please downgrade your version, or replace the corenlp.py in our installed package by the corenlp.py in this repo.  
 
-To successfully run stanford corenlp, please first download stanford corenlp from the link https://stanfordnlp.github.io/CoreNLP/. Put it in directory you like. 
+To successfully run stanford corenlp, please first download stanford corenlp from the link https://stanfordnlp.github.io/CoreNLP/. Put it in directory you like.  
 Then in order to run it in Python environment, please install the following package which wrap the stanford corenlp server:  
 pip install stanfordcorenlp .  
 After you successfully install it, you can use it by declaring like:
 
-from stanfordcorenlp import StanfordCoreNLP
-nlp=StanfordCoreNLP("the_path_you_put_your_stanford_corenlp_+stanford-corenlp-full-2018-02-27")
+from stanfordcorenlp import StanfordCoreNLP   
+nlp=StanfordCoreNLP("the_path_you_put_your_stanford_corenlp_+stanford-corenlp-full-2018-02-27") 
 
-Detailed insturction can be referred at https://github.com/Lynten/stanford-corenlp. 
+Detailed insturction can be referred at https://github.com/Lynten/stanford-corenlp.  
 
-In order to successfully install Pattern in Python 3 (currently the stable version only support python 2), please use the following command:
+In order to successfully install Pattern in Python 3 (currently the stable version only support python 2), please use the following command: 
 
-git clone https://github.com/clips/pattern
-cd pattern
-git fetch
-git checkout development
-pip install mysqlclient
-python setup.py install
+git clone https://github.com/clips/pattern   
+cd pattern   
+git fetch   
+git checkout development  
+pip install mysqlclient  
+python setup.py install   
 
 Then you can successfully use it like:  
 
-from pattern.en import conjugate, lemma, lexeme,PRESENT,SG
-print (lemma('gave'))
-print (lexeme('gave'))
+from pattern.en import conjugate, lemma, lexeme,PRESENT,SG   
+print (lemma('gave'))   
+print (lexeme('gave'))  
 
-Here you go! Now you can try the following command.
+Here you go! Now you can try the following command.  
 
 1. Usage:
 $cd src    
