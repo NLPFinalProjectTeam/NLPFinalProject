@@ -5,7 +5,6 @@ This project is based on Python3, implemented basic question generation and ques
 # Instructions
 
 
-MUST START STANFORD CORE-NLP LOCAL SERVER!!!!!!
 
 
 To run our program you need to make sure you've installed stanford corenlp and Pattern package.
@@ -62,3 +61,18 @@ The valid files are ask.py and answer.py.
 questions.txt and article.txt must be put in the same directory as the ask and answer file.
 
 Not necessary for answering. [Details see README in src, MUST SEE!!]
+
+
+
+
+# Instructions for Answering (Different from asking)
+
+
+MUST START STANFORD CORE-NLP LOCAL SERVER!!!!!!
+
+The program will connect to "http://localhost:9000" for Stanford CoreNLP service.
+
+
+Put data as data/set(x)/a(y).txt;
+$ cd src
+$ python3 answer.py set1/a1.txt questions.txt
