@@ -51,7 +51,7 @@ def get_type(q):
 		return "WHAT"
 	elif q[0] == "how":
 		return "HOW"
-	elif q[0] == "who":
+	elif q[0] == "who" or q[0] == "whom":
 		return "WHO"
 	elif q[0] in ["is", "was", "are", "were", "am", "does",
 				  "do", "did", "didn't", "isn't", "aren't",
