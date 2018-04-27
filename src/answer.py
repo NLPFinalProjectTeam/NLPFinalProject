@@ -47,24 +47,26 @@ def get_type(q):
 	"""
 	q = q.strip().lower().split()
 
-	if q[0] == "what":
-		return "WHAT"
-	elif q[0] == "how":
-		return "HOW"
-	elif q[0] == "who" or q[0] == "whom":
-		return "WHO"
-	elif q[0] in ["is", "was", "are", "were", "am", "does",
-				  "do", "did", "didn't", "isn't", "aren't",
-				  "weren't", "don't", "wasn't", "had", "have", "hadn't", "haven't", "has", "hasn't"]:
-		return "YN"
-	elif q[0] == "why":
-		return "WHY"
-	elif q[0] == "when":
-		return "WHEN"
-	elif q[0] == "where":
-		return "WHERE"
+	try:
+		if q[0] == "what" or q[1] == "what":
+			return "WHAT"
+		elif q[0] == "how":
+			return "HOW"
+		elif q[0] in ["who", "whom"] or q[1] in ["who", "whom"]:
+			return "WHO"
+		elif q[0] in ["is", "was", "are", "were", "am", "does",
+					  "do", "did", "didn't", "isn't", "aren't",
+					  "weren't", "don't", "wasn't", "had", "have", "hadn't", "haven't", "has", "hasn't"]:
+			return "YN"
+		elif q[0] == "why":
+			return "WHY"
+		elif q[0] == "when":
+			return "WHEN"
+		elif q[0] == "where":
+			return "WHERE"
 
-	return "exception"
+	except:
+		return "exception"
 
 
 
