@@ -121,6 +121,7 @@ def from_retrieve(retrieve_result, question, qtype, stanford):
 		i += 1
 		sent = retrieve_result[i][1]
 
+	answer = None
 	try:
 		if qtype == "YN":
 			answer = get_answer_yn(sent, question, stanford)
